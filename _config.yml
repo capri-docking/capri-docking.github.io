@@ -3,7 +3,7 @@
 
 # Site wide configuration
 
-title:            "CAPRI Assembly Modelling"
+title:            "CAPRI Docking"
 locale:           en_US
 url:              https://capri-docking.github.io
 #url:              http://127.0.0.1:4000
@@ -47,7 +47,7 @@ owner:
   name: Alexandre Bonvin
   avatar: capri.jpg
   bio: "CAPRI communitywide experiment on the comparative evaluation of protein-protein docking for structure prediction"
-  email: a.m.j.j.bonvin@uu.nl
+  email: capri.docking@gmail.com
   google:
     analytics:
     verify:
