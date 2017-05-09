@@ -3,7 +3,7 @@
 
 # Site wide configuration
 
-title:            CAPRI Assembly Modelling
+title:            "CAPRI Assembly Modelling"
 locale:           en_US
 url:              http://capri-docking.github.io
 #url:              http://127.0.0.1:4000
