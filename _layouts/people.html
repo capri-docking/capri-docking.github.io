@@ -27,12 +27,20 @@
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
-<hr />
+
 <div id="main" role="main">
+
   <article class="people">
-    <h3>CAPRI committee members</h3>
+    <b>
+    <li> <a href=#management>CAPRI Management Committee</a>
+    <li> <a href=#evaluation>CAPRI Evaluation Team</a>
+    <li> <a href=#contributors>Structural Biologists who contributed to CAPRI</a>
+    <b/>
+    <hr />
+
+    <h3 id="management">CAPRI Management Committee Members</h3>
     <ul class="rig columns-4">
-        {% for member in site.data.members %}
+        {% for member in site.data.management %}
             <li>
                 {% if member.avatar %}
                     {% assign avatar = member.avatar %}
@@ -48,16 +56,54 @@
                     <img src="{{ avatar }}" />                
                 {% endif %}
                 <h3>{{ member.name }}</h3>
-                <a class='mem-position'>{{ member.position }}</a>
+                <a class='mem-position'>{{ member.institution }}</a>
                 {% if member.bio %}
                     <p class='mem-bio'>{{ member.bio }}</p>                
                 {% endif %}
             </li>
         {% endfor %}
     </ul>
+    <hr />
+    <h3 id="evaluation">CAPRI Evaluation Team</h3>
+    <ul class="rig columns-4">
+        {% for member in site.data.evaluation %}
+            <li>
+                {% if member.avatar %}
+                    {% assign avatar = member.avatar %}
+                {% else %}
+                    {% assign avatar = '/images/people/bio-photo.jpg' %}
+                {% endif %}
+                
+                {% if member.url %}
+                <a href="{{ member.url }}" target="_blank">
+                    <img src="{{ avatar }}" />
+                </a>
+                {% else %}
+                    <img src="{{ avatar }}" />                
+                {% endif %}
+                <h3>{{ member.name }}</h3>
+                <a class='mem-position'>{{ member.institution }}</a>
+                {% if evaluation.bio %}
+                    <p class='mem-bio'>{{ member.bio }}</p>                
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+    <hr />
+
+    <h3 id="contributors">Structural Biologists who contributed to CAPRI</h3>
+ 
+    {% for structbio in site.data.contributors %}
+    <ul>
+        <li>
+           <p>
+            <b>{{ structbio.name }}</b> ({{ structbio.institution }})
+           </p>
+        </li>
+    </ul>
+    {% endfor %}
   </article>
 </div><!-- /#index -->
-<hr />
 
 <div class="footer-wrap">
   <footer>

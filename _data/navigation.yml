@@ -1,16 +1,22 @@
 # Site navigation links
 
+- title: About
+  url: /about/
+
 - title: News
   url: /news/
 
 - title: People
   url: /people/
 
-- title: Publications
-  url: /publications/
-  
+- title: Contribute Targets
+  url: /contribute/
+
 - title: Software
   url: /software/
+  
+- title: Publications
+  url: /publications/
 
 - title: CAPRI Portal
   url: http://www.ebi.ac.uk/msd-srv/capri/capri.html
