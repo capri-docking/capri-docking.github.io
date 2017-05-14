@@ -4,7 +4,7 @@ tags: [Jekyll, CAPRI, Docking, Scoring, Complexes, Assemblies, Protein, Structur
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: pages/banner_home-mini.png
+  feature: pages/banner_publications.png
 ---
 
 * Lensink MF, Velankar S, Wodak SJ. [Modeling protein–protein and protein–peptide complexes: CAPRI 6th edition](http://dx.doi.org/doi:10.1002/prot.25215). _Proteins: Struc. Funct. &amp; Bioinformatics_ *84(3)* 359–377 (2017).
