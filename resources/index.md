@@ -7,14 +7,23 @@ image:
   feature: pages/banner_home-mini.png
 ---
 
-This page provide you links to various software and web server which might be useful for CAPRI predictors.
+This page provide you links to various software tools, databases and web server which might be useful for CAPRI predictors.
+
+#### Table of contents
+{:.no_toc}
+* table of contents
+{:toc}
+
+<br>
 <HR>
 
-### Software
+### Software tools
 
   * [**PDB-tools**](http://github.com/haddocking/pdb-tools):
   A collection of Python scripts for the manipulation (renumbering, changing chain and segIDs...) of PDB files. A contribution from the [BonvinLab](http://bonvinlab.org) (developed by João Rogrigues)
 
+<br>
+<HR>
 
 ### Web portals
 
@@ -26,7 +35,15 @@ This page provide you links to various software and web server which might be us
   * [**Contemplate**](http://bental.tau.ac.il/contemplate/):
   A web portal developed by the XXX's lab that allows you to find alternatte conformations by comparison with homologues in the PDB - can provide a list of template and/or modeled structures.
 
+<br>
+<HR>
 
+### Databases
 
+  * [Protein-protein docking benchmark 5](https://zlab.umassmed.edu/benchmark/)
+
+  * [Protein-protein affinity database 2.0](https://bmm.crick.ac.uk/~bmmadmin/Affinity/)
+
+  * [SKEMPI database of kinetics and energetics of mutant protein interactions](https://life.bsc.es/pid/mutation_database/)
   
 
