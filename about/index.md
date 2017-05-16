@@ -82,7 +82,7 @@ Since its inception, the focus of CAPRI has expanded significantly, to include t
 
 ### Statistics
 
-To this day 38 CAPRI prediction Rounds were completed with a total of 121 targets. Results for Rounds 1-35 were presented at 6 Assessment Meetings, held in 2002, 2004, 2007, 2009, 2013, and 2016 across Europe, and in Israel and five special issues about CAPRI were published in Proteins (See [Publications](/publications/)).
+To this day 38 CAPRI prediction Rounds were completed with a total of 121 targets. Results for Rounds 1-35 were presented at 6 Assessment Meetings, held in 2002, 2004, 2007, 2009, 2013, and 2016 across Europe, and in Israel and six special issues about CAPRI were published in Proteins (See [Publications](/publications/)).
 
 <figure>
     <img src="/images/capri/capri-meetings.png">

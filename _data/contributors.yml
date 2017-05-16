@@ -1,30 +1,124 @@
 
--   name: Chiung-Wen Chang and Bostjan Kobe
+-   name: C.-W. Chang and B. Kobe
     institution: University of Queensland, Brisbane, Australia
- 
--   name: James Keck 
-    institution: University of Wisconsin, USA
- 
--   name: James Hurley
+
+-   name: J. Hurley  
     institution: UC Berkeley, USA
- 
--   name: Remco Sprangers
+
+-   name: R. Sprangers  
     institution: Max Planck Institute for Developmental Biology, Tübingen, Germany
- 
--   name: Song Tan and Robert McGuinty 
+
+-   name: S. Tan  
     institution: Penn State University, USA
 
--   name: Herman van Tilbeurgh and Patrick Minard
-    institution: University Paris-Sud, France
+-   name: R. McGuinty  
+    institution: Penn State University, USA
 
--   name: Titia Sixma
+-   name: T. Sixma  
     institution: Netherlands Cancer Institute, Amsterdam, the Netherlands
- 
--   name: Prakash Rucktooa
+
+-   name: P. Rucktooa  
     institution: University of Lille, France
 
--   name: Vincent Villeret and Philippe Delepelaire
+-   name: V. Villeret and Philippe Delepelaire  
     institution: Universities of Lille and Paris-7, France
 
--   name: Colin Kleanthous 
-    institution: Oxford University, UK
+-   name: M. Graille  
+    institution: Université Paris-Sud, Orsay, France
+
+-   name: P. Minard  
+    institution: Université Paris-Sud, Orsay, France
+
+-   name: H. van Tilbeurgh  
+    institution: Université Paris-Sud, Orsay, France
+
+-   name: J.A. Wojdyla  
+    institution: University of York, UK
+
+-   name: C. Kleanthous  
+    institution: University of York, UK
+
+-   name: B. Fox  
+    institution: University of Wisconsin, Madison, Wisconsin, USA
+
+-   name: S. Najmudin  
+    institution: Technical University, Lisbon, Portugal
+
+-   name: A. Basle  
+    institution: Newcastle University, UK
+ 
+-   name: R. Lewis  
+    institution: Newcastle University, UK
+
+-   name: S. Leysen  
+    institution: Catholic University Leuven, Belgium
+
+-   name: Strelkov  
+    institution: Catholic University Leuven, Belgium
+
+-   name: D. Baker  
+    institution: University of Washington Seattle, WA, USA
+
+-   name: S. Fleishman  
+    institution: University of Washington Seattle, WA, USA
+
+-   name: R. Moretti  
+    institution: University of Washington Seattle, WA, USA
+
+-   name: T. Whitehead  
+    institution: University of Washington Seattle, WA, USA
+
+-   name: N. Leulliot  
+    institution: Université Paris-Sud, Orsay, France
+
+-   name: Y. Tong  
+    institution: Structural Genomics Consortium, University of Toronto, Canada
+
+-   name: H. Park  
+    institution: Structural Genomics Consortium, University of Toronto, Canada
+
+-   name: C. Arrowsmith  
+    institution: Structural Genomics Consortium, University of Toronto, Canada
+
+-   name: W. Tempel  
+    institution: Structural Genomics Consortium, University of Toronto, Canada
+
+-   name: M. Buck  
+    institution: Case Western Reserve University, Cleveland, USA
+
+-   name: L. de Maria  
+    institution: Novozymes, Bagsvaerd, Denmark
+
+-   name: L. Renault  
+    institution: LEBS-CNRS, Gif-sur-Yvette, France
+
+-   name: S. Najmudin  
+    institution: University of Lisbon, Portugal
+
+-   name: C. Fontes  
+    institution: University of Lisbon, Portugal
+
+-   name: J. Ménétrey  
+    institution: Institut Curie, Paris, France
+
+-   name: R. Bao  
+    institution: University of Science and Technology of China, Hefei, China
+
+-   name: Y. Chen  
+    institution: University of Science and Technology of China, Hefei, China
+
+-   name: N. Meenan  
+    institution: University of York, United Kingdom
+
+-   name: J. L. Keck  
+    institution: University of Wisconsin, Madison, USA
+
+-   name: T. K. Nielsen  
+    institution: Max Planck Institut, Göttingen, Germany
+
+-   name: L. Renault  
+    institution: LEBS-CNRS, Gif-sur-Yvette, France
+
+-   name: J. Walker  
+    institution: Structural Genomics Consortium, Toronto, Canada
+

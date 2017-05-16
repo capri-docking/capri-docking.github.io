@@ -44,6 +44,8 @@ This page provide you links to various software tools, databases and web server 
 
   * [Protein-protein affinity database 2.0](https://bmm.crick.ac.uk/~bmmadmin/Affinity/)
 
+  * [CAPRI scoring decoys database](http://cb.iri.univ-lille1.fr/Users/lensink/Score_set/)
+
   * [SKEMPI database of kinetics and energetics of mutant protein interactions](https://life.bsc.es/pid/mutation_database/)
   
 
