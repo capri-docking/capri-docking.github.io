@@ -30,10 +30,10 @@ This page provide you links to various software tools, databases and web server 
 #### Conformational changes / sampling
 
   * [**ModFlex**](http://modflex.org/):
-  A web portal developed by the Godzik's lab that provides information about structural changes undergone by the set of homologs in the PDB to a query sequence.
+  A web resource developed by the Godzik's lab that provides information about structural changes undergone by the set of homologs in the PDB to a query sequence. The posted version is an _alpha_ version, which the Godzik group intend to develop further shortly. Any comments and suggestions for improvements will be most welcome and should be sent directly to Adam Godzik ([adam@sbpdiscovery.org](mailto:adam@sbpdiscovery.org)).
 
   * [**Contemplate**](http://bental.tau.ac.il/contemplate/):
-  A web portal developed by the XXX's lab that allows you to find alternatte conformations by comparison with homologues in the PDB - can provide a list of template and/or modeled structures.
+  A web portal developed by the Nir BenTal's group that allows you to find alternate conformations by comparison with homologues in the PDB - can provide a list of template and/or modeled structures.
 
 <br>
 <HR>
