@@ -15,8 +15,9 @@
     avatar: /images/people/Vakser.jpg
 
 -   name: Marc Lensink
-    institution: University of Science and Technology Lille1
-    url: http://univ-lille1.academia.edu/MarcLensink
+    institution: CNRS & University of Lille
+    url: http://ugsf.univ-lille1.fr/Presentation-430
+    avatar: /images/people/Lensink.jpg
 
 -   name: Sameer Velankar
     institution: European Bioinformatics Institute
@@ -36,4 +37,5 @@
 -   name: Zhiping Weng
     institution: University of Massachusetts Medical School
     url: http://www.umassmed.edu/zlab/
+    avatar: /images/people/Weng.jpg
 
