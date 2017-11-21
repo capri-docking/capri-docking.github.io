@@ -22,12 +22,19 @@ This page provide you links to various software tools, databases and web server 
   * [**PDB-tools**](http://github.com/haddocking/pdb-tools):
   A collection of Python scripts for the manipulation (renumbering, changing chain and segIDs...) of PDB files. A contribution from the [BonvinLab](http://bonvinlab.org) (developed by João Rogrigues)
 
+  * [**KPAX**](http://kpax.loria.fr/): A protein structure aligner that calculates pair-wise, multiple, and flexible, structure alignments. Can also be used to search structural databases (e.g. SCOP, CATH, ECOD). Provides several output formats for visualisation in [Hex](http://hex.loria.fr) and [VMD](http://www.ks.uiuc.edu/Research/vmd/), and can be used to generate input scripts for homology modeling by [Modeller](https://salilab.org/modeller/). Kpax was developed by [Dave Ritchie](https://members.loria.fr/DRitchie/).
+
 <br>
 <HR>
 
 ### Web portals
 
-#### Conformational changes / sampling
+  * [**KBDOCK**](http://kbdock.loria.fr/): A protein domain interaction database for studying 3D domain-domain interactions and for proposing homology templates for protein docking. KBDOCK was developed by [Anisah Ghoorah](https://sites.google.com/a/uom.ac.mu/anisah-ghoorah/), a former member of [Dave Ritchie's group](https://members.loria.fr/DRitchie/).
+
+<br>
+<HR>
+
+### Conformational changes / sampling
 
   * [**ModFlex**](http://modflex.org/):
   A web resource developed by the Godzik's lab that provides information about structural changes undergone by the set of homologs in the PDB to a query sequence. The posted version is an _alpha_ version, which the Godzik group intend to develop further shortly. Any comments and suggestions for improvements will be most welcome and should be sent directly to Adam Godzik ([adam@sbpdiscovery.org](mailto:adam@sbpdiscovery.org)).
