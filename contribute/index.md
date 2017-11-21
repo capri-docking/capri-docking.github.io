@@ -42,7 +42,7 @@ CAPRI is interested in targets representing a wide range of complexes (on the CA
 A CAPRI prediction Round usually takes about 4 weeks. These are preceded by an additional week for participant registration. Ideally therefore, target information should be provided to CAPRI just prior to submitting the publication describing the target structure. _Shorter timelines can exceptionally be accommodated as well_.
 
 
-####Target information: instructions for authors.
+#### Target information: instructions for authors.
 
 * Names of the proteins, Uniprot-ID’s and some information about their function
 
