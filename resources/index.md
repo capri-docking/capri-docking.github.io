@@ -17,6 +17,24 @@ This page provide you links to various software tools, databases and web server 
 <br>
 <HR>
 
+### Contributing software and resources to this web site?
+
+Do you want your software / database or web portal to be listed in the resources pages of our CAPRI web site?
+One requirement is that it should be freely accessible to the community (at least for non-profit users).
+
+Interested? Then please send the following information to capri.docking_[at]_gmail.com :
+
+- Name of the software/resource
+- Name of the group providing it (and web link to the group)
+- Short test description of what it does / contains / offers
+- web link to the software/resource
+- Name and email of a contact person in case of problems with the resource (or alternatively web link of a support forum). 
+
+Your request will be subjected to review by the CAPRI committee.
+
+<br>
+<HR>
+
 ### Software tools
 
   * [**PDB-tools**](http://github.com/haddocking/pdb-tools):

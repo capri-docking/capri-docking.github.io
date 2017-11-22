@@ -8,10 +8,13 @@ image:
 ---
 This page provides you information about how a CAPRI prediction round is organised and how to contribute targets to CAPRI.
 
+#### Table of contents
+{:.no_toc}
 * table of contents
 {:toc}
 
-
+<br>
+<HR>
 
 ### The organisation of a CAPRI prediction round
 
@@ -23,11 +26,13 @@ A CAPRI prediction Round is initiated each time a target (or a few targets) beco
 
 Over 50 structural biologists worldwide have offered targets to CAPRI in the past, with some doing so repeatedly (see our [contributors](/people/#contributors)). They have been personally acknowledged and cited in all CAPRI publications describing prediction results. More than once these results have also contributed new insights into the biological function of the corresponding complexes.  We very much hope therefore, that you will join their rank in the future.
 
+<br>
+<HR>
 
 ### Practical aspects: How to contribute a target?
 
 CAPRI target information and any related inquiries should be sent to
-Shoshana Wodak : [shoshana.wodak@gmail.com](mailto:shoshana.wodak@gmail.com)
+Shoshana Wodak : shoshana.wodak_[at]_gmail.com
 
 #### General information:
 
@@ -44,7 +49,7 @@ A CAPRI prediction Round usually takes about 4 weeks. These are preceded by an a
 
 #### Target information: instructions for authors.
 
-* Names of the proteins, Uniprot-ID’s and some information about their function
+* Names of the proteins, Uniprot-IDs and some information about their function
 
 * Provide the amino acid sequences of the constructs used for crystallization of the complex.  If applicable, highlight the tags that have been used for purification and not removed before crystallization; indicate if they interfere with the interaction
 
