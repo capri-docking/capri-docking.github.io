@@ -38,7 +38,9 @@ Your request will be subjected to review by the CAPRI committee.
 ### Software tools
 
   * [**PDB-tools**](http://github.com/haddocking/pdb-tools):
-  A collection of Python scripts for the manipulation (renumbering, changing chain and segIDs...) of PDB files. A contribution from the [BonvinLab](http://bonvinlab.org) (developed by João Rogrigues)
+  A collection of Python scripts for the manipulation (renumbering, changing chain and segIDs...) of PDB files. A contribution from the [BonvinLab](http://bonvinlab.org) (developed by João Rogrigues).
+
+  * [**FCC** - Fraction of common contact clustering](http://github.com/haddocking/fcc): Clustering of biomolecular complexes based on the fraction of common contacts. A contribution from the [BonvinLab](http://bonvinlab.org) (developed by João Rogrigues).
 
   * [**KPAX**](http://kpax.loria.fr/): A protein structure aligner that calculates pair-wise, multiple, and flexible, structure alignments. Can also be used to search structural databases (e.g. SCOP, CATH, ECOD). Provides several output formats for visualisation in [Hex](http://hex.loria.fr) and [VMD](http://www.ks.uiuc.edu/Research/vmd/), and can be used to generate input scripts for homology modeling by [Modeller](https://salilab.org/modeller/). Kpax was developed by [Dave Ritchie](https://members.loria.fr/DRitchie/).
 
@@ -46,6 +48,8 @@ Your request will be subjected to review by the CAPRI committee.
 <HR>
 
 ### Web portals
+
+  * [**HADDOCK**](http://milou.science.uu.nl/services/HADDOCK2.2): HADDOCK (High Ambiguity Driven protein-protein DOCKing) is an information-driven flexible docking approach for the modeling of biomolecular complexes. HADDOCK allows to include information from various sources, e.g. identified or predicted protein interfaces, as restraints to guide the docking process. HADDOCK can deal with a large class of modelling problems including protein-protein, protein-nucleic acids and protein-ligand complexes. A contribution from the [BonvinLab](http://bonvinlab.org). For support, check the [HADDOCK BioExcel forum](http://ask.bioexcel.eu/c/haddock).
 
   * [**KBDOCK**](http://kbdock.loria.fr/): A protein domain interaction database for studying 3D domain-domain interactions and for proposing homology templates for protein docking. KBDOCK was developed by [Anisah Ghoorah](https://sites.google.com/a/uom.ac.mu/anisah-ghoorah/), a former member of [Dave Ritchie's group](https://members.loria.fr/DRitchie/).
 
