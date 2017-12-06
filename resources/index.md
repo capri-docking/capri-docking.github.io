@@ -71,6 +71,49 @@ Your request will be subjected to review by the CAPRI committee.
 <br>
 <HR>
 
+### Performance of docking servers in CAPRI
+
+|                     |      | | | Rank |
+| SERVER              | URL  | 2017 | 2017 | 2016 | 2013 |
+|                     |      | (a) | (b) | (c) | (d) |
+|---------------------|---|:-:|:-:|:-:|:-:|
+| CLUSPRO             | [https://cluspro.bu.edu](https://cluspro.bu.edu) | 2 | 1/1  | 2 | 1 |
+| DOCK/PIERR          | [http://clsb.ices.utexas.edu/web/dock.html](http://clsb.ices.utexas.edu/web/dock.html) | NA  | 6 | 6 | 4# |
+| GALAXYPPDOCK        | [http://galaxy.seoklab.org](http://galaxy.seoklab.org) | NA | 5 | NA | NA |
+| GRAMM-X             | [http://vakser.compbio.ku.edu/resources/gramm/grammx](http://vakser.compbio.ku.edu/resources/gramm/grammx) | 9 | 6 | 4 | 9 |
+| HADDOCK             | [https://haddock.science.uu.nl/services/HADDOCK2.2](https://haddock.science.uu.nl/services/HADDOCK2.2) | 7 | 3/2 | 1 | 2 |
+| HEXSEVER            | [http://hexserver.loria.fr](http://hexserver.loria.fr) | NA | NA | NA | 5 |
+| LZERD               | [http://kiharalab.org/proteindocking/pilzerd.php](http://kiharalab.org/proteindocking/pilzerd.php) | 3 | 2/3 | 5 | 7 |
+| MEGADOCK            | [http://www.bi.cs.titech.ac.jp/megadock](http://www.bi.cs.titech.ac.jp/megadock) | NA | NA/3 | NA | NA |
+| PATCHDOCK/FIBERDOCK | [http://bioinfo3d.cs.tau.ac.il/wk/index.php/Servers_%26_Software](http://bioinfo3d.cs.tau.ac.il/wk/index.php/Servers_%26_Software) | NA | 6 | NA | 9/6** |
+| PYDOCKWEB           | [https://life.bsc.es/servlet/pydock/home](https://life.bsc.es/servlet/pydock/home) |   | 4/1 | NA | NA |
+| SURFIT              | [https://sysimm.ifrec.osaka-u.ac.jp/docking/main](https://sysimm.ifrec.osaka-u.ac.jp/docking/main) | NA | NA | NA | 8 |
+| SWARMDOCK           | [https://bmm.crick.ac.uk/~svc-bmm-swarmdock](https://bmm.crick.ac.uk/~svc-bmm-swarmdock) | 6 | 3/3 | 3 | 3 |
+| TACOS               | [https://zhanglab.ccmb.med.umich.edu/TACOS](https://zhanglab.ccmb.med.umich.edu/TACOS)  | NA | NA | NA | 9 |
+
+  <i># Dock-PIE, an earlier version of Dock-PIERR</i>
+  <br>
+  <i>** The first number is the rank of PATCHDOCK, the second is the rank for FIBERDOCK</i>
+
+
+The two numbers in Column 4, represent the rank for protein-protein docking predictions and for protein-peptide docking prediction respectively. 
+NA, means that no docking predictions were evaluated for the corresponding server in the published assessment.
+
+**References**
+
+  (a) The challenge of modeling protein assemblies: The CASP12-CAPRI experiment. 
+Lensink MF, Velankar S, Baek M, Heo L, Seok C, Wodak SJ. _Proteins._ Advanced Online Publication doi: 10.1002/prot.25419. (2017)
+
+  (b) Modeling protein-protein and protein-peptide complexes: CAPRI 6th edition., Lensink MF, Velankar S, Wodak SJ. _Proteins._ 85:359-3778 (2017)
+
+  (c) Prediction of homoprotein and heteroprotein complexes by proteins docking and template-based modeling: A Casp-CAPRI experiment.Lensink et al. _Proteins._ 84 Suppl 1:323-48 (2016)
+
+  (d) Docking, scoring, and affinity prediction in CAPRI.
+Lensink MF, Wodak SJ. _Proteins._ 81:2082-95 (2013)
+
+<br>
+<HR>
+
 ### Docking servers
 
   * [**HADDOCK**](http://milou.science.uu.nl/services/HADDOCK2.2): HADDOCK (High Ambiguity Driven protein-protein DOCKing) is an information-driven flexible docking approach for the modeling of biomolecular complexes. HADDOCK allows to include information from various sources, e.g. identified or predicted protein interfaces, as restraints to guide the docking process. HADDOCK can deal with a large class of modelling problems including protein-protein, protein-nucleic acids and protein-ligand complexes. A contribution from the [BonvinLab](http://bonvinlab.org). For support, check the [HADDOCK BioExcel forum](http://ask.bioexcel.eu/c/haddock).
