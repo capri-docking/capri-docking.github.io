@@ -73,23 +73,22 @@ Your request will be subjected to review by the CAPRI committee.
 
 ### Performance of docking servers in CAPRI
 
-|                     |      | | | Rank |
-| SERVER              | URL  | 2017 | 2017 | 2016 | 2013 |
-|                     |      | (a) | (b) | (c) | (d) |
-|---------------------|---|:-:|:-:|:-:|:-:|
-| CLUSPRO             | [<span style="color:#267CB9">https://cluspro.bu.edu</span>](https://cluspro.bu.edu) | 2 | 1/1  | 2 | 1 |
-| DOCK/PIERR          | [<span style="color:#267CB9">http://clsb.ices.utexas.edu/web/dock.html</span>](http://clsb.ices.utexas.edu/web/dock.html) | NA  | 6 | 6 | 4# |
-| GALAXYPPDOCK        | [<span style="color:#267CB9">http://galaxy.seoklab.org</span>](http://galaxy.seoklab.org) | NA | 5 | NA | NA |
-| GRAMM-X             | [<span style="color:#267CB9">http://vakser.compbio.ku.edu/resources/gramm/grammx</span>](http://vakser.compbio.ku.edu/resources/gramm/grammx) | 9 | 6 | 4 | 9 |
-| HADDOCK             | [<span style="color:#267CB9">https://haddock.science.uu.nl/services/HADDOCK2.2</span>](https://haddock.science.uu.nl/services/HADDOCK2.2) | 7 | 3/2 | 1 | 2 |
-| HEXSEVER            | [<span style="color:#267CB9">http://hexserver.loria.fr</span>](http://hexserver.loria.fr) | NA | NA | NA | 5 |
-| LZERD               | [<span style="color:#267CB9">http://kiharalab.org/proteindocking/pilzerd.php</span>](http://kiharalab.org/proteindocking/pilzerd.php) | 3 | 2/3 | 5 | 7 |
-| MEGADOCK            | [<span style="color:#267CB9">http://www.bi.cs.titech.ac.jp/megadock</span>](http://www.bi.cs.titech.ac.jp/megadock) | NA | NA/3 | NA | NA |
-| PATCHDOCK/FIBERDOCK | [<span style="color:#267CB9">http://bioinfo3d.cs.tau.ac.il/wk/index.php/Servers_%26_Software</span>](http://bioinfo3d.cs.tau.ac.il/wk/index.php/Servers_%26_Software) | NA | 6 | NA | 9/6** |
-| PYDOCKWEB           | [<span style="color:#267CB9">https://life.bsc.es/servlet/pydock/home</span>](https://life.bsc.es/servlet/pydock/home) |   | 4/1 | NA | NA |
-| SURFIT              | [<span style="color:#267CB9">https://sysimm.ifrec.osaka-u.ac.jp/docking/main</span>](https://sysimm.ifrec.osaka-u.ac.jp/docking/main) | NA | NA | NA | 8 |
-| SWARMDOCK           | [<span style="color:#267CB9">https://bmm.crick.ac.uk/~svc-bmm-swarmdock</span>](https://bmm.crick.ac.uk/~svc-bmm-swarmdock) | 6 | 3/3 | 3 | 3 |
-| TACOS               | [<span style="color:#267CB9">https://zhanglab.ccmb.med.umich.edu/TACOS</span>](https://zhanglab.ccmb.med.umich.edu/TACOS)  | NA | NA | NA | 9 |
+| | | Rank | |
+| SERVER | 2017(a) | 2017(b) | 2016(c) | 2013(d) |
+|:-|:--:|:--:|:--:|:--:|
+| [<span style="color:#267CB9">CLUSPRO</span>](https://cluspro.bu.edu) | 2 | 1/1  | 2 | 1 |
+| [<span style="color:#267CB9">DOCK/PIERR</span>](http://clsb.ices.utexas.edu/web/dock.html) | NA  | 6 | 6 | 4# |
+| [<span style="color:#267CB9">GALAXYPPDOCK</span>](http://galaxy.seoklab.org) | NA | 5 | NA | NA |
+| [<span style="color:#267CB9">GRAMM-X</span>](http://vakser.compbio.ku.edu/resources/gramm/grammx) | 9 | 6 | 4 | 9 |
+| [<span style="color:#267CB9">HADDOCK</span>](https://haddock.science.uu.nl/services/HADDOCK2.2) | 7 | 3/2 | 1 | 2 |
+| [<span style="color:#267CB9">HEXSEVER</span>](http://hexserver.loria.fr) | NA | NA | NA | 5 |
+| [<span style="color:#267CB9">LZERD</span>](http://kiharalab.org/proteindocking/pilzerd.php) | 3 | 2/3 | 5 | 7 |
+| [<span style="color:#267CB9">MEGADOCK</span>](http://www.bi.cs.titech.ac.jp/megadock) | NA | NA/3 | NA | NA |
+| [<span style="color:#267CB9">PATCHDOCK/FIBERDOCK</span>](http://bioinfo3d.cs.tau.ac.il/PatchDock) | NA | 6 | NA | 9/6** |
+| [<span style="color:#267CB9">PYDOCKWEB</span>](https://life.bsc.es/servlet/pydock/home) |   | 4/1 | NA | NA |
+| [<span style="color:#267CB9">SURFIT</span>](https://sysimm.ifrec.osaka-u.ac.jp/docking/main) | NA | NA | NA | 8 |
+| [<span style="color:#267CB9">SWARMDOCK</span>](https://bmm.crick.ac.uk/~svc-bmm-swarmdock) | 6 | 3/3 | 3 | 3 |
+| [<span style="color:#267CB9">TACOS</span>](https://zhanglab.ccmb.med.umich.edu/TACOS)  | NA | NA | NA | 9 |
 
   <i># Dock-PIE, an earlier version of Dock-PIERR</i>
   <br>
