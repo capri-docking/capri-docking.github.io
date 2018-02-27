@@ -158,6 +158,8 @@ Lensink MF, Wodak SJ. _Proteins._ 81:2082-95 (2013)
 
   * [**Protein-protein affinity database 2.0**](https://bmm.crick.ac.uk/~bmmadmin/Affinity/). Contributed by the [Bates](https://www.crick.ac.uk/research/a-z-researchers/researchers-a-c/paul-bates/), [Bonvin](http://bonvinlab.org), Janin and [Zheng](https://www.umassmed.edu/zlab/) labs.
 
+  * [**QSBio**](http://www.weizmann.ac.il/Structural_Biology/faculty_pages/ELevy/downloads/QSbio.html). Dataset of annotated of biological assemblies. Contributes by the [Emmanuel Levi lab](http://www.weizmann.ac.il/Structural_Biology/faculty_pages/ELevy/).
+
   * [**SKEMPI**](https://life.bsc.es/pid/mutation_database/): Database of kinetics and energetics of mutant protein interactions.Contributed by the [Fernandez-Recio lab](https://www.sbu.csic.es/research-groups/protein-interactions-and-docking/).  [Contact](https://life.bsc.es/pid/mutation_database/contact.html)
   
 

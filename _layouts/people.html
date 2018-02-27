@@ -34,6 +34,7 @@
     <b>
     <li> <a href=#management>CAPRI Management Committee</a>
     <li> <a href=#evaluation>CAPRI Evaluation Team</a>
+    <li> <a href=#formerMC>CAPRI Former Management Committee Members</a>
     <li> <a href=#contributors>Structural Biologists who contributed to CAPRI</a>
     </b>
     <hr />
@@ -64,6 +65,7 @@
         {% endfor %}
     </ul>
     <hr />
+
     <h3 id="evaluation">CAPRI Evaluation Team</h3>
     <ul class="rig columns-4">
         {% for member in site.data.evaluation %}
@@ -84,6 +86,33 @@
                 <h3>{{ member.name }}</h3>
                 <a class='mem-position'>{{ member.institution }}</a>
                 {% if evaluation.bio %}
+                    <p class='mem-bio'>{{ member.bio }}</p>                
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+    <hr />
+
+    <h3 id="formerFC">CAPRI Former Management Committee Members</h3>
+    <ul class="rig columns-4">
+        {% for member in site.data.former-management %}
+            <li>
+                {% if member.avatar %}
+                    {% assign avatar = member.avatar %}
+                {% else %}
+                    {% assign avatar = '/images/people/bio-photo.jpg' %}
+                {% endif %}
+                
+                {% if member.url %}
+                <a href="{{ member.url }}" target="_blank">
+                    <img src="{{ avatar }}" />
+                </a>
+                {% else %}
+                    <img src="{{ avatar }}" />                
+                {% endif %}
+                <h3>{{ member.name }}</h3>
+                <a class='mem-position'>{{ member.institution }}</a>
+                {% if member.bio %}
                     <p class='mem-bio'>{{ member.bio }}</p>                
                 {% endif %}
             </li>
