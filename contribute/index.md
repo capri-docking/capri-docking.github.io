@@ -31,8 +31,8 @@ Over 50 structural biologists worldwide have offered targets to CAPRI in the pas
 
 ### Practical aspects: How to contribute a target?
 
-CAPRI target information and any related inquiries should be sent to
-Shoshana Wodak : shoshana.wodak_[at]_gmail.com
+CAPRI target information and any related inquiries should be sent to: targets_[at]_capri-docking.org
+
 
 #### General information:
 
