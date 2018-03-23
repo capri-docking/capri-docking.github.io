@@ -60,6 +60,8 @@ Your request will be subjected to review by the CAPRI committee.
 
   * [**OPRA** : Predicting RNA binding sites in proteins](https://life.bsc.es/pid/opra). Contributed by the [Fernandez-Recio lab](https://www.sbu.csic.es/research-groups/protein-interactions-and-docking/). [Contact](https://life.bsc.es/pid/opra/info/contactus)
 
+  * [**PPI3D** : A web server for searching, analyzing and modeling protein interactions in the context of 3D structures](http://bioinformatics.lt/ppi3d). Contributed by the [Venclovas lab](http://bioinformatics.lt). Contact: [justas.dapkunas@bti.vu.lt](mailto:justas.dapkunas@bti.vu.lt).
+
   * [**PRODIGY** : Prediction of the binding affinity of protein-protein complexes](http://milou.science.uu.nl/services/PRODIGY/). Contributed by the [BonvinLab](http://bonvinlab.org). For support, check the [HADDOCK BioExcel forum](http://ask.bioexcel.eu/c/haddock).
 
   * [**pyDockRescoring** : Scoring docking poses](https://life.bsc.es/pid/pydockrescoring/). Contributed by the [Fernandez-Recio lab](https://www.sbu.csic.es/research-groups/protein-interactions-and-docking/). [Contact](https://life.bsc.es/pid/pydockrescoring/info/contactus)
