@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: events
 title: 2019 CAPRI meeting announcement
 date: 2018-08-13
 excerpt: Reserve the dates for the 7th 2019 CAPRI evaluation meeting - April 3-5, 2019
