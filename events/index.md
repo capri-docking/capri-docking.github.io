@@ -34,24 +34,24 @@ Caroline Lynn Kamerlin (Uppsala University)
 |09:30 - 10:00| Registration |
 | Welcome Address ||
 |10:00 - 10:15| Sameer Velankar (European Bioinformatics Institute) |
-|
-| **Session 1: CAPRI Targets and Evaluation Results**||
-|
+||
+| **Session 1: CAPRI Targets and Evaluation Results**
+||
 | CAPRI Prediction Results ||
 |10:15 - 11:00| Marc Lensink (University of Lille, France) | 
 | The CAPRI-CASP Experiment ||
 |11:00 - 11:45| Shoshana Wodak (Free University of Brussels, Belgium) |
 |11:45 - 13:25| Poster session and lunch |
-|
+||
 | **Session 2: Highlights from CAPRI Prediction Results and Methods I**
-|
+||
 |13:25 - 13:50| Selected abstract talk 1|
 |13:50 - 14:15| Selected abstract talk 2|
 |14:15 - 14:40| Selected abstract talk 3|
 |14:40 - 15:05| Selected abstract talk 4|
-|
+||
 |15:05 - 15:20| Coffee break
-|
+||
 Keynote Lecture I – Title TBC
 15:20 - 16:10 Madan Babu (MRC Laboratory of Molecular Biology)
 
