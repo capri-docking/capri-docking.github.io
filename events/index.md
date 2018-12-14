@@ -22,12 +22,10 @@ We hope to see you all in Hinxton in April!
 
 ## Keynote speakers
 
-Madan Babu (MRC Laboratory of Molecular Biology)|Louise Walport (Francis Crick Institute)
+**Madan Babu (MRC Laboratory of Molecular Biology)**|**Louise Walport (Francis Crick Institute)**
 :-------------------------:|:-------------------------:
 ![](/images/people/madanbabu.jpg)|![](/images/people/LWalport.jpg)
-
-Todd O. Yeates (University of California, Los Angeles)|Caroline Lynn Kamerlin (Uppsala University)
-:-------------------------:|:-------------------------:
+**Todd O. Yeates (University of California, Los Angeles)**|**Caroline Lynn Kamerlin (Uppsala University)**
 ![](/images/people/Yeates.Todd_.jpg)|![](/images/people/lynn.jpeg)
 
 ## Program
