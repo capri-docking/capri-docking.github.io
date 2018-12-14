@@ -12,7 +12,7 @@ image:
 
 # About
 
-Get the latest update on the current status of computational procedures for modeling protein-protein interactions and the association of proteins with other macromolecules from this 7th CAPRI evaluation meeting. For more information - http://www.ebi.ac.uk/msd-srv/capri/
+Get the latest update on the current status of computational procedures for modeling protein-protein interactions and the association of proteins with other macromolecules from this 7th CAPRI evaluation meeting. For more information - <http://www.ebi.ac.uk/msd-srv/capri/>
 
 CAPRI (Critical Assessment of Predicted Interactions) is a community wide experiment designed to test methods for predicting the structure of macromolecular complexes based on the known structure of their components.
 
@@ -224,7 +224,7 @@ Tel: +44 (0)871 984 6101
 
 ## AirBnB
 
-Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodation around the world. Visit http://www.airbnb.com for more information.
+Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodation around the world. Visit <https://www.airbnb.com> for more information.
 
 ## CAPRI Workshop
 
