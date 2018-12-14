@@ -183,27 +183,27 @@ Accomodation is not provided for this event. Attendees are requested to arrange 
 ### Staying on-site (Hinxton)
 If you wish to stay in Hinxton, we recommend using the onsite accommodation - Wellcome Genome Campus Conference Centre. Book early as space is limited.
 
-Hinxton Hall, Wellcome Genome Campus
-Tel: +44(0) 1223 495 000
-Fax: +44(0) 1223 495 114
-conference.reception@wellcomegenomecampus.org
+Hinxton Hall, Wellcome Genome Campus\
+Tel: +44(0) 1223 495 000\
+Fax: +44(0) 1223 495 114\
+<conference.reception@wellcomegenomecampus.org>\
 
 ### Central Cambridge 
 
-Holiday Inn Express Cambridge 
-15-17 Coldhams Park, Cambridge
-Tel: +44 0871 902 1605
-info@expresscambridge.co.uk
+Holiday Inn Express Cambridge \
+15-17 Coldhams Park, Cambridge\
+Tel: +44 0871 902 1605\
+<info@expresscambridge.co.uk>\
 
-ibis Cambridge Central Station
-2 Station Square, Cambridge
-Tel: (+44)1223320960
+ibis Cambridge Central Station\
+2 Station Square, Cambridge\
+Tel: (+44)1223320960\
 
-Travelodge
-Cambridge Leisure Park, Clifton Way, Cambridge
-Tel: +44 (0)871 984 6101
+Travelodge\
+Cambridge Leisure Park, Clifton Way, Cambridge\
+Tel: +44 (0)871 984 6101\
 
 
 ### AirBnB
 
-Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodation around the world. Visit www.airbnb.com for more information.
+Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodation around the world. Visit http://www.airbnb.com for more information.
