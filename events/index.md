@@ -156,8 +156,6 @@ United Kingdom
   
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1226.078267771761!2d0.18646243080366887!3d52.0768802443341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2d3f4822f82326a!2sEMBL-EBI+South+Building+and+ELIXIR+Hub!5e0!3m2!1sen!2suk!4v1544797285235" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-<a itemprop="hasMap" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1226.078267771761!2d0.18646243080366887!3d52.0768802443341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2d3f4822f82326a!2sEMBL-EBI+South+Building+and+ELIXIR+Hub!5e0!3m2!1sen!2suk!4v1544797285235">Get Directions</a>
-
 </div>
 
 <figure>
