@@ -29,17 +29,17 @@ Caroline Lynn Kamerlin (Uppsala University)
 
 ## Program
 
-| Day 1                         |
-|-----  |---------------------  |
-| 09:30 - 10:00 | Registration  |
-|-----  |---------------------  |
-| Welcome Address               |
-| 10:00 - 10:15 | Sameer Velankar (European Bioinformatics Institute)  |
-|-----  |---------------------  |
+| Day 1 |
+|-----|---------------------|
+| 09:30 - 10:00 | Registration |
+|-----|---------------------|
+| Welcome Address |
+| 10:00 - 10:15 | Sameer Velankar (European Bioinformatics Institute) |
+|-----|---------------------|
 | Session 1: CAPRI Targets and Evaluation Results |
-|-----  |---------------------  |
-| CAPRI Prediction Results  |
-| 10:00 - 10:15 | Sameer Velankar (European Bioinformatics Institute)  |
+|-----|---------------------|
+| CAPRI Prediction Results |
+| 10:00 - 10:15 | Sameer Velankar (European Bioinformatics Institute) |
 
 Day 1
 
