@@ -30,7 +30,7 @@ We hope to see you all in Hinxton in April!
 
 **Madan Babu (MRC Laboratory of Molecular Biology)**|**Louise Walport (Francis Crick Institute)**
 :-------------------------:|:-------------------------:
-<img src="/images/people/madanbabu.jpg" alt="drawing" height="330"/>|<img src="/images/people/LWalport.jpg" alt="drawing" height="330"/>
+<img src="/images/people/madanbabu_crop.jpg" alt="drawing" height="330"/>|<img src="/images/people/LWalport.jpg" alt="drawing" height="330"/>
 |||
 **Todd O. Yeates (University of California, Los Angeles)**|**Caroline Lynn Kamerlin (Uppsala University)**
 <img src="/images/people/press_photo_TY.jpg" alt="drawing" height="330"/>|<img src="/images/people/Lynn-Kamerlin.jpg" alt="drawing" height="330"/>
