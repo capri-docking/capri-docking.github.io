@@ -38,13 +38,13 @@ We hope to see you all in Hinxton in April!
 # Program
 
 | Day 1 | |
-|:-----|:----------------------|
+|:----|:----------------------|
 |||
 |09:30 - 10:00| Registration|
 | Welcome Address ||
 |10:00 - 10:15| Sameer Velankar (European Bioinformatics Institute)|
 |||
-| **Session 1: CAPRI Targets and Evaluation Results** ||
+|   **Session 1: CAPRI Targets and Evaluation Results** ||
 |||
 | CAPRI Prediction Results ||
 |10:15 - 11:00| Marc Lensink (University of Lille, France)| 
@@ -52,7 +52,7 @@ We hope to see you all in Hinxton in April!
 |11:00 - 11:45| Shoshana Wodak (Free University of Brussels, Belgium)|
 |11:45 - 13:25| Poster session and lunch |
 |||
-| **Session 2: Highlights from CAPRI Prediction Results and Methods I** ||
+|   **Session 2: Highlights from CAPRI Prediction Results and Methods I** ||
 |||
 |13:25 - 13:50| Selected abstract talk 1|
 |13:50 - 14:15| Selected abstract talk 2|
@@ -64,7 +64,8 @@ We hope to see you all in Hinxton in April!
 | Keynote Lecture I – Title TBC ||
 |15:20 - 16:10| Madan Babu (MRC Laboratory of Molecular Biology)|
 |||
-| **Session 4: Themed session I** ||
+|   **Session 4: Themed session I** ||
+|||
 |16:10 - 16:25| Selected abstract talk 5|
 |16:25 - 16:40| Selected abstract talk 6|
 |16:40 - 16:55| Selected abstract talk 7|
@@ -78,7 +79,7 @@ We hope to see you all in Hinxton in April!
 |||
 |10:20 - 10:50| Coffee break|
 |||
-| **Session 5: Highlights from CAPRI Prediction Results and Methods II** ||
+|   **Session 5: Highlights from CAPRI Prediction Results and Methods II** ||
 |||
 |10:50 - 11:05| Selected abstract talk 8|
 |11:05 - 11:20| Selected abstract talk 9|
@@ -92,7 +93,7 @@ We hope to see you all in Hinxton in April!
 |||
 |14:40 - 15:05| Coffee break|
 |||
-|**Session 7: Themed Session II**||
+|   **Session 7: Themed Session II** ||
 |||
 |15:05 – 15:20| Selected abstract talk 12|
 |15:20 - 15:35| Selected abstract talk 13|
@@ -101,7 +102,7 @@ We hope to see you all in Hinxton in April!
 |||
 |16:05 - 16:30| Coffee break|
 |||
-| **Session 8: Themed Session III** ||
+|   **Session 8: Themed Session III** ||
 |||
 |16:30 - 16:45| Selected abstract talk 16|
 |16:45 - 17:00| Selected abstract talk 17|
@@ -122,7 +123,7 @@ We hope to see you all in Hinxton in April!
 |||
 |10:05 - 10:30| Coffee break|
 |||
-| **Session 9: Themed Session IV** ||
+|   **Session 9: Themed Session IV** ||
 |||
 |10:30 - 10:55| Selected abstract talk 20|
 |10:55 - 11:20| Selected abstract talk 21|
@@ -133,7 +134,7 @@ We hope to see you all in Hinxton in April!
 |Keynote Lecture – Title TBC||
 |13:00 - 13:50| TBC|
 |||
-| **Session 10: Themed Session V** ||
+|   **Session 10: Themed Session V** ||
 |||
 |13:50 - 14:15|  Selected abstract talk 23|
 |14:15 - 14:40|  Selected abstract talk 24|
