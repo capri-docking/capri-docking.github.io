@@ -29,8 +29,8 @@ Caroline Lynn Kamerlin (Uppsala University)
 
 ## Program
 
-| Day1 |  |
-|:--------|:-------|
+| Day1 |  
+|:-----|:----------------------|
 | 09:30 - 10:00   | Registration   |
 |----
 | Welcome Address   |    | 
