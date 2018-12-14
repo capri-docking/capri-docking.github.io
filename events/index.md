@@ -31,7 +31,6 @@ Caroline Lynn Kamerlin (Uppsala University)
 
 | **Day 1** ||
 |:-----|:----------------------|
-||
 |09:30 - 10:00| Registration |
 | Welcome Address ||
 |10:00 - 10:15| Sameer Velankar (European Bioinformatics Institute) |
