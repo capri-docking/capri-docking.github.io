@@ -161,11 +161,11 @@ We hope to see you all in Hinxton in April!
     <a href="/images/capri/EBI_south_exterior.jpg"><img src="/images/capri/EBI_south_exterior.jpg"></a>
 </figure>
 
-European Bioinformatics Institue, EMBL-Outstation
-Wellcome Trust Genome Campus
-Hinxton, Cambridgeshire
-CB10 1SD
-United Kingdom
+  European Bioinformatics Institue, EMBL-Outstation
+  Wellcome Trust Genome Campus
+  Hinxton, Cambridgeshire
+  CB10 1SD
+  United Kingdom
 
 # Registration
 
@@ -173,10 +173,10 @@ Registration for the 7th edition of the CAPRI evaluation meeting in Hinxton is n
 
 The registration fee for participants is set to £260 which includes:
 
-3 days of scientific sessions including coffee-breaks and lunch on Wednesday, Thursday and Friday
-Ongoing access to the poster area
-Certificate of attendance
-Conference dinner
+  3 days of scientific sessions including coffee-breaks and lunch on Wednesday, Thursday and Friday
+  Ongoing access to the poster area
+  Certificate of attendance
+  Conference dinner
 
 
 All participants (excluding keynote speakers) are requested to pay the registration fee. Depending on availability of funds, a contribution towards travel and accommodation expenses will be provided to the selected speakers and plenary lecturers. Speakers will be notified by e-mail regarding the reimbursement policy.
@@ -202,25 +202,25 @@ Accomodation is **not** provided for this event. Attendees are requested to arra
 ## Staying on-site (Hinxton)
 If you wish to stay in Hinxton, we recommend using the onsite accommodation - Wellcome Genome Campus Conference Centre. Book early as space is limited.
 
-Hinxton Hall, Wellcome Genome Campus
-Tel: +44(0) 1223 495 000
-Fax: +44(0) 1223 495 114
-<conference.reception@wellcomegenomecampus.org>
+  Hinxton Hall, Wellcome Genome Campus
+  Tel: +44(0) 1223 495 000
+  Fax: +44(0) 1223 495 114
+  <conference.reception@wellcomegenomecampus.org>
 
 ## Central Cambridge 
 
-Holiday Inn Express Cambridge 
-15-17 Coldhams Park, Cambridge
-Tel: +44 0871 902 1605
-<info@expresscambridge.co.uk>
+  Holiday Inn Express Cambridge 
+  15-17 Coldhams Park, Cambridge
+  Tel: +44 0871 902 1605
+  <info@expresscambridge.co.uk>
 
-ibis Cambridge Central Station
-2 Station Square, Cambridge
-Tel: (+44)1223320960
+  ibis Cambridge Central Station
+  2 Station Square, Cambridge
+  Tel: (+44)1223320960
 
-Travelodge
-Cambridge Leisure Park, Clifton Way, Cambridge
-Tel: +44 (0)871 984 6101
+  Travelodge
+  Cambridge Leisure Park, Clifton Way, Cambridge
+  Tel: +44 (0)871 984 6101
 
 ## AirBnB
 
