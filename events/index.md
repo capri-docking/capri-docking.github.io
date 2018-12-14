@@ -145,10 +145,10 @@ We hope to see you all in Hinxton in April!
 # Venue
 **EMBL-EBI, Hinxton, UK**
 ```
-European Bioinformatics Institue, EMBL-Outstation,\
-Wellcome Trust Genome Campus,\
-Hinxton, Cambridgeshire,\
-CB10 1SD\
+European Bioinformatics Institue, EMBL-Outstation
+Wellcome Trust Genome Campus
+Hinxton, Cambridgeshire
+CB10 1SD
 United Kingdom
 ```
 <iframe src="https://www.google.co.uk/maps/place/EMBL-EBI+South+Building+and+ELIXIR+Hub/@52.0777119,0.186739,19.11z/data=!4m5!3m4!1s0x0:0x2d3f4822f82326a!8m2!3d52.0778551!4d0.1868182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
