@@ -35,7 +35,7 @@ Caroline Lynn Kamerlin (Uppsala University)
 | Welcome Address ||
 |10:00 - 10:15| Sameer Velankar (European Bioinformatics Institute) |
 |
-| **Session 1: CAPRI Targets and Evaluation Results**
+| **Session 1: CAPRI Targets and Evaluation Results**||
 |
 | CAPRI Prediction Results ||
 |10:15 - 11:00| Marc Lensink (University of Lille, France) | 
