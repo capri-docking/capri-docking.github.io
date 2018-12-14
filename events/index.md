@@ -151,7 +151,17 @@ Hinxton, Cambridgeshire
 CB10 1SD
 United Kingdom
 ```
-<iframe src="https://www.google.co.uk/maps/place/EMBL-EBI+South+Building+and+ELIXIR+Hub/@52.0777119,0.186739,19.11z/data=!4m5!3m4!1s0x0:0x2d3f4822f82326a!8m2!3d52.0778551!4d0.1868182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% gmap  params %}
+<div itemscope itemtype="http://schema.org/LocalBusiness">
+
+<iframe src="https://www.google.co.uk/maps/place/EMBL-EBI+South+Building+and+ELIXIR+Hub/@52.0777119,0.186739,19.11z/data=!4m5!3m4!1s0x0:0x2d3f4822f82326a!8m2!3d52.0778551!4d0.1868182" width="400" height="300" 
+
+frameborder="0" style="border:0"></iframe>
+
+<a itemprop="hasMap" href="https://www.google.co.uk/maps/place/EMBL-EBI+South+Building+and+ELIXIR+Hub/@52.0777119,0.186739,19.11z/data=!4m5!3m4!1s0x0:0x2d3f4822f82326a!8m2!3d52.0778551!4d0.1868182">Get Directions</a>
+
+</div>
+
 
 <figure>
     <a href="/images/capri/EBI_south_exterior.jpg"><img src="/images/capri/EBI_south_exterior.jpg"></a>
