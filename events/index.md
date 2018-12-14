@@ -26,6 +26,11 @@ Madan Babu (MRC Laboratory of Molecular Biology)
 Louise Walport (Francis Crick Institute)
 Todd O. Yeates (University of California, Los Angeles)
 Caroline Lynn Kamerlin (Uppsala University)
+<figure class="half">
+    <a href="/images/people/madan babu.jpg"><img src="/images/people/madan babu.jpg"></a>
+    <a href="/images/people/LWalport .jpg"><img src="/images/people/LWalport .jpg"></a>
+    <figcaption>Madan Babu (MRC Laboratory of Molecular Biology) Louise Walport (Francis Crick Institute)</figcaption>
+</figure>
 
 ## Program
 
