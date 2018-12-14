@@ -107,7 +107,7 @@ Caroline Lynn Kamerlin (Uppsala University)
 |||
 |19:45 - 22:00| Conference dinner. Homerton College|
 |||
-| ***Day 3** ||
+| ***Day 3*** ||
 |||
 |Keynote Lecture – Title TBC||
 |09:30 - 10:20| TBC|
