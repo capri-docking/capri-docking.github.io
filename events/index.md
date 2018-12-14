@@ -1,7 +1,7 @@
 ---
 layout: events
-title: 2019 CAPRI meeting announcement
-date: 2018-08-13
+title: 7th CAPRI evaluation meeting
+date: 2019-04-03
 excerpt: Reserve the dates for the 7th 2019 CAPRI evaluation meeting - April 3-5, 2019
 tags: [CAPRI, Assembly Modelling, Docking, Scoring, Complexes, Protein Structure]
 image:
@@ -154,15 +154,15 @@ Registration for the 7th edition of the CAPRI evaluation meeting in Hinxton is n
 
 The registration fee for participants is set to £260 which includes:
 
-3 days of scientific sessions including coffee-breaks and lunch on Wednesday, Thursday and Friday
-Ongoing access to the poster area
-Certificate of attendance
+3 days of scientific sessions including coffee-breaks and lunch on Wednesday, Thursday and Friday\
+Ongoing access to the poster area\
+Certificate of attendance\
 Conference dinner
 
 
 All participants (excluding keynote speakers) are requested to pay the registration fee. Depending on availability of funds, a contribution towards travel and accommodation expenses will be provided to the selected speakers and plenary lecturers. Speakers will be notified by e-mail regarding the reimbursement policy.
 
-Registration fee should be paid no later than 15 February 2019. Late registration after that date will however remain possible.
+Registration fee should be paid no later than **15 February 2019**. Late registration after that date will however remain possible.
 
 Accomodation is not included in the registration fee, but we have listed our recommendations for several hotel options in Cambridge. 
 
@@ -172,13 +172,13 @@ Accomodation is not included in the registration fee, but we have listed our rec
 
 Important guidelines for participants
 
-A one page Abstract should be submitted for both oral and poster presentations. The deadline for Abstract submission is set to February 28 2019. Selected speakers will be notified by March 11 2019. Please email your abstract in Microsoft word format to info@bioexcel.eu.
+A one page Abstract should be submitted for both oral and poster presentations. The deadline for Abstract submission is set to **February 28 2019**. Selected speakers will be notified by **March 11 2019**. Please email your abstract in Microsoft word format to <info@bioexcel.eu>.
 
 Following the tradition of the meeting, the selected speakers will also be invited to contribute to the special issue of Proteins dedicated to CAPRI that will be published late 2019. Participants who apply for a regular talk should thus present work that is publishable and agree to contribute a manuscript for the Proteins special issue.
 
 ## Accomodations
 
-Accomodation is not provided for this event. Attendees are requested to arrange their own if required. It is strongly advised to book accommodation a month in advance as room prices tend to increase substantially closer to the date. 
+Accomodation is **not** provided for this event. Attendees are requested to arrange their own if required. It is strongly advised to book accommodation a month in advance as room prices tend to increase substantially closer to the date. 
 
 ### Staying on-site (Hinxton)
 If you wish to stay in Hinxton, we recommend using the onsite accommodation - Wellcome Genome Campus Conference Centre. Book early as space is limited.
@@ -186,22 +186,22 @@ If you wish to stay in Hinxton, we recommend using the onsite accommodation - We
 Hinxton Hall, Wellcome Genome Campus\
 Tel: +44(0) 1223 495 000\
 Fax: +44(0) 1223 495 114\
-<conference.reception@wellcomegenomecampus.org>\
+<conference.reception@wellcomegenomecampus.org>
 
 ### Central Cambridge 
 
 Holiday Inn Express Cambridge \
 15-17 Coldhams Park, Cambridge\
 Tel: +44 0871 902 1605\
-<info@expresscambridge.co.uk>\
+<info@expresscambridge.co.uk>
 
 ibis Cambridge Central Station\
 2 Station Square, Cambridge\
-Tel: (+44)1223320960\
+Tel: (+44)1223320960
 
 Travelodge\
 Cambridge Leisure Park, Clifton Way, Cambridge\
-Tel: +44 (0)871 984 6101\
+Tel: +44 (0)871 984 6101
 
 
 ### AirBnB
