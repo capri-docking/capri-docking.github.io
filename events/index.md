@@ -8,7 +8,7 @@ image:
   feature:
 ---
 
-## About
+# About
 
 Get the latest update on the current status of computational procedures for modeling protein-protein interactions and the association of proteins with other macromolecules from this 7th CAPRI evaluation meeting. For more information - http://www.ebi.ac.uk/msd-srv/capri/
 
@@ -20,7 +20,7 @@ A hands-on workshop on integrative modeling of protein-protein interactions and 
 
 We hope to see you all in Hinxton in April!
 
-## Keynote speakers
+# Keynote speakers
 
 **Madan Babu (MRC Laboratory of Molecular Biology)**|**Louise Walport (Francis Crick Institute)**
 :-------------------------:|:-------------------------:
@@ -29,7 +29,7 @@ We hope to see you all in Hinxton in April!
 **Todd O. Yeates (University of California, Los Angeles)**|**Caroline Lynn Kamerlin (Uppsala University)**
 ![](/images/people/press_photo_TY.jpg)|![](/images/people/lynn.jpeg)
 
-## Program
+# Program
 
 | Day 1 | |
 |:-----|:----------------------|
@@ -142,13 +142,22 @@ We hope to see you all in Hinxton in April!
 |16:30| Punting tour|
 |||
 
-## Venue
-***EMBL - EBI, Hinxton, UK***
+# Venue
+**EMBL-EBI, Hinxton, UK**
+```
+European Bioinformatics Institue, EMBL-Outstation,\
+Wellcome Trust Genome Campus,\
+Hinxton, Cambridgeshire,\
+CB10 1SD\
+United Kingdom
+```
+<iframe src="https://www.google.co.uk/maps/place/EMBL-EBI+South+Building+and+ELIXIR+Hub/@52.0777119,0.186739,19.11z/data=!4m5!3m4!1s0x0:0x2d3f4822f82326a!8m2!3d52.0778551!4d0.1868182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 <figure>
     <a href="/images/capri/EBI_south_exterior.jpg"><img src="/images/capri/EBI_south_exterior.jpg"></a>
 </figure>
 
-## Registration
+# Registration
 
 Registration for the 7th edition of the CAPRI evaluation meeting in Hinxton is now open.
 
@@ -168,7 +177,7 @@ Accomodation is not included in the registration fee, but we have listed our rec
 
 [ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5687&AppCode=REG&CC=118121116742)
 
-## Abstract Submission
+# Abstract Submission
 
 Important guidelines for participants
 
@@ -176,11 +185,11 @@ A one page Abstract should be submitted for both oral and poster presentations. 
 
 Following the tradition of the meeting, the selected speakers will also be invited to contribute to the special issue of Proteins dedicated to CAPRI that will be published late 2019. Participants who apply for a regular talk should thus present work that is publishable and agree to contribute a manuscript for the Proteins special issue.
 
-## Accomodations
+# Accomodations
 
 Accomodation is **not** provided for this event. Attendees are requested to arrange their own if required. It is strongly advised to book accommodation a month in advance as room prices tend to increase substantially closer to the date. 
 
-### Staying on-site (Hinxton)
+## Staying on-site (Hinxton)
 If you wish to stay in Hinxton, we recommend using the onsite accommodation - Wellcome Genome Campus Conference Centre. Book early as space is limited.
 
 Hinxton Hall, Wellcome Genome Campus\
@@ -188,7 +197,7 @@ Tel: +44(0) 1223 495 000\
 Fax: +44(0) 1223 495 114\
 <conference.reception@wellcomegenomecampus.org>
 
-### Central Cambridge 
+## Central Cambridge 
 
 Holiday Inn Express Cambridge \
 15-17 Coldhams Park, Cambridge\
@@ -204,6 +213,6 @@ Cambridge Leisure Park, Clifton Way, Cambridge\
 Tel: +44 (0)871 984 6101
 
 
-### AirBnB
+## AirBnB
 
 Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodation around the world. Visit http://www.airbnb.com for more information.
