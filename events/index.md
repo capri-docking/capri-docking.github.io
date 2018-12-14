@@ -20,6 +20,12 @@ A hands-on workshop on integrative modeling of protein-protein interactions and 
 
 We hope to see you all in Hinxton in April!
 
+# Sponsors 
+
+![](/images/capri/Bioexcell_logo.png)
+
+![](/images/capri/cecam.jpg)
+
 # Keynote speakers
 
 **Madan Babu (MRC Laboratory of Molecular Biology)**|**Louise Walport (Francis Crick Institute)**
