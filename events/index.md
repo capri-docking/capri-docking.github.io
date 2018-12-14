@@ -29,15 +29,15 @@ Caroline Lynn Kamerlin (Uppsala University)
 
 ## Program
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| Header1 | Header2 |
+|:--------|:-------:|
+| cell1   | cell2   | 
+| cell4   | cell5   | 
 |----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| cell1   | cell2   | 
+| cell4   | cell5   | 
 |=====
-| Foot1   | Foot2   | Foot3
+| Foot1   | Foot2   |
 
 | Day 1 
 |--------|-------|
