@@ -22,7 +22,7 @@ We hope to see you all in Hinxton in April!
 
 # Sponsors 
 
-<img src="/images/capri/Bioexcell_logo.png" alt="drawing" width="450"/>
+<img src="/images/capri/Bioexcell_logo_tag.png" alt="drawing" width="450"/>
 
 <img src="/images/capri/cecam.jpg" alt="drawing" width="450"/>
 
