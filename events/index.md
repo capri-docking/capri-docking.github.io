@@ -141,9 +141,8 @@ Caroline Lynn Kamerlin (Uppsala University)
 |||
 
 ## Venue
-
+***EMBL - EBI, Hinxton, UK***
 <figure>
-    <figcaption>***EMBL - EBI, Hinxton, UK***</figcaption>
     <a href="/images/capri/EBI_south_exterior.jpg"><img src="/images/capri/EBI_south_exterior.jpg"></a>
 </figure>
 
