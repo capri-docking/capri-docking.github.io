@@ -209,10 +209,10 @@ If you wish to stay in Hinxton, we recommend using the onsite accommodation - We
 
 ## Central Cambridge 
 
-  Holiday Inn Express Cambridge 
-  15-17 Coldhams Park, Cambridge
-  Tel: +44 0871 902 1605
-  <info@expresscambridge.co.uk>
+  >Holiday Inn Express Cambridge 
+  >15-17 Coldhams Park, Cambridge
+  >Tel: +44 0871 902 1605
+  ><info@expresscambridge.co.uk>
 
   ibis Cambridge Central Station
   2 Station Square, Cambridge
