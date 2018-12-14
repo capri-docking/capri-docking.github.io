@@ -32,6 +32,10 @@ Caroline Lynn Kamerlin (Uppsala University)
     <figcaption>Madan Babu (MRC Laboratory of Molecular Biology) Louise Walport (Francis Crick Institute)</figcaption>
 </figure>
 
+Todd O. Yeates (University of California, Los Angeles)|Caroline Lynn Kamerlin (Uppsala University)
+:-------------------------:|:-------------------------:
+![](/images/people/Yeates.Todd_.jpg)|![](/images/people/lynn.jpeg)
+
 ## Program
 
 | Day 1 | |
