@@ -225,3 +225,8 @@ Tel: +44 (0)871 984 6101
 ## AirBnB
 
 Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodation around the world. Visit http://www.airbnb.com for more information.
+
+## CAPRI Workshop
+
+We are looking to organize a Hands-on Workshop to take place from Monday, 1st April 2019 to Tuesday, 2nd April 2019. More information to follow soon.
+
