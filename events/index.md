@@ -8,6 +8,8 @@ image:
   feature:
 ---
 
+# April 3-5, 2019
+
 # About
 
 Get the latest update on the current status of computational procedures for modeling protein-protein interactions and the association of proteins with other macromolecules from this 7th CAPRI evaluation meeting. For more information - http://www.ebi.ac.uk/msd-srv/capri/
@@ -15,8 +17,6 @@ Get the latest update on the current status of computational procedures for mode
 CAPRI (Critical Assessment of Predicted Interactions) is a community wide experiment designed to test methods for predicting the structure of macromolecular complexes based on the known structure of their components.
 
 The meeting program will include an overview of the performance of protein docking and scoring procedures obtained for targets evaluated since the spring of 2013. It will also feature several plenary lectures by prominent scientists, as well as talks by the best CAPRI performers, and/or groups developing innovative computational approaches. CAPRI groups selected for oral representations will be notified, once the predictions for all outstanding targets have been completed.
-
-A hands-on workshop on integrative modeling of protein-protein interactions and larger multi-molecular assemblies will be held on prior to the start of the meeting introducing participants to state-of-the-art computational methods and web-servers.
 
 We hope to see you all in Hinxton in April!
 
