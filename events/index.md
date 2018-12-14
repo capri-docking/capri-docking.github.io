@@ -65,7 +65,7 @@ We hope to see you all in Hinxton in April!
 |||
 |18:00 – 20:00| Poster Session and Buffet|
 |||
-| ***Day 2*** ||
+| **Day 2** ||
 |||
 |Keynote Lecture II – Title TBC||
 |09:30 - 10:20| Louise Walport (Francis Crick Institute)|
@@ -109,7 +109,7 @@ We hope to see you all in Hinxton in April!
 |||
 |19:45 - 22:00| Conference dinner. Homerton College|
 |||
-| ***Day 3*** ||
+| **Day 3** ||
 |||
 |Keynote Lecture – Title TBC||
 |09:30 - 10:20| TBC|
