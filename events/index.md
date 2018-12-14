@@ -31,6 +31,7 @@ Caroline Lynn Kamerlin (Uppsala University)
 
 | Day 1 | |
 |:-----|:----------------------|
+|||
 |09:30 - 10:00| Registration|
 | Welcome Address ||
 |10:00 - 10:15| Sameer Velankar (European Bioinformatics Institute)|
@@ -51,96 +52,93 @@ Caroline Lynn Kamerlin (Uppsala University)
 |14:40 - 15:05| Selected abstract talk 4|
 |||
 |15:05 - 15:20| Coffee break|
-
-
-Keynote Lecture I – Title TBC
-15:20 - 16:10 Madan Babu (MRC Laboratory of Molecular Biology)
-
-Session 4: Themed session I
-
-16:10 - 16:25 Selected abstract talk 5
-16:25 - 16:40 Selected abstract talk 6
-16:40 - 16:55 Selected abstract talk 7
-
-Poster Session and Buffet
-18:00 – 20:00
-
-Day 2
-
-Keynote Lecture II – Title TBC
-09:30 - 10:20 Louise Walport (Francis Crick Institute)
-
-10:20 - 10:50 Coffee break
-
-Session 5: Highlights from CAPRI Prediction Results and Methods II
-
-10:50 - 11:05  Selected abstract talk 8
-11:05 - 11:20  Selected abstract talk 9
-11:20 - 11:35  Selected abstract talk 10
-11:35 - 11:50  Selected abstract talk 11
-
-11:50 - 14:00 Poster session and lunch
-
-Keynote Lecture III – Title TBC
-14:00 - 14:50 Todd O. Yeates (University of California, Los Angeles)
-
-14:40 - 15:05 Coffee break
-
-Session 7: Themed Session II
-
-15:05 – 15:20 Selected abstract talk 12
-15:20 - 15:35  Selected abstract talk 13
-15:35 - 15:50  Selected abstract talk 14
-15:50 - 16:05  Selected abstract talk 15
-
-16:05 - 16:30 Coffee break
-
-Session 8: Themed Session III
-
-16:30 - 16:45  Selected abstract talk 16
-16:45 - 17:00  Selected abstract talk 17
-17:00 - 17:15  Selected abstract talk 18
-17:15 - 17:30 Selected abstract talk 19
-
-Round Table Discussion - 17:30 - 19:00 The Future Protein Complex Modelling and CAPRI
-
-Moderator: TBC
-
-19:45 - 22:00 Conference dinner. Homerton College
-
-Day 3
-
-Keynote Lecture – Title TBC
-09:30 - 10:20 TBC
-
-
-10:05 - 10:30 Coffee break
-
-Session 9: Themed Session IV
-
-10:30 - 10:55  Selected abstract talk 20
-10:55 - 11:20  Selected abstract talk 21
-11:20 - 11:45  Selected abstract talk 22
-
-11:45 - 13:00 Lunch
-
-Keynote Lecture – Title TBC
-13:00 - 13:50 TBC
-
-Session 10: Themed Session V
-
-13:50 - 14:15  Selected abstract talk 23
-14:15 - 14:40  Selected abstract talk 24
-14:40 - 15:05  Selected abstract talk 25
-
-15:05 - 15:20 Meeting closing remarks
-
-15:20 - 15:40 Coffee break
-
-15:40 Shuttle to Cambridge
-
-16:30 Punting tour
-
+|||
+| Keynote Lecture I – Title TBC ||
+|15:20 - 16:10| Madan Babu (MRC Laboratory of Molecular Biology)|
+|||
+| **Session 4: Themed session I** ||
+|16:10 - 16:25| Selected abstract talk 5|
+|16:25 - 16:40| Selected abstract talk 6|
+|16:40 - 16:55| Selected abstract talk 7|
+|||
+|18:00 – 20:00| Poster Session and Buffet|
+|||
+| ***Day 2*** ||
+|||
+|Keynote Lecture II – Title TBC||
+|09:30 - 10:20| Louise Walport (Francis Crick Institute)|
+|||
+|10:20 - 10:50| Coffee break|
+|||
+| **Session 5: Highlights from CAPRI Prediction Results and Methods II** ||
+|||
+|10:50 - 11:05| Selected abstract talk 8|
+|11:05 - 11:20| Selected abstract talk 9|
+|11:20 - 11:35| Selected abstract talk 10|
+|11:35 - 11:50| Selected abstract talk 11|
+|||
+|11:50 - 14:00| Poster session and lunch|
+|||
+|Keynote Lecture III – Title TBC||
+|14:00 - 14:50| Todd O. Yeates (University of California, Los Angeles)|
+|||
+|14:40 - 15:05| Coffee break|
+|||
+|**Session 7: Themed Session II**||
+|||
+|15:05 – 15:20| Selected abstract talk 12|
+|15:20 - 15:35| Selected abstract talk 13|
+|15:35 - 15:50| Selected abstract talk 14|
+|15:50 - 16:05| Selected abstract talk 15|
+|||
+|16:05 - 16:30| Coffee break|
+|||
+| **Session 8: Themed Session III** ||
+|||
+|16:30 - 16:45| Selected abstract talk 16|
+|16:45 - 17:00| Selected abstract talk 17|
+|17:00 - 17:15| Selected abstract talk 18|
+|17:15 - 17:30| Selected abstract talk 19|
+|||
+|Round Table Discussion||
+|17:30 - 19:00| The Future Protein Complex Modelling and CAPRI|
+|||
+|Moderator: TBC|
+|||
+|19:45 - 22:00| Conference dinner. Homerton College|
+|||
+| ***Day 3** ||
+|||
+|Keynote Lecture – Title TBC||
+|09:30 - 10:20| TBC|
+|||
+|10:05 - 10:30| Coffee break|
+|||
+| **Session 9: Themed Session IV** ||
+|||
+|10:30 - 10:55| Selected abstract talk 20|
+|10:55 - 11:20| Selected abstract talk 21|
+|11:20 - 11:45| Selected abstract talk 22|
+|||
+|11:45 - 13:00| Lunch|
+|||
+|Keynote Lecture – Title TBC||
+|13:00 - 13:50| TBC|
+|||
+| **Session 10: Themed Session V** ||
+|||
+|13:50 - 14:15|  Selected abstract talk 23|
+|14:15 - 14:40|  Selected abstract talk 24|
+|14:40 - 15:05|  Selected abstract talk 25|
+|||
+|15:05 - 15:20| Meeting closing remarks|
+|||
+|15:20 - 15:40| Coffee break|
+|||
+|15:40| Shuttle to Cambridge|
+|||
+|16:30| Punting tour|
+|||
 
 ## Venue
 
