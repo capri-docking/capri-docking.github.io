@@ -8,7 +8,7 @@ image:
   feature:
 ---
 
-# April 3-5, 2019
+# EMBL-EBI, Hinxton, UK, April 3-5, 2019
 
 # About
 
@@ -184,7 +184,7 @@ All participants (excluding keynote speakers) are requested to pay the registrat
 
 Registration fee should be paid no later than **15 February 2019**. Late registration after that date will however remain possible.
 
-Accomodation is not included in the registration fee, but we have listed our recommendations for several hotel options in Cambridge. 
+Accommodation is not included in the registration fee, but we have listed our recommendations for several hotel options in Cambridge. 
 
 [ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5687&AppCode=REG&CC=118121116742)
 
@@ -196,9 +196,9 @@ A one page Abstract should be submitted for both oral and poster presentations. 
 
 Following the tradition of the meeting, the selected speakers will also be invited to contribute to the special issue of Proteins dedicated to CAPRI that will be published late 2019. Participants who apply for a regular talk should thus present work that is publishable and agree to contribute a manuscript for the Proteins special issue.
 
-# Accomodations
+# Accommodations
 
-Accomodation is **not** provided for this event. Attendees are requested to arrange their own if required. It is strongly advised to book accommodation a month in advance as room prices tend to increase substantially closer to the date. 
+Accommodation is **not** provided for this event. Attendees are requested to arrange their own if required. It is strongly advised to book accommodation a month in advance as room prices tend to increase substantially closer to the date. 
 
 ## Staying on-site (Hinxton)
 If you wish to stay in Hinxton, we recommend using the onsite accommodation - Wellcome Genome Campus Conference Centre. Book early as space is limited.
