@@ -70,13 +70,13 @@ Since its inception, the focus of CAPRI has expanded significantly, to include t
   
 
 2. __Prediction of protein-protein binding affinities:__
-* [Fleishman et al. (2011)](http://dx.doi.org/doi:10.1016/j.jmb.2011.09.031)
-* [Moretti et al. (2013)](http://dx.doi.org/doi:10.1002/prot.24356)
+* [Fleishman et al. (2011)](http://doi.org/doi:10.1016/j.jmb.2011.09.031)
+* [Moretti et al. (2013)](http://doi.org/doi:10.1002/prot.24356)
   
 
 3. __Modeling positions of interface water molecules:__
-* [Lensink et al. (2014)](http://dx.doi.org/doi:10.1002/prot.24439)
-* [Lensink et al. (2017)](http://dx.doi.org/doi:10.1002/prot.25215)
+* [Lensink et al. (2014)](http://doi.org/doi:10.1002/prot.24439)
+* [Lensink et al. (2017)](http://doi.org/doi:10.1002/prot.25215)
 
 <br>
 
