@@ -81,6 +81,9 @@ img.grayscale {
   border-style: solid !important;
   border-color: $primary;
   @include rounded(3px);
+  width: 100% !important;
+  overflow: auto !important;
+  border-bottom: 0px !important;
 }
 
 .prompt-attention {
