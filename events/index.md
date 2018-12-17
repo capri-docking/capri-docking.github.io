@@ -47,6 +47,7 @@ We hope to see you all in Hinxton in April!
 
 ## Day 1
 
+|08:30| Coach from Cambridge| 
 |09:30 - 10:00| Registration|
 |||
 | **Welcome Address** ||
@@ -78,11 +79,12 @@ We hope to see you all in Hinxton in April!
 |16:25 - 16:40| Selected abstract talk 6|
 |16:40 - 16:55| Selected abstract talk 7|
 |||
-|18:00 – 20:00| **Poster Session and Buffet** |
+|17:30 – 20:00| **Poster Session and Buffet** |
 |||
 
 ## Day 2
 
+|08:30| Coach from Cambridge| 
 | **Keynote Lecture II** – Title TBC ||
 |09:30 - 10:20| Louise Walport (Francis Crick Institute)|
 |||
@@ -119,7 +121,7 @@ We hope to see you all in Hinxton in April!
 |17:15 - 17:30| Selected abstract talk 19|
 |||
 | **Round Table Discussion** ||
-|17:30 - 19:00| The Future Protein Complex Modelling and CAPRI|
+|17:30 - 19:00| Modeling protein assemblies and CAPRI, what next?|
 |||
 | Moderator: TBC |
 |||
@@ -127,6 +129,7 @@ We hope to see you all in Hinxton in April!
 
 ## Day 3
 
+|08:30| Coach from Cambridge| 
 | **Keynote Lecture IV** – Title TBC||
 |09:30 - 10:20| TBC|
 |||
@@ -234,8 +237,17 @@ Tel: +44 (0)871 984 6101
 
 Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodation around the world. Visit <https://www.airbnb.com> for more information.
 
+## Coach Service
+
+There will be a free bus service organised to/from the venue in Hinxton to multiple stops in Cambridge. 
+The pick up and drop off points in Cambridge are - Grafton Centre, Cambridge railway station and Mowbray road. Specific details will be sent closer to the date.
+
 <hr>
 # CAPRI Workshop
 
 We are looking to organize a Hands-on Workshop to take place from Monday, 1st April 2019 to Tuesday, 2nd April 2019. More information to follow soon.
 
+<hr>
+# Contact information
+
+Michelle Mendonca  -  mmendonca@ebi.ac.uk  -  +44 (0) 1223 494335
