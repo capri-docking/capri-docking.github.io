@@ -5,7 +5,7 @@ date: 2019-04-03
 excerpt: Reserve the dates for the 7th 2019 CAPRI evaluation meeting - April 3-5, 2019
 tags: [CAPRI, Assembly Modelling, Docking, Scoring, Complexes, Protein Structure]
 image:
-  feature:
+  feature: pages/banner_home.jpg
 ---
 
 # EMBL-EBI, Hinxton, UK, April 3-5, 2019
