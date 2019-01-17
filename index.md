@@ -12,15 +12,15 @@ __CAPRI__ (<b>C</b>ritical <b>A</b>ssessment of <b>PR</b>edicted <b>I</b>nteract
 
 This site is intended to give you general news about CAPRI and for facilitating the sharing of software and useful tools related to CAPRI. 
 
-##Registration for the 7th CAPRI evaluation meeting is now open!
+<h3>Registration for the 7th CAPRI evaluation meeting is now open!</h3>
 
 It will take place at the EMBL/EBI in Hinxton, UK, April 3-5
 
-Next to keynote lectures, as usal talk will be selected from abstract submissions.<br>
+Next to keynote lectures, as usal talks will be selected from abstract submissions.<br>
 *Note that abstracts can be submitted at a later stage after registration.*
 
 <b>Check out the details and register ==> [HERE](/events) <== </b>
-
+<hr>
 
 
 
