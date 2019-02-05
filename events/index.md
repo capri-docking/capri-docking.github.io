@@ -289,7 +289,7 @@ Registrations open soon >>
 <hr>
 # Sponsored by:
 
-<img src="/images/capri/Instruct_Eric Master Logo (1).pdf" alt="drawing" width="450"/> 
+<img src="/images/capri/instruct-eric-logo-noline.png" alt="drawing" width="450"/> 
 
 <hr>
 # Contact information
