@@ -190,14 +190,13 @@ Conference dinner
 
 All participants (excluding keynote speakers) are requested to pay the registration fee. Depending on availability of funds, a contribution towards travel and accommodation expenses will be provided to the selected speakers and plenary lecturers. Speakers will be notified by e-mail regarding the reimbursement policy.
 
-Registration fee should be paid no later than **15 February 2019**. Late registration after that date will however remain possible.
+Registration fee should be paid no later than **28 February 2019**. Late registration after that date will however remain possible.
 
 Accommodation is not included in the registration fee, but we have listed our recommendations for several hotel options in Cambridge. 
 
 [ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5687&AppCode=REG&CC=118121116742)
 
-<hr>
-# Abstract Submission
+## Abstract Submission
 
 Important guidelines for participants
 
