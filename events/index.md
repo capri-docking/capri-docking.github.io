@@ -245,10 +245,11 @@ The pick up and drop off points in Cambridge are - Grafton Centre, Cambridge rai
 <hr>
 # INSTRUCT Workshop
 
-Registration is now open for the Hands-on Workshop. The course will run prior to the 7th CAPRI Assessment Meeting, from the 1st - 2nd April 2019 at EMBL-EBI, Hinxton, UK. 
+Registration to open soon for the Joint INSTRUCT-CAPRI Workshop on Integrated Modelling of Protein-Protein Interactions Workshop. The course will run prior to the 7th CAPRI Assessment Meeting, from the 1st - 2nd April 2019 at EMBL-EBI, Hinxton, UK. 
 
 The course will consist of six sessions followed by a practical component overseen by the lecturer and an additional tutor. During the computer practicals, participants will learn to use and apply the various software with either their own data/structures, or with examples provided by the instructors.
 
+<hr>
 # Registration
 
 Registration is free for participants from INSTRUCT countries and £250 from other countries. Visit the website to find out if you are from a participating INSTRUCT country. <https://www.structuralbiology.eu/content/countries--instruct>
@@ -257,29 +258,30 @@ Please note this accommodation is **not** included in the registration fee.
 
 Registrations open soon >>
 
+<hr>
 # Program
 
-|Introduction to protein-protein docking: sampling and scoring|
+| **Introduction to protein-protein docking: sampling and scoring**|
 |Practical: Flexible docking with SwarmDock|
 |Paul A. Bates, and Raphael A.G. Chaleil, Francis Crick Institute, London, UK|
 |||
-|Introduction to data-driven docking|
+|**Introduction to data-driven docking**|
 |Practical: Integrative docking with HADDOCK|
 |Alexandre M.J.J. Bonvin and Panos Koukos, Bijvoet Center for Biomolecular Research, Utrecht, NL|
 |||
-|Protein structure prediction|
+|**Protein structure prediction**|
 |Practical: Modelling protein structures and variants: Phyre, PhyreRisk, Missense3D and EzMol|
 |Michael J.E. Sternberg, Lawrence Kelley and Charles Tochukwu, Imperial College London, London, UK|
 |||
-|The validation and verification of protein structure|
+|**The validation and verification of protein structure**|
 |Practical: Hands-on assessment of structural quality|
 |Gerard Kleywegt, EMBL European Bioinformatics Institute, Cambridge, UK|
 |||
-|Integrative structure determination of macromolecular assemblies|
+|**Integrative structure determination of macromolecular assemblies**|
 |Practical: Determination of macromolecular structure using Cryo-EM data|
 |Sony Malhotra, Institute of Structural and Molecular Biology, London, UK|
 |||
-|Protein-protein binding affinities|
+|**Protein-protein binding affinities**|
 |Practical: Modelling interaction strength using machine learning|
 |Iain H. Moal, EMBL European Bioinformatics Institute, Cambridge, UK|
 |||
@@ -287,8 +289,9 @@ Registrations open soon >>
 <hr>
 # Sponsored by:
 
-<img src="/images/capri/instruct-eric-logo-noline.jpg" alt="drawing" width="450"/> 
+<img src="/images/capri/instruct-eric-logo-noline.png" alt="drawing" width="450"/> 
 
+<hr>
 # Contact information
 
 Michelle Mendonca  -  mmendonca@ebi.ac.uk  -  +44 (0) 1223 494335
