@@ -254,7 +254,7 @@ The course will consist of six sessions followed by a practical component overse
 
 Registration is free for participants from INSTRUCT countries and £250 from other countries. Visit the website to find out if you are from a participating INSTRUCT country. <https://www.structuralbiology.eu/content/countries--instruct>
 
-Please note this accommodation is **not** included in the registration fee.
+Please note accommodation is **not** included in the registration fee.
 
 Registrations open soon >>
 
