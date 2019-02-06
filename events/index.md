@@ -255,7 +255,7 @@ Registration is free for participants from INSTRUCT countries and £250 from oth
 
 Please note accommodation is **not** included in the registration fee.
 
-Registrations open soon >>
+[ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5701&AppCode=REG&CC=119013114773)
 
 <hr>
 # Program
