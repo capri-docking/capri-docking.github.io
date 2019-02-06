@@ -257,6 +257,8 @@ Please note accommodation is **not** included in the registration fee.
 
 [ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5701&AppCode=REG&CC=119013114773)
 
+Registrations close 8 March 2019.
+
 <hr>
 # Program
 
