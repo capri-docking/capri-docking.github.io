@@ -248,6 +248,9 @@ Registration to open soon for the Joint Instruct-ERIC/CAPRI Workshop on Integrat
 
 The course will consist of six sessions followed by a practical component overseen by the lecturer and an additional tutor. During the computer practicals, participants will learn to use and apply the various software with either their own data/structures, or with examples provided by the instructors.
 
+<img src="/images/capri/instruct-eric-logo-noline.png" alt="drawing" width="150"/> 
+
+
 <hr>
 # Registration
 
@@ -286,11 +289,6 @@ Registrations close 8 March 2019.
 |Practical: Modelling interaction strength using machine learning|
 |Iain H. Moal, EMBL European Bioinformatics Institute, Cambridge, UK|
 |||
-
-<hr>
-# Sponsored by:
-
-<img src="/images/capri/instruct-eric-logo-noline.png" alt="drawing" width="450"/> 
 
 <hr>
 # Contact information
