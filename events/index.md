@@ -242,16 +242,16 @@ There will be a free bus service organised to/from the venue in Hinxton to multi
 The pick up and drop off points in Cambridge are - Grafton Centre, Cambridge railway station and Mowbray road. Specific details will be sent closer to the date.
 
 <hr>
-# INSTRUCT Workshop
+# Instruct-ERIC Workshop
 
-Registration to open soon for the Joint INSTRUCT-CAPRI Workshop on Integrated Modelling of Protein-Protein Interactions Workshop. The course will run prior to the 7th CAPRI Assessment Meeting, from the 1st - 2nd April 2019 at EMBL-EBI, Hinxton, UK. 
+Registration to open soon for the Joint Instruct-ERIC/CAPRI Workshop on Integrated Modelling of Protein-Protein Interactions Workshop. The course will run prior to the 7th CAPRI Assessment Meeting, from the 1st - 2nd April 2019 at EMBL-EBI, Hinxton, UK. 
 
 The course will consist of six sessions followed by a practical component overseen by the lecturer and an additional tutor. During the computer practicals, participants will learn to use and apply the various software with either their own data/structures, or with examples provided by the instructors.
 
 <hr>
 # Registration
 
-Registration is free for participants from INSTRUCT countries and £250 from other countries. Visit the website to find out if you are from a participating INSTRUCT country. <https://www.structuralbiology.eu/content/countries--instruct>
+Registration is free for participants from Instruct-ERIC countries and £250 from other countries. Visit the website to find out if you are from a participating Instruct-ERIC country. <https://instruct-eric.eu/countries>
 
 Please note accommodation is **not** included in the registration fee.
 
