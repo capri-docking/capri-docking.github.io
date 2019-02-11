@@ -244,7 +244,7 @@ The pick up and drop off points in Cambridge are - Grafton Centre, Cambridge rai
 <hr>
 # Instruct-ERIC Workshop
 
-Registration to open soon for the Joint Instruct-ERIC/CAPRI Workshop on Integrated Modelling of Protein-Protein Interactions Workshop. The course will run prior to the 7th CAPRI Assessment Meeting, from the 1st - 2nd April 2019 at EMBL-EBI, Hinxton, UK. 
+Registration now open for the Joint Instruct-ERIC/CAPRI Workshop on Integrated Modelling of Protein-Protein Interactions Workshop. The course will run prior to the 7th CAPRI Assessment Meeting, from the 1st - 2nd April 2019 at EMBL-EBI, Hinxton, UK. 
 
 The course will consist of six sessions followed by a practical component overseen by the lecturer and an additional tutor. During the computer practicals, participants will learn to use and apply the various software with either their own data/structures, or with examples provided by the instructors.
 
