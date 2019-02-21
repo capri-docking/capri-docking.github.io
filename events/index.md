@@ -262,30 +262,50 @@ Registrations close 8 March 2019.
 <hr>
 # Program
 
-| **Introduction to protein-protein docking: sampling and scoring**|
+## Day 1 - 1st April 2019
+|12:00|Registration and Lunch|
+|||
+|13:00 - 15:00| **Introduction to protein-protein docking: sampling and scoring**|
 |Practical: Flexible docking with SwarmDock|
 |Paul A. Bates, and Raphael A.G. Chaleil, Francis Crick Institute, London, UK|
 |||
-|**Introduction to data-driven docking**|
-|Practical: Integrative docking with HADDOCK|
-|Alexandre M.J.J. Bonvin and Panos Koukos, Bijvoet Center for Biomolecular Research, Utrecht, NL|
+|15:00 - 15:30| **Coffee Break**|
 |||
-|**Protein structure prediction**|
-|Practical: Modelling protein structures and variants: Phyre, PhyreRisk, Missense3D and EzMol|
-|Michael J.E. Sternberg, Lawrence Kelley and Charles Tochukwu, Imperial College London, London, UK|
-|||
-|**The validation and verification of protein structure**|
+|15:30 - 17:30|**The validation and verification of protein structure**|
 |Practical: Hands-on assessment of structural quality|
 |Gerard Kleywegt, EMBL European Bioinformatics Institute, Cambridge, UK|
 |||
-|**Integrative structure determination of macromolecular assemblies**|
-|Practical: Determination of macromolecular structure using Cryo-EM data|
-|Sony Malhotra, Institute of Structural and Molecular Biology, London, UK|
+|18:00 - Dinner|
+
+## Day 2 - 2nd April 2019
+
+|09:00 - 11:00| **Introduction to data-driven docking**|
+|Practical: Integrative docking with HADDOCK|
+|Alexandre M.J.J. Bonvin and Panos Koukos, Bijvoet Center for Biomolecular Research, Utrecht, NL|
 |||
-|**Protein-protein binding affinities**|
+|11:00 - 11:15|**Coffee Break**|
+|||
+|11:15 - 13:15|**Protein-protein binding affinities**|
 |Practical: Modelling interaction strength using machine learning|
 |Iain H. Moal, EMBL European Bioinformatics Institute, Cambridge, UK|
 |||
+|13:15 - 14:00|**Lunch**|
+|||
+|14:00 - 16:00|**Protein structure prediction**|
+|Practical: Modelling protein structures and variants: Phyre, PhyreRisk, Missense3D and EzMol|
+|Michael J.E. Sternberg, Lawrence Kelley and Charles Tochukwu, Imperial College London, London, UK|
+|||
+|16:00 - 16:15|**Coffee Break**|
+|||
+|16:15 - 18:15|**Integrative structure determination of macromolecular assemblies**|
+|Practical: Determination of macromolecular structure using Cryo-EM data|
+|Sony Malhotra, Institute of Structural and Molecular Biology, London, UK|
+|||
+
+## Coach Service
+
+There will be a free bus service organised to/from the venue in Hinxton to Cambridge Station. 
+Specific details will be sent closer to the date.
 
 <hr>
 # Sponsored by:
