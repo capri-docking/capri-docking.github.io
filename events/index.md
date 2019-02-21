@@ -272,9 +272,9 @@ Registrations close 8 March 2019.
 |||
 |15:00 - 15:30| Coffee Break|
 |||
-|15:30 - 17:30| The validation and verification of protein structure|
-|| Practical: Hands-on assessment of structural quality|
-|| Gerard Kleywegt, EMBL European Bioinformatics Institute, Cambridge, UK|
+|15:30 - 17:30| Integrative structure determination of macromolecular assemblies|
+|| Practical: Determination of macromolecular structure using Cryo-EM data|
+|| Sony Malhotra, Institute of Structural and Molecular Biology, London, UK|
 |||
 |18:00| Dinner|
 
@@ -298,9 +298,9 @@ Registrations close 8 March 2019.
 |||
 |16:00 - 16:15| Coffee Break|
 |||
-|16:15 - 18:15| Integrative structure determination of macromolecular assemblies|
-|| Practical: Determination of macromolecular structure using Cryo-EM data|
-|| Sony Malhotra, Institute of Structural and Molecular Biology, London, UK|
+|16:15 - 18:15| The validation and verification of protein structure|
+|| Practical: Hands-on assessment of structural quality|
+|| Gerard Kleywegt, EMBL European Bioinformatics Institute, Cambridge, UK
 |||
 
 ## Coach Service
