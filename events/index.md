@@ -263,7 +263,8 @@ Registrations close 8 March 2019.
 # Program
 
 ## Day 1 - 1st April 2019
-|12:00|Registration and Lunch|
+
+|12:00 - 13:00|Registration and Lunch|
 |||
 |13:00 - 15:00| **Introduction to protein-protein docking: sampling and scoring**|
 |Practical: Flexible docking with SwarmDock|
