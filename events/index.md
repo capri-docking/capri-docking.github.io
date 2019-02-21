@@ -276,7 +276,7 @@ Registrations close 8 March 2019.
 || Practical: Hands-on assessment of structural quality|
 || Gerard Kleywegt, EMBL European Bioinformatics Institute, Cambridge, UK|
 |||
-|18:00 - Dinner|
+|18:00| Dinner|
 
 ## Day 2 - 2nd April 2019
 
