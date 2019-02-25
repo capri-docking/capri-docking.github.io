@@ -274,7 +274,7 @@ Registrations close 8 March 2019.
 |||
 |15:30 - 17:30| Integrative structure determination of macromolecular assemblies|
 || Practical: Determination of macromolecular structure using Cryo-EM data|
-|| Sony Malhotra, Institute of Structural and Molecular Biology, London, UK|
+|| Maya Topf and Sony Malhotra, Institute of Structural and Molecular Biology, London, UK|
 |||
 |18:00| Dinner|
 
