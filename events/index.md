@@ -190,7 +190,7 @@ Conference dinner
 
 All participants (excluding keynote speakers) are requested to pay the registration fee. Depending on availability of funds, a contribution towards travel and accommodation expenses will be provided to the selected speakers and plenary lecturers. Speakers will be notified by e-mail regarding the reimbursement policy.
 
-Registration fee should be paid no later than **28 February 2019**. Late registration after that date will however remain possible.
+Registration fee should be paid no later than **3 March 2019**. Late registration after that date will however remain possible.
 
 Accommodation is not included in the registration fee, but we have listed our recommendations for several hotel options in Cambridge. 
 
@@ -200,7 +200,7 @@ Accommodation is not included in the registration fee, but we have listed our re
 
 Important guidelines for participants
 
-A one page Abstract should be submitted for both oral and poster presentations. The deadline for Abstract submission is set to **February 28 2019**. Selected speakers will be notified by **March 11 2019**. Please email your abstract in Microsoft word format to <info@bioexcel.eu>.
+A one page Abstract should be submitted for both oral and poster presentations. The deadline for Abstract submission is set to **March 3 2019**. Selected speakers will be notified by **March 11 2019**. Please email your abstract in Microsoft word format to <info@bioexcel.eu>.
 
 Following the tradition of the meeting, the selected speakers will also be invited to contribute to the special issue of Proteins dedicated to CAPRI that will be published late 2019. Participants who apply for a regular talk should thus present work that is publishable and agree to contribute a manuscript for the Proteins special issue.
 
