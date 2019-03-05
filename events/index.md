@@ -178,7 +178,7 @@ United Kingdom
 <hr>
 # Registration
 
-Registration for the 7th edition of the CAPRI evaluation meeting in Hinxton is now **closed**.
+Registration for the 7th edition of the CAPRI evaluation meeting in Hinxton is open.
 
 The registration fee for participants is set to £260 which includes:
 
@@ -190,10 +190,11 @@ Conference dinner
 
 All participants (excluding keynote speakers) are requested to pay the registration fee. Depending on availability of funds, a contribution towards travel and accommodation expenses will be provided to the selected speakers and plenary lecturers. Speakers will be notified by e-mail regarding the reimbursement policy.
 
-Registration fee should be paid no later than **3 March 2019**. Late registration after that date will however remain possible.
+Registration fee should be paid no later than **8 March 2019**. 
 
 Accommodation is not included in the registration fee, but we have listed our recommendations for several hotel options in Cambridge. 
 
+[ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5687&AppCode=REG&CC=118121116742)
 
 ## Abstract Submission
 
