@@ -194,7 +194,7 @@ Registration fee should be paid no later than **8 March 2019**.
 
 Accommodation is not included in the registration fee, but we have listed our recommendations for several hotel options in Cambridge. 
 
-[ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5687&AppCode=REG&CC=118121116742)
+Registrations are now closed. 
 
 ## Abstract Submission
 
@@ -257,7 +257,6 @@ Please note accommodation is **not** included in the registration fee.
 
 [ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5701&AppCode=REG&CC=119013114773)
 
-Registrations close 8 March 2019.
 
 <hr>
 # Program
