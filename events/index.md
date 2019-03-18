@@ -263,6 +263,7 @@ Please note accommodation is **not** included in the registration fee.
 
 ## Day 1 - 1st April 2019
 
+|11:10| Coach from Cambridge Station|
 |12:00 - 13:00| Registration and Lunch|
 |||
 |13:00 - 15:00| Introduction to protein-protein docking: sampling and scoring|
@@ -279,6 +280,7 @@ Please note accommodation is **not** included in the registration fee.
 
 ## Day 2 - 2nd April 2019
 
+|08:00| Coach from Cambridge|
 |09:00 - 11:00| Introduction to data-driven docking|
 || Practical: Integrative docking with HADDOCK|
 || Alexandre M.J.J. Bonvin and Panos Koukos, Bijvoet Center for Biomolecular Research, Utrecht, NL|
