@@ -253,7 +253,9 @@ The course will consist of six sessions followed by a practical component overse
 
 Registration is free for participants from Instruct-ERIC countries and £250 from other countries. Visit the website to find out if you are from a participating Instruct-ERIC country. <https://instruct-eric.eu/countries>
 
-Please note accommodation is **not** included in the registration fee.
+**Note: If you are from an Instruct-ERIC country, please select the option 'I will pay later' at the payment stage to register for free.**
+
+Accommodation is **not** included in the registration fee.
 
 [ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5701&AppCode=REG&CC=119013114773)
 
