@@ -51,23 +51,27 @@ We hope to see you all in Hinxton in April!
 |09:15 - 09:45| Registration|
 |||
 | **Welcome Address** ||
-|09:45 - 10:00| Sameer Velankar (European Bioinformatics Institute)|
+| 09:45 - 10:00| Sameer Velankar (European Bioinformatics Institute)|
 |||
 |   **Session 1: CAPRI Targets and Evaluation Results** ||
 |||
 | CAPRI Prediction Results ||
 |10:00 - 10:50| Marc Lensink (University of Lille, France)| 
-| CAPRI 2019 edition: Modeling a diverse landscape of protein complexes ||
+|CAPRI 2019 edition: Modeling a diverse landscape of protein complexes ||
+|
 |10:50 - 11:20| Shoshana Wodak (Free University of Brussels, Belgium)|
 |Modeling protein-protein assemblies: The CASP13-CAPRI challenge ||
+|
 |11:20 - 13:00| Poster session and lunch |
 |||
 |   **Session 2: Highlights from CAPRI Prediction Results and Methods I** ||
 |||
 |13:00 - 13:20| Alexandre Bonvin (Utrecht University, The Netherlands)|
 |Data-driven HADDOCK strategies in CAPRI rounds 38-45|
+|
 |13:20 - 13:40| Dima Kozakov (Stony Brook University, USA)|
 |ClusPro performance in CAPRI and the new methods|
+|
 |13:40 - 14:00| Juan Fernandez-Recio (Barcelona Supercomputing Center, Spain)|
 |Integrative modeling with pyDock for the new protein docking challenges in 7th CAPRI|
 |14:00 - 14:20| Daisuke Kihara (Purdue University, USA)|
