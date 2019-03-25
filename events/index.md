@@ -74,8 +74,10 @@ We hope to see you all in Hinxton in April!
 |
 |13:40 - 14:00| Juan Fernandez-Recio (Barcelona Supercomputing Center, Spain)|
 |Integrative modeling with pyDock for the new protein docking challenges in 7th CAPRI|
+|
 |14:00 - 14:20| Daisuke Kihara (Purdue University, USA)|
 |Human team and LZerD server pipeline for template-based and ab initio protein-protein interaction modeling|
+|
 |14:20 – 14:40| Zhiping Weng (University of Massachusetts, USA)|
 | **Keynote Lecture I** - Title TBC ||
 |14:40 – 15:30 Madan Babu (MRC Laboratory of Molecular Biology, UK)|
@@ -86,12 +88,16 @@ We hope to see you all in Hinxton in April!
 |||
 |15:50 - 16:10| Martin Zacharias (Technical University of Munich, Germany)|
 |Refinement and evaluation of docked protein-protein complexes using coarse-grained and atomistic models in ATTRACT|
+|
 |16:10 - 16:30| David Ritchie (University of Lorraine, France)|
 |EROS-DOCK for Pairwise and Multi-body Protein-Protein Docking|
+|
 |16:40 - 16:55| Paul A. Bates (The Francis Crick Institute, UK)
 |Exploring Conformational Search Strategies for Protein Targets Displaying a Wide Range of Conformational Change upon Protein-Protein Complex Formation|
+|
 |16:50 – 17:10| Jeffrey J. Gray (Johns Hopkins University, USA)|
-|Novel sampling strategies and a coarse-grained score function for docking homomers, flexible heteromers and oligosaccharides using Rosetta in CAPRI|
+|Novel sampling strategies and a coarse-grained score function for 
+docking homomers, flexible heteromers and oligosaccharides using Rosetta in CAPRI|
 |||
 |17:30 – 20:00| **Poster Session and Buffet** |
 |||
@@ -109,10 +115,13 @@ We hope to see you all in Hinxton in April!
 |||
 |10:40 - 11:00| Li C. Xue (Utrecht University, The Netherlands)|
 |iScore: A novel graph kernel-based function for scoring protein-protein docking models|
+|
 |11:00 - 11:20| Yang Shen (Texas A&M University, USA)|
 |Bayesian Active Learning for Optimization and Uncertainty Quantification in Protein Docking|
+|
 |11:20 - 11:40| Romina Oliva (King Abdullah University of Science and Technology, Saudi Arabia)|
 |How we ranked high/medium quality models at the Top-1 position for 11 targets in CASP13-CAPRI46|
+|
 |11:40 - 12:00| Raphaël Guerois (Université Paris‐Saclay, France)|
 |Docking Proteins and Peptides Under Evolutionary Constraints|
 |||
@@ -129,8 +138,11 @@ We hope to see you all in Hinxton in April!
 |||
 |15:10 – 15:30| Michael J E Sternberg (Imperial College London, UK)|
 |Identification of the structural impact of missense variants in experimental and predicted protein binary complexes|
+|
 |15:30 - 15:50| José A. Villegas (Weizmann Institute of Science, Israel)|
-|An asymmetric pairwise potential unifies amino acid interaction propensity with desolvation energy and reveals how surface and interior contribute to binding affinity|
+|An asymmetric pairwise potential unifies amino acid interaction propensity 
+with desolvation energy and reveals how surface and interior contribute to binding affinity|
+|
 |15:50 - 16:10| Anne Lopes (Université Paris‐Saclay, France)|
 |Protein interaction energy landscapes are shaped by functional but also non-functional partners|
 |||
@@ -141,12 +153,14 @@ We hope to see you all in Hinxton in April!
 |||
 |16:30 - 16:50| Ora Schueler-Furman (Hebrew University of Jerusalem, Israel)|
 |Peptide-protein binding via beta-sheet augmentation|
-|16:50 - 17:10| 10 Xiaoqin Zou (University of Missouri, USA)|
+|
+|16:50 - 17:10| Xiaoqin Zou (University of Missouri, USA)|
 |MDockPeP2: Predicting protein-peptide complex structures by accounting for peptide flexibility in long peptides|
 |||
 | **Round Table Discussion** ||
 |17:10 - 18:40| The Future Protein Complex Modelling and CAPRI|
 |Moderator: Shoshana Wodak|
+|
 |18:45| Bus to Homerton College, Cambridge|
 |||
 |19:20 - 22:00| Conference dinner. Homerton College|
@@ -155,7 +169,7 @@ We hope to see you all in Hinxton in April!
 
 |08:30| Coach from Cambridge| 
 | **Keynote Lecture IV** – John Jumper (DeepMind Technologies, UK) ||
-AlphaFold: Improved protein structure prediction using potentials from deep learning ||
+|AlphaFold: Improved protein structure prediction using potentials from deep learning ||
 |||
 |10:20 - 10:40| Coffee break|
 |||
@@ -164,10 +178,13 @@ AlphaFold: Improved protein structure prediction using potentials from deep lear
 |||
 |10:40 - 11:00| Ilya A Vakser (The University of Kansas, USA)|
 |Interface vs. Full Structure Similarity for Protein Docking|
+|
 |11:00 - 11:20| Chaok Seok (Seoul National University, Republic of Korea)|
 |Structure Prediction of Biological Assemblies using GALAXY in CAPRI rounds 38-45|
+|
 |11:20 - 11:45| Česlovas Venclovas (Vilnius University, Lithuania)|
 |Template-based modeling using the PPI3D web server in CAPRI Rounds 38-45|
+|
 |11:40 – 12:00| Sergei Grudinin (Inria Nancy, France)|
 |Symmetry in Protein Complexes|
 |||
@@ -180,8 +197,10 @@ AlphaFold: Improved protein structure prediction using potentials from deep lear
 |Chair: Paul A. Bates|
 |||
 |14:05 - 14:25|  TBC|
+|
 |14:25 - 14:45|  Shan Chang (Jiangsu University of Technology, China)|
 |Template-based modeling and ab-initio docking using CoDock in CAPRI|
+|
 |14:45 - 15:05|  Arne Elofsson (Stockholm University, Sweden)|
 |Using template and contact based docking in CAPRI 46|
 |||
