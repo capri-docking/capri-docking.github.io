@@ -168,8 +168,10 @@ with desolvation energy and reveals how surface and interior contribute to bindi
 ## Day 3
 
 |08:30| Coach from Cambridge| 
-| **Keynote Lecture IV** – John Jumper (DeepMind Technologies, UK) ||
-|AlphaFold: Improved protein structure prediction using potentials from deep learning ||
+|
+| 09:30 - 10:20| **Keynote Lecture IV** – Shina Caroline Lynn Kamerlin (Uppsala University, Sweden)|
+|Conformational Dynamics and the Evolution of New Enzyme Functions|
+||
 |||
 |10:20 - 10:40| Coffee break|
 |||
@@ -190,7 +192,9 @@ with desolvation energy and reveals how surface and interior contribute to bindi
 |||
 |12:00 - 13:15| Lunch|
 |||
-| **Keynote Lecture V** – Title TBC||
+|13:30 - 14:20| **Keynote Lecture V** – John Jumper (DeepMind Technologies, UK) ||
+|AlphaFold: Improved protein structure prediction using potentials from deep learning||
+|
 |13:00 - 13:50| TBC|
 |||
 |   **Session 10: Combining traditional and template based modelling** ||
