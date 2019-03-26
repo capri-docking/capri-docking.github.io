@@ -89,7 +89,7 @@ We hope to see you all in Hinxton in April!
 |15:50 - 16:10| Martin Zacharias (Technical University of Munich, Germany)|
 |Refinement and evaluation of docked protein-protein complexes using coarse-grained and atomistic models in ATTRACT|
 |
-|16:10 - 16:30| David Ritchie (University of Lorraine, France)|
+|16:10 - 16:30| Maria Elisa Ruiz Echartea (University of Lorraine, France)|
 |EROS-DOCK for Pairwise and Multi-body Protein-Protein Docking|
 |
 |16:40 - 16:55| Paul A. Bates (The Francis Crick Institute, UK)
@@ -185,7 +185,7 @@ with desolvation energy and reveals how surface and interior contribute to bindi
 |11:20 - 11:45| Česlovas Venclovas (Vilnius University, Lithuania)|
 |Template-based modeling using the PPI3D web server in CAPRI Rounds 38-45|
 |
-|11:40 – 12:00| Sergei Grudinin (Inria Nancy, France)|
+|11:40 – 12:00| Sergei Grudinin (Inria/CNRS, Grenoble, France)|
 |Symmetry in Protein Complexes|
 |||
 |12:00 - 13:15| Lunch|
