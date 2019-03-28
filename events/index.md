@@ -169,8 +169,7 @@ with desolvation energy and reveals how surface and interior contribute to bindi
 
 |08:30| Coach from Cambridge| 
 |
-| 09:30 - 10:20| **Keynote Lecture IV** – Shina Caroline Lynn Kamerlin (Uppsala University, Sweden)|
-|Conformational Dynamics and the Evolution of New Enzyme Functions|
+| 09:30 - 10:20| Flash Talks|
 ||
 |||
 |10:20 - 10:40| Coffee break|
