@@ -189,17 +189,15 @@ with desolvation energy and reveals how surface and interior contribute to bindi
 |11:40 – 12:00| Sergei Grudinin (Inria/CNRS, Grenoble, France)|
 |Symmetry in Protein Complexes|
 |||
-|12:00 - 13:15| Lunch|
+|12:00 - 13:13| Lunch|
 |||
 |13:30 - 14:20| **Keynote Lecture V** – John Jumper (DeepMind Technologies, UK) ||
 |AlphaFold: Improved protein structure prediction using potentials from deep learning||
 |
-|13:00 - 13:50| TBC|
 |||
 |   **Session 10: Combining traditional and template based modelling** ||
 |Chair: Paul A. Bates|
 |||
-|14:05 - 14:25|  TBC|
 |
 |14:25 - 14:45|  Shan Chang (Jiangsu University of Technology, China)|
 |Template-based modeling and ab-initio docking using CoDock in CAPRI|
