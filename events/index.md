@@ -35,12 +35,14 @@ We hope to see you all in Hinxton in April!
 <hr>
 # Keynote speakers
 
-|**Madan Babu (MRC Laboratory of Molecular Biology)**|**Louise Walport (Francis Crick Institute)**|
-:----:|:---:
-|<img src="/images/people/madanbabu_crop.jpg" alt="drawing" width="330"/>|<img src="/images/people/LWalport.jpg" alt="drawing" width="410"/>|
+| | |
+| :---: | :---: |
+|**Madan Babu**<br>(MRC Laboratory of Molecular Biology)|**Louise Walport**<br>(Francis Crick Institute)|
+|<img src="/images/people/madanbabu_crop.jpg" alt="drawing" width="150"/>|<img src="/images/people/LWalport.jpg" alt="drawing" width="150"/>|
 |||
-|**Todd O. Yeates (University of California, Los Angeles)**|**Caroline Lynn Kamerlin (Uppsala University)**|
-|<img src="/images/people/press_photo_TY.jpg" alt="drawing" width="330"/>|<img src="/images/people/Lynn-Kamerlin.jpg" alt="drawing" width="410"/>|
+|**Todd O. Yeates**<br>(University of California, Los Angeles)|**John Jumper**<br>(DeepMind Technologies, UK)|
+|<img src="/images/people/press_photo_TY.jpg" alt="drawing" width="150"/>|<img src="/images/people/John-Jumper.jpg" alt="drawing" width="150"/>|
+
 
 <hr>
 # Program
@@ -116,7 +118,7 @@ We hope to see you all in Hinxton in April!
 || _iScore: A novel graph kernel-based function for scoring protein-protein docking models_|
 |11:00 - 11:20| __Yang Shen__ (Texas A&M University, USA)| 
 || _Bayesian Active Learning for Optimization and Uncertainty Quantification<br> in Protein Docking_|
-|11:20 - 11:40| __Romina Oliva__ (King Abdullah University of Science and Technology, Saudi Arabia)| 
+|11:20 - 11:40| __Didier Barradas-Bautista__ (King Abdullah University of Science and Technology, Saudi Arabia)| 
 || _How we ranked high/medium quality models at the Top-1<br> position for 11 targets in CASP13-CAPRI46_|
 |11:40 - 12:00| __Raphaël Guerois__ (Université Paris‐Saclay, France)| 
 || _Docking Proteins and Peptides Under Evolutionary Constraints_|
@@ -187,7 +189,7 @@ We hope to see you all in Hinxton in April!
 ||   **Session 8: _Combining traditional and template based modelling_** |
 || Chair: __Paul Bates__|
 |||
-|14:25 - 14:45|  __Shan Chang__ (Jiangsu University of Technology, China)| 
+|14:25 - 14:45|  __Ren Kong__ (Jiangsu University of Technology, China)| 
 || _Template-based modeling and ab-initio docking using CoDock in CAPRI_|
 |14:45 - 15:05|  __Arne Elofsson__ (Stockholm University, Sweden)| 
 || _Using template and contact based docking in CAPRI 46_|
