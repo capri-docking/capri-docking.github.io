@@ -50,168 +50,153 @@ We hope to see you all in Hinxton in April!
 |08:30| Coach from Cambridge| 
 |09:15 - 09:45| Registration|
 |||
-| **Welcome Address** ||
+|| **Welcome Address** |
 | 09:45 - 10:00| Sameer Velankar (European Bioinformatics Institute)|
 |||
-|   **Session 1: CAPRI Targets and Evaluation Results** ||
+||   **Session 1: _CAPRI Targets and Evaluation Results_** |
 |||
-| CAPRI Prediction Results ||
-|10:00 - 10:50| Marc Lensink (University of Lille, France)| 
-|CAPRI 2019 edition: Modeling a diverse landscape of protein complexes ||
-|
-|10:50 - 11:20| Shoshana Wodak (Free University of Brussels, Belgium)|
-|Modeling protein-protein assemblies: The CASP13-CAPRI challenge ||
+|10:00 - 10:50| __Marc Lensink__ (University of Lille, France)| 
+||_CAPRI 2019 edition: Modeling a diverse landscape of protein complexes_ |
+|10:50 - 11:20| __Shoshana Wodak__ (Free University of Brussels, Belgium)|
+||_Modeling protein-protein assemblies: The CASP13-CAPRI challenge_ |
 |
 |11:20 - 13:00| Poster session and lunch |
 |||
-|   **Session 2: Highlights from CAPRI Prediction Results and Methods I** ||
+||   **Session 2: _Highlights from CAPRI Prediction Results and Methods I_** |
 |||
-|13:00 - 13:20| Alexandre Bonvin (Utrecht University, The Netherlands)|
-|Data-driven HADDOCK strategies in CAPRI rounds 38-45|
-|
-|13:20 - 13:40| Dima Kozakov (Stony Brook University, USA)|
-|ClusPro performance in CAPRI and the new methods|
-|
-|13:40 - 14:00| Juan Fernandez-Recio (Barcelona Supercomputing Center, Spain)|
-|Integrative modeling with pyDock for the new protein docking challenges in 7th CAPRI|
-|
-|14:00 - 14:20| Daisuke Kihara (Purdue University, USA)|
-|Human team and LZerD server pipeline for template-based and ab initio protein-protein interaction modeling|
-|
-|14:20 – 14:40| Zhiping Weng (University of Massachusetts, USA)|
-| **Keynote Lecture I** - Title TBC ||
-|14:40 – 15:30 Madan Babu (MRC Laboratory of Molecular Biology, UK)|
+|13:00 - 13:20| __Alexandre Bonvin__ (Utrecht University, The Netherlands)|
+||_Data-driven HADDOCK strategies in CAPRI rounds 38-45_|
+|13:20 - 13:40| __Dima Kozakov__ (Stony Brook University, USA)|
+||_ClusPro performance in CAPRI and the new methods_|
+|13:40 - 14:00| __Juan Fernandez-Recio__ (Barcelona Supercomputing Center, Spain)|
+||_Integrative modeling with pyDock for the new protein docking challenges in 7th CAPRI_|
+|14:00 - 14:20| __Daisuke Kihara__ (Purdue University, USA)|
+||_Human team and LZerD server pipeline for template-based and<br> ab initio protein-protein interaction modeling_|
+|14:20 – 14:40| __Zhiping Weng__ (University of Massachusetts, USA)|
+||Title TBC|
+|||
+|| **Keynote Lecture I** |
+|14:40 – 15:30| __Madan Babu__ (MRC Laboratory of Molecular Biology, UK)|
+||Title TBC|
 |||
 |15:30 - 15:50| Coffee break|
 |||
-|   **Session 3: New approaches to sampling interactions** ||
+||   **Session 3: _New approaches to sampling interactions_** |
 |||
-|15:50 - 16:10| Martin Zacharias (Technical University of Munich, Germany)|
-|Refinement and evaluation of docked protein-protein complexes using coarse-grained and atomistic models in ATTRACT|
-|
-|16:10 - 16:30| Maria Elisa Ruiz Echartea (University of Lorraine, France)|
-|EROS-DOCK for Pairwise and Multi-body Protein-Protein Docking|
-|
-|16:40 - 16:55| Paul A. Bates (The Francis Crick Institute, UK)
-|Exploring Conformational Search Strategies for Protein Targets Displaying a Wide Range of Conformational Change upon Protein-Protein Complex Formation|
-|
-|16:50 – 17:10| Jeffrey J. Gray (Johns Hopkins University, USA)|
-|Novel sampling strategies and a coarse-grained score function for 
-docking homomers, flexible heteromers and oligosaccharides using Rosetta in CAPRI|
+|15:50 - 16:10| __Martin Zacharias__ (Technical University of Munich, Germany)|
+||_Refinement and evaluation of docked protein-protein complexes using<br> coarse-grained and atomistic models in ATTRACT_|
+|16:10 - 16:30| __Maria Elisa Ruiz Echartea__ (University of Lorraine, France)|
+||_EROS-DOCK for Pairwise and Multi-body Protein-Protein Docking_|
+|16:40 - 16:55| __Paul Bates__ (The Francis Crick Institute, UK)
+||_Exploring Conformational Search Strategies for Protein Targets Displaying<br> a Wide Range of Conformational Change upon Protein-Protein Complex Formation_|
+|16:50 – 17:10| __Jeffrey Gray__ (Johns Hopkins University, USA)|
+||_Novel sampling strategies and a coarse-grained score function for docking<br>homomers,flexible heteromers and oligosaccharides using Rosetta in CAPRI_|
 |||
-|17:30 – 20:00| **Poster Session and Buffet** |
+|17:20 – 18:10| **Flash talks for poster presenter** |
+|||
+|18:10 – 20:00| **Poster Session and Buffet** |
 |||
 
+
+
+<hr>
 ## Day 2
 
 |08:30| Coach from Cambridge| 
-| **Keynote Lecture II** – Title TBC ||
-|09:30 - 10:20| Louise Walport (The Francis Crick Institute, UK)|
-|A RaPID approach to inhibiting protein-protein interactions|
+|||
+|| **Keynote Lecture II** |
+|09:30 - 10:20| __Louise Walport__ (The Francis Crick Institute, UK)|
+||_A RaPID approach to inhibiting protein-protein interactions_|
 |||
 |10:20 - 10:40| Coffee break|
 |||
-|   **Session 4: Highlights from CAPRI Prediction Results and Methods II** ||
+||   **Session 4: _Highlights from CAPRI Prediction Results and Methods II_** |
 |||
-|10:40 - 11:00| Li C. Xue (Utrecht University, The Netherlands)|
-|iScore: A novel graph kernel-based function for scoring protein-protein docking models|
-|
-|11:00 - 11:20| Yang Shen (Texas A&M University, USA)|
-|Bayesian Active Learning for Optimization and Uncertainty Quantification in Protein Docking|
-|
-|11:20 - 11:40| Romina Oliva (King Abdullah University of Science and Technology, Saudi Arabia)|
-|How we ranked high/medium quality models at the Top-1 position for 11 targets in CASP13-CAPRI46|
-|
-|11:40 - 12:00| Raphaël Guerois (Université Paris‐Saclay, France)|
-|Docking Proteins and Peptides Under Evolutionary Constraints|
+|10:40 - 11:00| __Li Xue__ (Utrecht University, The Netherlands)|
+|| _iScore: A novel graph kernel-based function for scoring protein-protein docking models_|
+|11:00 - 11:20| __Yang Shen__ (Texas A&M University, USA)| 
+|| _Bayesian Active Learning for Optimization and Uncertainty Quantification<br> in Protein Docking_|
+|11:20 - 11:40| __Romina Oliva__ (King Abdullah University of Science and Technology, Saudi Arabia)| 
+|| _How we ranked high/medium quality models at the Top-1<br> position for 11 targets in CASP13-CAPRI46_|
+|11:40 - 12:00| __Raphaël Guerois__ (Université Paris‐Saclay, France)| 
+|| _Docking Proteins and Peptides Under Evolutionary Constraints_|
 |||
 |12:00 - 14:00| **Poster session and lunch** |
 |||
-| **Keynote Lecture III** – Title TBC ||
-|14:00 - 14:50| Todd O. Yeates (University of California, Los Angeles, USA)|
-|Designed protein assemblies: intersections with problems in geometry and docking|
+|| **Keynote Lecture III** |
+|14:00 - 14:50| __Todd O. Yeates__ (University of California, Los Angeles, USA)| 
+|| _Designed protein assemblies: intersections with problems in geometry and docking_|
 |||
 |14:50 - 15:10| Coffee break|
 |||
-|   **Session 5: Beyond docking: affinity, mutation and non-specific interactions** ||
-|Chair: Marc Lensink|
+|| **Session 5: _Beyond docking: affinity, mutation and non-specific interactions_** |
+||Chair: __Marc Lensink__|
 |||
-|15:10 – 15:30| Michael J E Sternberg (Imperial College London, UK)|
-|Identification of the structural impact of missense variants in experimental and predicted protein binary complexes|
-|
-|15:30 - 15:50| José A. Villegas (Weizmann Institute of Science, Israel)|
-|An asymmetric pairwise potential unifies amino acid interaction propensity 
-with desolvation energy and reveals how surface and interior contribute to binding affinity|
-|
-|15:50 - 16:10| Anne Lopes (Université Paris‐Saclay, France)|
-|Protein interaction energy landscapes are shaped by functional but also non-functional partners|
+|15:10 – 15:30| __Michael J E Sternberg__ (Imperial College London, UK)|
+|| _Identification of the structural impact of missense variants in experimental<br> and predicted protein binary complexes_|
+|15:30 - 15:50| __José A. Villegas__ (Weizmann Institute of Science, Israel)| 
+|| _An asymmetric pairwise potential unifies amino acid interaction propensity with<br> desolvation energy and reveals how surface and interior contribute to binding affinity_|
+|15:50 - 16:10| __Anne Lopes__ (Université Paris‐Saclay, France)| 
+|| _Protein interaction energy landscapes are shaped by functional<br> but also non-functional partners_|
 |||
 |16:10 - 16:30| Coffee break|
 |||
-|   **Session 6: Protein-peptide docking** ||
-|Chair: Michael J. E. Sternberg|
+|| **Session 6: Protein-peptide docking** |
+||Chair: __Michael J. E. Sternberg__|
 |||
-|16:30 - 16:50| Ora Schueler-Furman (Hebrew University of Jerusalem, Israel)|
-|Peptide-protein binding via beta-sheet augmentation|
-|
-|16:50 - 17:10| Xiaoqin Zou (University of Missouri, USA)|
-|MDockPeP2: Predicting protein-peptide complex structures by accounting for peptide flexibility in long peptides|
+|16:30 - 16:50| __Ora Schueler-Furman__ (Hebrew University of Jerusalem, Israel)| 
+|| _Peptide-protein binding via beta-sheet augmentation_|
+|16:50 - 17:10| __Xiaoqin Zou__ (University of Missouri, USA)| 
+|| _MDockPeP2: Predicting protein-peptide complex structures by accounting<br> for peptide flexibility in long peptides_|
 |||
-| **Round Table Discussion** ||
+|| **Round Table Discussion** |
 |17:10 - 18:40| The Future Protein Complex Modelling and CAPRI|
-|Moderator: Shoshana Wodak|
-|
-|18:45| Bus to Homerton College, Cambridge|
+||Moderator: __Shoshana Wodak__|
+|||
+|18:50| Bus to Homerton College, Cambridge|
 |||
 |19:20 - 22:00| Conference dinner. Homerton College|
 
+<hr>
 ## Day 3
 
 |08:30| Coach from Cambridge| 
-|
-| 09:30 - 10:20| Flash Talks|
-||
+|||
+|09:30 - 10:20| Poster Session|
 |||
 |10:20 - 10:40| Coffee break|
 |||
-|   **Session 9: Template and symmetry based docking** ||
-|Chair: Alexandre Bonvin|
+||   **Session 7: _Template and symmetry based docking_** |
+||Chair: __Alexandre Bonvin__|
 |||
-|10:40 - 11:00| Ilya A Vakser (The University of Kansas, USA)|
-|Interface vs. Full Structure Similarity for Protein Docking|
-|
-|11:00 - 11:20| Chaok Seok (Seoul National University, Republic of Korea)|
-|Structure Prediction of Biological Assemblies using GALAXY in CAPRI rounds 38-45|
-|
-|11:20 - 11:45| Česlovas Venclovas (Vilnius University, Lithuania)|
-|Template-based modeling using the PPI3D web server in CAPRI Rounds 38-45|
-|
-|11:40 – 12:00| Sergei Grudinin (Inria/CNRS, Grenoble, France)|
-|Symmetry in Protein Complexes|
+|10:40 - 11:00| __Ilya A Vakser__ (The University of Kansas, USA)| 
+|| _Interface vs. Full Structure Similarity for Protein Docking_|
+|11:00 - 11:20| __Chaok Seok__ (Seoul National University, Republic of Korea)| 
+|| _Structure Prediction of Biological Assemblies using GALAXY in CAPRI rounds 38-45_|
+|11:20 - 11:45| __Česlovas Venclovas__ (Vilnius University, Lithuania)| 
+|| _Template-based modeling using the PPI3D web server in CAPRI Rounds 38-45_|
+|11:40 – 12:00| __Sergei Grudinin__ (Inria/CNRS, Grenoble, France)| 
+|| _Symmetry in Protein Complexes_|
 |||
 |12:00 - 13:13| Lunch|
 |||
-|13:30 - 14:20| **Keynote Lecture V** – John Jumper (DeepMind Technologies, UK) ||
-|AlphaFold: Improved protein structure prediction using potentials from deep learning||
-|
+|| **Keynote Lecture IV** |
+|13:30 - 14:20| __John Jumper__ (DeepMind Technologies, UK)| 
+|| _AlphaFold: Improved protein structure prediction using potentials from deep learning_|
 |||
-|   **Session 10: Combining traditional and template based modelling** ||
-|Chair: Paul A. Bates|
+||   **Session 8: _Combining traditional and template based modelling_** |
+|| Chair: __Paul Bates__|
 |||
-|
-|14:25 - 14:45|  Shan Chang (Jiangsu University of Technology, China)|
-|Template-based modeling and ab-initio docking using CoDock in CAPRI|
-|
-|14:45 - 15:05|  Arne Elofsson (Stockholm University, Sweden)|
-|Using template and contact based docking in CAPRI 46|
+|14:25 - 14:45|  __Shan Chang__ (Jiangsu University of Technology, China)| 
+|| _Template-based modeling and ab-initio docking using CoDock in CAPRI_|
+|14:45 - 15:05|  __Arne Elofsson__ (Stockholm University, Sweden)| 
+|| _Using template and contact based docking in CAPRI 46_|
 |||
 |15:05 - 15:20| Meeting closing remarks|
 |||
 |15:20 - 15:40| Coffee break|
-|||
 |15:40| Shuttle to Cambridge|
-|||
-|16:30| Punting tour|
+|16:30| Punting tour (optional)|
 |||
 
 <hr>
