@@ -133,11 +133,19 @@ Lensink MF, Wodak SJ. _Proteins._ 81:2082-95 (2013)
 
 ### Conformational changes / sampling
 
+  * [**Contemplate**](http://bental.tau.ac.il/contemplate/):
+  A web portal developed by the Nir BenTal's group that allows you to find alternate conformations by comparison with homologues in the PDB - can provide a list of template and/or modeled structures.
+
+  * [**Dynamic**](http://spin.ccic.osu.edu/index.php/dynamics/index):
+  A web portal developed by the the [Li](https://www.ccic.osu.edu/nmr-people) and [Brüschweiler](https://research.cbc.osu.edu/bruschweiler.1/research/) 
+  groups that predicts motional amplitudes and timescales of proteins at atomic detail from an average protein structure (PDB) as input. 
+  The web server returns crystallogragphic B-factors for all heavy atoms, backbone N-H and side-chain methyl (CH3) group S2 order parameters, 
+  and the dynamic timescales of every protein loop (ToeLoop) denoted as fast, slow, or static and maps these properties on the 3D protein structure. [Questions and comments](mailto:li.4644@osu.edu).
+
   * [**ModFlex**](http://modflex.org/):
   A web resource developed by the Godzik's lab that provides information about structural changes undergone by the set of homologs in the PDB to a query sequence. The posted version is an _alpha_ version, which the Godzik group intend to develop further shortly. Any comments and suggestions for improvements will be most welcome and should be sent directly to Adam Godzik ([adam@sbpdiscovery.org](mailto:adam@sbpdiscovery.org)).
 
-  * [**Contemplate**](http://bental.tau.ac.il/contemplate/):
-  A web portal developed by the Nir BenTal's group that allows you to find alternate conformations by comparison with homologues in the PDB - can provide a list of template and/or modeled structures.
+
 
 <br>
 <HR>
