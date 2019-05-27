@@ -145,7 +145,8 @@ Lensink MF, Wodak SJ. _Proteins._ 81:2082-95 (2013)
   * [**ModFlex**](http://modflex.org/):
   A web resource developed by the Godzik's lab that provides information about structural changes undergone by the set of homologs in the PDB to a query sequence. The posted version is an _alpha_ version, which the Godzik group intend to develop further shortly. Any comments and suggestions for improvements will be most welcome and should be sent directly to Adam Godzik ([adam@sbpdiscovery.org](mailto:adam@sbpdiscovery.org)).
 
-
+  * [**DynaMine**](http://dynamine.ibsquare.be/):
+  A web resource developed by the Vranken's group at VUB-ULB Bruxelles that performs fast predictions of protein backbone dynamics using only sequence information as input. DynaMine can also be queried through the [RINspector](http://apps.cytoscape.org/apps/rinspector) app for Cytoscape, a tool for networks visualization and analysis.
 
 <br>
 <HR>
