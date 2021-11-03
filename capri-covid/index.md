@@ -114,3 +114,87 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 You can find [here](/capri-covid/protein-descriptions/T182_csv.zip) the csv files where every residue is listed with its residue hits, contact variability and Rate4Site scores.<br>
 You can also find [here](/capri-covid/contact-hits/T182_contact_hits.csv) the list of contact hits.
 <hr>
+
+### Target 183
+The T183 Scoreset is made of 164 models
+
+#### Target description
+
+|Type|Ligand|Receptor|
+|---|---|---|
+|Species|*SARS-CoV-2*|*Homo sapiens* (Human)|
+|Name|Nsp8|EXOSC8|
+|Uniprot ID|P0DTD1|Q96B26|
+|Template|2NN6|3UB0.D, 2AHM.G, 6XIP|
+|Description|Multifunctional protein involved in the transcription and replication of viral RNAs. Contains the proteinases responsible for the cleavages of the polyprotein.|Non-catalytic component of the RNA exosome complex which has 3'->5' exoribonuclease activity and participates in a multitude of cellular RNA processing and degradation events. In the nucleus, the RNA exosome complex is involved in proper maturation of stable RNA species such as rRNA, snRNA and snoRNA, in the elimination of RNA processing by-products and non-coding 'pervasive' transcripts, such as antisense RNA species and promoter-upstream transcripts (PROMPTs), and of mRNAs with processing defects, thereby limiting or excluding their export to the cytoplasm.|
+
+#### Viral protein analyses
+##### Protein visualization
+<center><img src="/images/covid/T183/T183_ligand.png" width="900"/></center>
+Surface representation of the ligand __Nsp8__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+
+The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T183/T183_ligand_stereo.pse)
+
+##### Residue hit and conservation plot 
+
+<center><img src="/images/covid/T183/T183_Nsp8_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __Nsp8__ residues.
+
+#### Human protein analyses
+##### Protein visualization
+<center><img src="/images/covid/T183/T183_receptor.png" width="900"/></center>
+Surface representation of the ligand __EXOSC8__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+
+The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T183/T183_receptor_stereo.pse)
+
+##### Residue hit and conservation plot 
+
+<center><img src="/images/covid/T183/T183_EXOSC8_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __EXOSC8__ residues.
+
+You can find [here](/capri-covid/protein-descriptions/T183_csv.zip) the csv files where every residue is listed with its residue hits, contact variability and Rate4Site scores.<br>
+You can also find [here](/capri-covid/contact-hits/T183_contact_hits.csv) the list of contact hits.
+
+<hr>
+
+### Target 184
+The T184 Scoreset is made of 191 models
+
+#### Target description
+
+|Type|Ligand|Receptor|
+|---|---|---|
+|Species|*SARS-CoV-2*|*Homo sapiens* (Human)|
+|Name|Nsp7|RhoA|
+|Uniprot ID|P0DTD1|P61586|
+|Template|6XIP.C, 3UB0.C, 6M5I.A|5C2K.A, 4LHW.E, 2J1L.A|
+|Description|Multifunctional protein involved in the transcription and replication of viral RNAs. Contains the proteinases responsible for the cleavages of the polyprotein.|Small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. Mainly associated with cytoskeleton organization, in active state binds to a variety of effector proteins to regulate cellular responses such as cytoskeletal dynamics, cell migration and cell cycle|
+
+#### Viral protein analyses
+##### Protein visualization
+<center><img src="/images/covid/T184/T184_ligand.png" width="900"/></center>
+Surface representation of the ligand __Nsp7__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+
+The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T184/T184_ligand_stereo.pse)
+
+##### Residue hit and conservation plot 
+
+<center><img src="/images/covid/T184/T184_Nsp7_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __Nsp7__ residues.
+
+#### Human protein analyses
+##### Protein visualization
+<center><img src="/images/covid/T184/T184_receptor.png" width="900"/></center>
+Surface representation of the ligand __RhoA__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+
+The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T184/T184_receptor_stereo.pse)
+
+##### Residue hit and conservation plot 
+
+<center><img src="/images/covid/T184/T184_Rhoa_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __RhoA__ residues.
+
+You can find [here](/capri-covid/protein-descriptions/T184_csv.zip) the csv files where every residue is listed with its residue hits, contact variability and Rate4Site scores.<br>
+You can also find [here](/capri-covid/contact-hits/T184_contact_hits.csv) the list of contact hits.
+
+<hr>
