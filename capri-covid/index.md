@@ -28,7 +28,7 @@ In case of multiple chains, we only kept heteromeric contacts. Then, through all
 *Sequence conservation:* Sequence conservation was calculated with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
 <hr>
 ### Target 181
-The T181 Scoreset is made of 180 Models
+The T181 Scoreset is made of 180 models
 
 #### Target description
 
@@ -51,5 +51,66 @@ The PyMOL session where this image comes from can be downloaded [here](/capri-co
 
 <center><img src="/images/covid/T181/T181_Orf3a_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
 Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __Orf3a__ residues.
+
+#### Human protein analyses
+##### Protein visualization
+<center><img src="/images/covid/T181/T181_receptor.png" width="900"/></center>
+Surface representation of the ligand __HMOX1__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+
+The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T181/T181_receptor_stereo.pse)
+
+##### Residue hit and conservation plot 
+
+<center><img src="/images/covid/T181/T181_HMOX1_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __HMOX1__ residues.
+
+You can find [here](/capri-covid/protein-descriptions/T181_csv.zip) the csv files where every residue is listed with its residue hits, contact variability and Rate4Site scores.<br>
+You can also find [here](/capri-covid/contact-hits/T181_contact_hits.csv) the list of contact hits.
+
 <hr>
 
+### Target 182
+The T182 Scoreset is made of 180 models
+
+#### Target description
+
+|Type|Ligand|Receptor|
+|---|---|---|
+|Species|*SARS-CoV-2*|*Homo sapiens* (Human)|
+|Name|Nsp15|NUTF2 (homodimer)|
+|Uniprot ID|P0DTD1|P61970|
+|Template|6WLC|1GY5|
+|Description|Multifunctional protein involved in the transcription and replication of viral RNAs. Contains the proteinases responsible for the cleavages of the polyprotein.|Mediates the import of GDP-bound RAN from the cytoplasm into the nucleus which is essential for the function of RAN in cargo receptor-mediated nucleocytoplasmic transport. Thereby, plays indirectly a more general role in cargo receptor-mediated nucleocytoplasmic transport. Interacts with GDP-bound RAN in the cytosol, recruits it to the nuclear pore complex via its interaction with nucleoporins and promotes its nuclear import.|
+
+#### Viral protein analyses
+##### Protein visualization
+<center><img src="/images/covid/T182/T182_ligand.png" width="900"/></center>
+Surface representation of the ligand __Nsp15__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+
+The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T182/T182_ligand_stereo.pse)
+
+##### Residue hit and conservation plot 
+
+<center><img src="/images/covid/T182/T182_Nsp15_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __Nsp15__ residues.
+
+#### Human protein analyses
+##### Protein visualization
+<center><img src="/images/covid/T182/T182_receptor.png" width="900"/></center>
+Surface representation of the ligand __NUTF2__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+
+The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T182/T182_receptor_stereo.pse)
+
+##### Residue hit and conservation plot 
+**Chain A**
+<center><img src="/images/covid/T182/T182_NUTF2-A_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __HMOX1 chain A__ residues.
+
+**Chain B**
+<center><img src="/images/covid/T182/T182_NUTF2-B_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __HMOX1 chain B__ residues.
+
+
+You can find [here](/capri-covid/protein-descriptions/T182_csv.zip) the csv files where every residue is listed with its residue hits, contact variability and Rate4Site scores.<br>
+You can also find [here](/capri-covid/contact-hits/T182_contact_hits.csv) the list of contact hits.
+<hr>
