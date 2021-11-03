@@ -41,8 +41,15 @@ The T181 Scoreset is made of 180 Models
 |Description|Plays a role in virus egress via lysosomal trafficking (PubMed:33157038, PubMed:33422265).<br>Forms homotetrameric ion channels (viroporin) localized at endosomes and lysosomes, that may induce deacidification of lysosomes thereby allowing safe virion egress through lysosomal trafficking (By similarity) (PubMed:33157038, PubMed:33422265).<br>Also blocks formation of autolysosomes through binding and sequestering host TMUB1/HOPS on late endosomes. This prevents fusion of autophagosomes with lysosomes, disrupting autophagy and facilitating virus egress (PubMed:33422265).|Heme oxygenase cleaves the heme ring at the alpha methene bridge to form biliverdin. Biliverdin is subsequently converted to bilirubin by biliverdin reductase. Under physiological conditions, the activity of heme oxygenase is highest in the spleen, where senescent erythrocytes are sequestrated and destroyed. Exhibits cytoprotective effects since excess of free heme sensitizes cells to undergo apoptosis.|
 
 #### Viral protein analyses
-
+##### Protein visualization
 <center><img src="/images/covid/T181/T181_ligand.png" width="900"/></center>
+Surface representation of the ligand __Orf3a__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
+The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T181/T181_ligand_stereo.pse)
+
+##### Residue hit and conservation plot 
+
+<center><img src="/images/covid/T181/T181_Orf3a_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __Orf3a__ residues.
 <hr>
 
