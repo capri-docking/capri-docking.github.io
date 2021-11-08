@@ -8,7 +8,7 @@ image:
   feature: pages/banner_publications.png
 ---
 
-This page provides you information about the CAPRI COVID Round 51 targets T181, T182, T183 and T184.
+This page provides information about the predictions and analyses of the CAPRI COVID Round 51, targets T181, T182, T183 and T184.
 
 #### Table of Contents
 {:.no_toc}
@@ -19,16 +19,16 @@ This page provides you information about the CAPRI COVID Round 51 targets T181, 
 <HR>
 
 ### Methodology
-Here we present results of the CAPRI - COVID19 Round Target181-184 Scoreset.
+The results presented are of the Scorer submissions of Targets 181-184.
 
 *Contacts:* Contacts between entities were determined using a 5 Å distance threshold. Clashes (contacts below 2.5 Å), if any, were ignored. Only inter-chain contacts were considered.
 
-In case of multiple chains, we only kept heteromeric contacts. Then, through all the models, we counted these contacts (defined as “contact hits”), we counted  the number of contacts a residue makes at the interface (defined as “residue hits”) and the number of residues a residue interacts with (defined as “contact variability”).
+Only heteromeric contacts were kept. Then, for all models, we counted the number of contacts (defined as “contact hits”), the number of contacts a residue makes at the interface (defined as “residue hits”), and the number of different residues a residue interacts with (defined as “contact variability”).
 
-*Sequence conservation:* Sequence conservation was calculated with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
+*Sequence conservation:* Sequence conservation was calculated using [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
 <hr>
 ### Target 181
-The T181 Scoreset is made of 180 models
+The set consists of 180 models.
 
 #### Target description
 
@@ -55,7 +55,7 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 #### Human protein analyses
 ##### Protein visualization
 <center><img src="/images/covid/T181/T181_receptor.png" width="900"/></center>
-Surface representation of the ligand __HMOX1__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+Surface representation of the ligand __HMOX1__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T181/T181_receptor_stereo.pse)
 
@@ -70,7 +70,7 @@ You can also find [here](/capri-covid/contact-hits/T181_contact_hits.csv) the li
 <hr>
 
 ### Target 182
-The T182 Scoreset is made of 180 models
+The set consists of 180 models.
 
 #### Target description
 
@@ -85,7 +85,7 @@ The T182 Scoreset is made of 180 models
 #### Viral protein analyses
 ##### Protein visualization
 <center><img src="/images/covid/T182/T182_ligand.png" width="900"/></center>
-Surface representation of the ligand __Nsp15__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+Surface representation of the ligand __Nsp15__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T182/T182_ligand_stereo.pse)
 
@@ -97,7 +97,7 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 #### Human protein analyses
 ##### Protein visualization
 <center><img src="/images/covid/T182/T182_receptor.png" width="900"/></center>
-Surface representation of the ligand __NUTF2__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+Surface representation of the ligand __NUTF2__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T182/T182_receptor_stereo.pse)
 
@@ -116,7 +116,7 @@ You can also find [here](/capri-covid/contact-hits/T182_contact_hits.csv) the li
 <hr>
 
 ### Target 183
-The T183 Scoreset is made of 164 models
+The set consists of 164 models.
 
 #### Target description
 
@@ -131,7 +131,7 @@ The T183 Scoreset is made of 164 models
 #### Viral protein analyses
 ##### Protein visualization
 <center><img src="/images/covid/T183/T183_ligand.png" width="900"/></center>
-Surface representation of the ligand __Nsp8__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+Surface representation of the ligand __Nsp8__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T183/T183_ligand_stereo.pse)
 
@@ -143,7 +143,7 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 #### Human protein analyses
 ##### Protein visualization
 <center><img src="/images/covid/T183/T183_receptor.png" width="900"/></center>
-Surface representation of the ligand __EXOSC8__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+Surface representation of the ligand __EXOSC8__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T183/T183_receptor_stereo.pse)
 
@@ -158,7 +158,7 @@ You can also find [here](/capri-covid/contact-hits/T183_contact_hits.csv) the li
 <hr>
 
 ### Target 184
-The T184 Scoreset is made of 191 models
+The set consists of 191 models.
 
 #### Target description
 
@@ -173,7 +173,7 @@ The T184 Scoreset is made of 191 models
 #### Viral protein analyses
 ##### Protein visualization
 <center><img src="/images/covid/T184/T184_ligand.png" width="900"/></center>
-Surface representation of the ligand __Nsp7__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+Surface representation of the ligand __Nsp7__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T184/T184_ligand_stereo.pse)
 
