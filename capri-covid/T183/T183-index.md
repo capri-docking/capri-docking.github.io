@@ -30,7 +30,7 @@ The set consists of 164 models.
 |Species|*SARS-CoV-2*|*Homo sapiens* (Human)|
 |Name|Nsp8|EXOSC8|
 |Uniprot ID|[P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)|[Q96B26](https://www.uniprot.org/uniprot/Q96B26)|
-|Template|[2NN6](https://www.ebi.ac.uk/pdbe/entry/pdb/2nn6)|[3UB0.D](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [2AHM.G](https://www.ebi.ac.uk/pdbe/entry/pdb/2ahm), [6XIP](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip)|
+|PDB Template|[2NN6](https://www.ebi.ac.uk/pdbe/entry/pdb/2nn6)|[3UB0.D](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [2AHM.G](https://www.ebi.ac.uk/pdbe/entry/pdb/2ahm), [6XIP](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip)|
 |Description|Multifunctional protein involved in the transcription and replication of viral RNAs. Contains the proteinases responsible for the cleavages of the polyprotein.|Non-catalytic component of the RNA exosome complex which has 3'->5' exoribonuclease activity and participates in a multitude of cellular RNA processing and degradation events. In the nucleus, the RNA exosome complex is involved in proper maturation of stable RNA species such as rRNA, snRNA and snoRNA, in the elimination of RNA processing by-products and non-coding 'pervasive' transcripts, such as antisense RNA species and promoter-upstream transcripts (PROMPTs), and of mRNAs with processing defects, thereby limiting or excluding their export to the cytoplasm.|
 
 #### Viral protein analyses

@@ -30,7 +30,7 @@ The set consists of 180 models.
 |Species|*SARS-CoV-2*|*Homo sapiens* (Human)|
 |Name|Nsp15|NUTF2 (homodimer)|
 |Uniprot ID|[P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)|[P61970](https://www.uniprot.org/uniprot/P61970)|
-|Template|[6WLC](https://www.ebi.ac.uk/pdbe/entry/pdb/6WLC)|[1GY5](https://www.ebi.ac.uk/pdbe/entry/pdb/1gy5)|
+|PDB Template|[6WLC](https://www.ebi.ac.uk/pdbe/entry/pdb/6WLC)|[1GY5](https://www.ebi.ac.uk/pdbe/entry/pdb/1gy5)|
 |Description|Multifunctional protein involved in the transcription and replication of viral RNAs. Contains the proteinases responsible for the cleavages of the polyprotein.|Mediates the import of GDP-bound RAN from the cytoplasm into the nucleus which is essential for the function of RAN in cargo receptor-mediated nucleocytoplasmic transport. Thereby, plays indirectly a more general role in cargo receptor-mediated nucleocytoplasmic transport. Interacts with GDP-bound RAN in the cytosol, recruits it to the nuclear pore complex via its interaction with nucleoporins and promotes its nuclear import.|
 
 #### Viral protein analyses

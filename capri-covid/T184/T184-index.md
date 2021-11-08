@@ -39,7 +39,7 @@ The set consists of 191 models.
 |Species|*SARS-CoV-2*|*Homo sapiens* (Human)|
 |Name|Nsp7|RhoA|
 |Uniprot ID|[P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)|[P61586](https://www.uniprot.org/uniprot/P61586)|
-|Template|[6XIP.C](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip), [3UB0.C](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [6M5I.A](https://www.ebi.ac.uk/pdbe/entry/pdb/6m5i)|[5C2K.A](https://www.ebi.ac.uk/pdbe/entry/pdb/5c2k), [4LHW.E](https://www.ebi.ac.uk/pdbe/entry/pdb/4lhw), [2J1L.A](https://www.ebi.ac.uk/pdbe/entry/pdb/2j1l)|
+|PDB Template|[6XIP.C](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip), [3UB0.C](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [6M5I.A](https://www.ebi.ac.uk/pdbe/entry/pdb/6m5i)|[5C2K.A](https://www.ebi.ac.uk/pdbe/entry/pdb/5c2k), [4LHW.E](https://www.ebi.ac.uk/pdbe/entry/pdb/4lhw), [2J1L.A](https://www.ebi.ac.uk/pdbe/entry/pdb/2j1l)|
 |Description|Multifunctional protein involved in the transcription and replication of viral RNAs. Contains the proteinases responsible for the cleavages of the polyprotein.|Small GTPase which cycles between an active GTP-bound and an inactive GDP-bound state. Mainly associated with cytoskeleton organization, in active state binds to a variety of effector proteins to regulate cellular responses such as cytoskeletal dynamics, cell migration and cell cycle|
 
 #### Viral protein analyses

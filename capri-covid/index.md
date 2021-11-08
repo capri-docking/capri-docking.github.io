@@ -7,46 +7,31 @@ comments: false
 image:
   feature: pages/banner_publications.png
 ---
-
+### Introduction
 This page provides information about the predictions and analyses of the CAPRI COVID Round 51, targets T181, T182, T183 and T184.
 
-#### Table of Contents
-{:.no_toc}
-* table of contents
-{:toc}
+T181 was offered as  the last CASP14-CAPRI target in the summer of 2021. T182-T184, are targets offered as part of
+CAPRI Round 51, the Open Science CAPRI-COVID-19 initiative (for a full description of the Round and its objectives see [here](/index).
 
-<br>
-<HR>
+The described analysis takes into account the total number of predicted models for each target, corresponding to the 10 best models submitted by scorers. The total number of models per target is:
+* [T181](/capri-covid/T181/T181-index) (184 models)
+* [T182](/capri-covid/T182/T182-index) (181 models)
+* [T183](/capri-covid/T183/T183-index) (164 models)
+* [T184](/capri-covid/T184/T184-index) (190 models)
 
-### Methodology
-The results presented are of the Scorer submissions of Targets 181-184.
-
-*Contacts:* Contacts between entities were determined using a 5 Å distance threshold. Clashes (contacts below 2.5 Å), if any, were ignored. Only inter-chain contacts were considered.
-
-Only heteromeric contacts were kept. Then, for all models, we counted the number of contacts (defined as “contact hits”), the number of contacts a residue makes at the interface (defined as “residue hits”), and the number of different residues a residue interacts with (defined as “contact variability”).
-
-*Sequence conservation:* Sequence conservation was calculated using [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
 <hr>
-### Target 181
-The set consists of 180 models.
-The target is [here](/capri-covid/T181/T181-index)
 
-### Target 182
-The set consists of 180 models.
-The target is [here](/capri-covid/T182/T182-index)
+| CAPRI Target ID| CASP14 Target ID| Complex components| Uniprot IDs| PDB Templates|
+|---|---|---|---|---|
+| T181| H1103| **Orf3a**/**HMOX1**| [P0DTC3](https://www.uniprot.org/uniprot/P0DTC3)/[P09601](https://www.uniprot.org/uniprot/P09601)| [6XDC](https://www.ebi.ac.uk/pdbe/entry/pdb/6xdc)/[1N3U](https://www.ebi.ac.uk/pdbe/entry/pdb/1n3u)|
+| T182| NA| **Nsp15**/**NUTF2**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)/[P61970](https://www.uniprot.org/uniprot/P61970)| [6WLC](https://www.ebi.ac.uk/pdbe/entry/pdb/6WLC)/[1GY5](https://www.ebi.ac.uk/pdbe/entry/pdb/1gy5)|
+| T183| NA| **Nsp8**/**EXOSC8**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)/[Q96B26](https://www.uniprot.org/uniprot/Q96B26)| [2NN6](https://www.ebi.ac.uk/pdbe/entry/pdb/2nn6)/[3UB0.D](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [2AHM.G](https://www.ebi.ac.uk/pdbe/entry/pdb/2ahm), [6XIP](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip)|
+| T184| NA| **Nsp7**/**RhoA**|[P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)/[P61586](https://www.uniprot.org/uniprot/P61586)| [6XIP.C](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip),[3UB0.C](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0),[6M5I.A](https://www.ebi.ac.uk/pdbe/entry/pdb/6m5i)/[5C2K.A](https://www.ebi.ac.uk/pdbe/entry/pdb/5c2k),[4LHW.E](https://www.ebi.ac.uk/pdbe/entry/pdb/4lhw),[2J1L.A](https://www.ebi.ac.uk/pdbe/entry/pdb/2j1l)|
 
-### Target 183
-The set consists of 164 models.
-The target is [here](/capri-covid/T183/T183-index)
-
-
-### Target 184
-The set consists of 191 models.
-The target is [here](/capri-covid/T184/T184-index)
 
 <hr>
 ### Download description
 
-The description of every target dowloadables can be find [here](/capri-covid/downloadable-description)
+The description of every target dowloadables can be found [here](/capri-covid/downloadable-description)
 
 <hr>
