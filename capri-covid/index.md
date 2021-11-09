@@ -22,11 +22,11 @@ The described analysis takes into account the total number of predicted models f
 <hr>
 
 | CAPRI Target ID| CASP14 Target ID| Complex components| Uniprot IDs| PDB Templates|
-|---|---|---|---|---|
-| T181| H1103| **Orf3a**/**HMOX1**| [P0DTC3](https://www.uniprot.org/uniprot/P0DTC3)/[P09601](https://www.uniprot.org/uniprot/P09601)| [6XDC](https://www.ebi.ac.uk/pdbe/entry/pdb/6xdc)/[1N3U](https://www.ebi.ac.uk/pdbe/entry/pdb/1n3u)|
-| T182| NA| **Nsp15**/**NUTF2**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)/[P61970](https://www.uniprot.org/uniprot/P61970)| [6WLC](https://www.ebi.ac.uk/pdbe/entry/pdb/6WLC)/[1GY5](https://www.ebi.ac.uk/pdbe/entry/pdb/1gy5)|
-| T183| NA| **Nsp8**/**EXOSC8**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)/[Q96B26](https://www.uniprot.org/uniprot/Q96B26)| [2NN6](https://www.ebi.ac.uk/pdbe/entry/pdb/2nn6)/[3UB0.D](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [2AHM.G](https://www.ebi.ac.uk/pdbe/entry/pdb/2ahm), [6XIP](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip)|
-| T184| NA| **Nsp7**/**RhoA**|[P0DTD1](https://www.uniprot.org/uniprot/P0DTD1)/[P61586](https://www.uniprot.org/uniprot/P61586)| [6XIP.C](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip),[3UB0.C](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0),[6M5I.A](https://www.ebi.ac.uk/pdbe/entry/pdb/6m5i)/[5C2K.A](https://www.ebi.ac.uk/pdbe/entry/pdb/5c2k),[4LHW.E](https://www.ebi.ac.uk/pdbe/entry/pdb/4lhw),[2J1L.A](https://www.ebi.ac.uk/pdbe/entry/pdb/2j1l)|
+|---|---|---|:--|---|
+| T181| H1103| **Orf3a** / **HMOX1**| [P0DTC3](https://www.uniprot.org/uniprot/P0DTC3) / [P09601](https://www.uniprot.org/uniprot/P09601)| [6XDC](https://www.ebi.ac.uk/pdbe/entry/pdb/6xdc) / [1N3U](https://www.ebi.ac.uk/pdbe/entry/pdb/1n3u)|
+| T182| NA| **Nsp15** / **NUTF2**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [P61970](https://www.uniprot.org/uniprot/P61970)| [6WLC](https://www.ebi.ac.uk/pdbe/entry/pdb/6WLC) / [1GY5](https://www.ebi.ac.uk/pdbe/entry/pdb/1gy5)|
+| T183| NA| **Nsp8** / **EXOSC8**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [Q96B26](https://www.uniprot.org/uniprot/Q96B26)| [2NN6](https://www.ebi.ac.uk/pdbe/entry/pdb/2nn6) / [3UB0.D](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [2AHM.G](https://www.ebi.ac.uk/pdbe/entry/pdb/2ahm), [6XIP](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip)|
+| T184| NA| **Nsp7** / **RhoA**|[P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [P61586](https://www.uniprot.org/uniprot/P61586)| [6XIP.C](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip),[3UB0.C](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0),[6M5I.A](https://www.ebi.ac.uk/pdbe/entry/pdb/6m5i) / [5C2K.A](https://www.ebi.ac.uk/pdbe/entry/pdb/5c2k),[4LHW.E](https://www.ebi.ac.uk/pdbe/entry/pdb/4lhw),[2J1L.A](https://www.ebi.ac.uk/pdbe/entry/pdb/2j1l)|
 
 
 <hr>

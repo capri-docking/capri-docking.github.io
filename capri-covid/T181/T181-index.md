@@ -6,9 +6,10 @@ title: CAPRI COVID-19 Round 51 - Target 181
 comments: false
 image:
   feature: pages/banner_publications.png
+
 ---
 
-This page provides information about the predictions and analyses of the CAPRI COVID Round 51, targets T181.
+This page provides information about the predictions and analyses of the CAPRI COVID Round 51, target T181.
 
 #### Table of Contents
 {:.no_toc}
@@ -28,7 +29,9 @@ Only heteromeric contacts were kept. Then, for all models, we counted the number
 *Sequence conservation:* Sequence conservation was calculated using [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
 <hr>
 ### Target 181
-The set consists of 180 models.
+The set consists of 184 models.
+
+All the downloadble file can be found at the end of this page.
 
 #### Target description
 
@@ -39,6 +42,7 @@ The set consists of 180 models.
 | Uniprot ID|| [P0DTC3](https://www.uniprot.org/uniprot/P0DTC3)|| [P09601](https://www.uniprot.org/uniprot/P09601)|
 | PDB Template|| [6XDC](https://www.ebi.ac.uk/pdbe/entry/pdb/6xdc)|| [1N3U](https://www.ebi.ac.uk/pdbe/entry/pdb/1n3u)|
 | Description|| Plays a role in virus egress via lysosomal trafficking (PubMed:33157038, PubMed:33422265).<br>Forms homotetrameric ion channels (viroporin) localized at endosomes and lysosomes, that may induce deacidification of lysosomes thereby allowing safe virion egress through lysosomal trafficking (By similarity) (PubMed:33157038, PubMed:33422265).<br>Also blocks formation of autolysosomes through binding and sequestering host TMUB1/HOPS on late endosomes. This prevents fusion of autophagosomes with lysosomes, disrupting autophagy and facilitating virus egress (PubMed:33422265).|| Heme oxygenase cleaves the heme ring at the alpha methene bridge to form biliverdin. Biliverdin is subsequently converted to bilirubin by biliverdin reductase. Under physiological conditions, the activity of heme oxygenase is highest in the spleen, where senescent erythrocytes are sequestrated and destroyed. Exhibits cytoprotective effects since excess of free heme sensitizes cells to undergo apoptosis.|
+
 
 #### Viral protein analyses
 ##### Protein visualization
@@ -64,7 +68,12 @@ The PyMOL session where this image comes from can be downloaded [here](/capri-co
 <center><img src="/images/covid/T181/T181_HMOX1_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
 Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __HMOX1__ residues.
 
-You can find [here](/capri-covid/protein-descriptions/T181_csv.zip) the csv files where every residue is listed with its residue hits, contact variability and Rate4Site scores.<br>
-You can also find [here](/capri-covid/contact-hits/T181_contact_hits.csv) the list of contact hits.
+<hr>
+### Downloadable files
 
+| Target| PyMOL sessions| Contact hits| CSV files for receptor and ligand|
+|---|---|---|---|
+| T181| [T181_ligand](/capri-covid/PyMOL-sessions/T181/T181_ligand_stereo.pse) / [T181_receptor](/capri-covid/PyMOL-sessions/T181/T181_receptor_stereo.pse)|[T181_contact-hits](/capri-covid/contact-hits/T181_contact_hits.csv)|[T181_csv](/capri-covid/protein-descriptions/T181_csv.zip)|
+
+The description of every dowloadables can be found [here](/capri-covid/downloadable-description)
 <hr>
