@@ -10,8 +10,8 @@ image:
 ### Introduction
 This page provides information about the predictions and analyses of the CAPRI COVID Round 51, targets T181, T182, T183 and T184.
 
-T181 was offered as  the last CASP14-CAPRI target in the summer of 2021. T182-T184, are targets offered as part of
-CAPRI Round 51, the Open Science CAPRI-COVID-19 initiative (for a full description of the Round and its objectives see [here](/index).
+T181 was offered as  the last CASP14-CAPRI target in the summer of 2020. T182-T184, are targets offered as part of
+CAPRI Round 51, the Open Science CAPRI-COVID-19 initiative (for a full description of the Round and its objectives see [here](/index)).
 
 The described analysis takes into account the total number of predicted models for each target, corresponding to the 10 best models submitted by scorers. The total number of models per target is:
 * [T181](/capri-covid/T181/T181-index) (184 models)
@@ -35,3 +35,4 @@ The described analysis takes into account the total number of predicted models f
 The description of every target dowloadables can be found [here](/capri-covid/downloadable-description)
 
 <hr>
+<sup><sub>If you have any problem or comment you can contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>

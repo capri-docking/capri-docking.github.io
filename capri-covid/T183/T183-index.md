@@ -18,6 +18,12 @@ The results presented are of the Scorer submissions of Target 183.
 Only heteromeric contacts were kept. Then, for all models, we counted the number of contacts (defined as “contact hits”), the number of contacts a residue makes at the interface (defined as “residue hits”), and the number of different residues a residue interacts with (defined as “contact variability”).
 
 *Sequence conservation:* Sequence conservation was calculated using [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
+
+* [Target 181](/capri-covid/T181/T181-index)
+* [Target 182](/capri-covid/T182/T182-index)
+* [Target 183](/capri-covid/T183/T183-index) 
+* [Target 184](/capri-covid/T184/T184-index)
+
 <hr>
 
 ### Target 183
@@ -68,3 +74,4 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 
 The description of every dowloadables can be found [here](/capri-covid/downloadable-description)
 <hr>
+<sup><sub>If you have any problem or comment you can contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>

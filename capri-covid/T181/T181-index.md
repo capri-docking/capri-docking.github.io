@@ -27,6 +27,12 @@ The results presented are of the Scorer submissions of Target 181.
 Only heteromeric contacts were kept. Then, for all models, we counted the number of contacts (defined as “contact hits”), the number of contacts a residue makes at the interface (defined as “residue hits”), and the number of different residues a residue interacts with (defined as “contact variability”).
 
 *Sequence conservation:* Sequence conservation was calculated using [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
+
+* [Target 181](/capri-covid/T181/T181-index)
+* [Target 182](/capri-covid/T182/T182-index)
+* [Target 183](/capri-covid/T183/T183-index) 
+* [Target 184](/capri-covid/T184/T184-index)
+
 <hr>
 ### Target 181
 The set consists of 184 models.
@@ -48,6 +54,13 @@ All the downloadble file can be found at the end of this page.
 ##### Protein visualization
 <center><img src="/images/covid/T181/T181_ligand.png" width="900"/></center>
 Surface representation of the ligand __Orf3a__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
+
+<a href="/images/covid/T181/T181_ligand.png">
+
+<image src="/images/covid/T181/T181_ligand.png">
+
+</a>
+
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T181/T181_ligand_stereo.pse)
 
@@ -77,3 +90,5 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 
 The description of every dowloadables can be found [here](/capri-covid/downloadable-description)
 <hr>
+
+<sup><sub>If you have any problem or comment you can contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>

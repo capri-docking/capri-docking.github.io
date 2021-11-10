@@ -44,3 +44,7 @@ image:
   * Viral protein, with residues colored painted according to  1) sequence conservation, and 2) contact participation. Also shown is the center of mass of every receptor in green (from the different models):
     * orange → teal: sequence conservation (Rate4site Score). Orange: well conserved; teal less conserved
     * red → blue: Number of hits (contacts a residue is involved in in all models). Red: largest number of contacts according to all the models. Blue least number of contacts. For a better visualization, values are capped to a quantile of 0.90.
+
+
+<hr>
+<sup><sub>If you have any problem or comment you can contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>
