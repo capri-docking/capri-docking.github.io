@@ -55,12 +55,6 @@ All the downloadble file can be found at the end of this page.
 <center><img src="/images/covid/T181/T181_ligand.png" width="900"/></center>
 Surface representation of the ligand __Orf3a__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for a better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
-<a href="/images/covid/T181/T181_ligand.png">
-
-<image src="/images/covid/T181/T181_ligand.png">
-
-</a>
-
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T181/T181_ligand_stereo.pse)
 
