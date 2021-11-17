@@ -49,7 +49,7 @@ The PyMOL session where this image comes from can be downloaded [here](/capri-co
 
 ##### Residue hit and conservation plot 
 
-<center><img src="/images/covid/T182/T182_Nsp15_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+<center><img src="/images/covid/T182/T182_Nsp15_comparing_residue_hits_and_sequence_conservation.png" width="900"/></center>
 Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __Nsp15__ residues.
 
 #### Human protein analyses
@@ -61,11 +61,11 @@ The PyMOL session where this image comes from can be downloaded [here](/capri-co
 
 ##### Residue hit and conservation plot 
 **Chain A**
-<center><img src="/images/covid/T182/T182_NUTF2-A_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+<center><img src="/images/covid/T182/T182_NUTF2-A_comparing_residue_hits_and_sequence_conservation.png" width="900"/></center>
 Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __NUTF2 chain A__ residues.
 
 **Chain B**
-<center><img src="/images/covid/T182/T182_NUTF2-B_comparing_contacts_and_sequence_conservation.png" width="900"/></center>
+<center><img src="/images/covid/T182/T182_NUTF2-B_comparing_residue_hits_and_sequence_conservation.png" width="900"/></center>
 Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __NUTF2 chain B__ residues.
 
 
