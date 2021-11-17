@@ -2,7 +2,7 @@
 layout: page
 tags: [Jekyll, CAPRI, Docking, Simulation, Structural Biology, Computational Biology, Modelling, Protein Structure]
 modified: 2014-08-08T20:53:07.573882-04:00
-title: Round 51 CAPRI-COVID-19n Open Science Initiative First part of the prediction results, November xxx, 2021
+title: Round 51 CAPRI-COVID-19n Open Science Initiative - First part of the prediction results, November xxx, 2021
 comments: false
 image:
   feature: pages/banner_publications.png
@@ -12,7 +12,7 @@ This CAPRI prediction Round was carried out as part of [CAPRI COVID-19 Open Scie
 The 4th target (T185) is a multi-component complex of SARS-COV-2 proteins and RNA, suggested by Prof. Shozeb Haider (UCL).
 
 
-Here we present the first series of the results on the 3 virus-host complexes (T182-T184) prioritized from the study of Gordon et al. Prediction results for T185, the multi-component viral protein-RNA complex will be made available later. For information on Round 51 targets T181-T184 see “[Target Information](linktoprovide)”
+Here we present the first series of the results on the 3 virus-host complexes (T182-T184) prioritized from the study of Gordon et al. Prediction results for T185, the multi-component viral protein-RNA complex will be made available later. For information on Round 51 targets T181-T184 see “[Target Information](/capri-covid/target-descriptions)”
 
 
 For all the targets for which submitted models are evaluated here, experimental structures are so far not available. Evaluating the predicted models against the experimental structure of each target was therefore not possible. Instead, a novel alternative protocol was used to evaluate the prediction results. This protocol was developed based on an initial consultation with participants of Round 51, and was further defined by the working group composed of
