@@ -65,6 +65,12 @@ of the assembly (e.g. a model of acceptable quality or better). Therefore, the r
 
 
 <hr>
+### References
+
+1. A SARS-CoV-2 protein interaction map reveals targets for drug repurposing, Gordon DE et al., Nature. 2020 Jul;583(7816):459-468. doi: 10.1038/s41586-020-2286-9. Epub 2020 Apr 30.
+2. Lensink MF, Wodak SJ. Blind predictions of protein interfaces by docking calculations in CAPRI. Proteins 2010;78(15):3085-3095.
+3. Lensink MF, Velankar S, Baek M, Heo L, Seok C, Wodak SJ. The challenge of modeling protein assemblies: the CASP12-CAPRI experiment. Proteins 2018;86 Suppl 1:257-273.
+4. Lensink MF, et al. Prediction of protein assemblies, the next frontier: The CASP14-CAPRI experiment. Proteins. 2021 Aug 28. doi: 10.1002/prot.26222.
 
 <hr>
 ### Download description

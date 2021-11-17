@@ -17,14 +17,14 @@ image:
 * CSV file for receptor (human protein, in T181-184), listing statistics of residue participation in inter-subunit contacts (TXXX_receptor_*receptor-name*.csv):
   * 1st column: **Residue**: ResX.A where X is the residue number
   * 2nd column: **Residue hits**: Number of times the residue was predicted to be in contact in all the models
-  * 3rd column: **Contact variability**: Number of different contacts the residue forms in all models
+  * 3rd column: **Distinct contacts**: Number of different contacts the residue forms in all models
   * 4th column: [**Rate4Site**](https://www.tau.ac.il/~itaymay/cp/rate4site.html) sequence conservation Score (lowest = more conserved)
 
 <br>
 * CSV file for ligand (ciral protein, in T181-184), listing statistics of residue participation in inter-subunit contacts (TXXX_ligand_*ligand-name*.csv):
   * 1st column: **Residue**: ResX.A where X is the residue number
   * 2nd column: **Residue hits**: Number of times the residue was predicted to be in contact in all the models
-  * 3rd column: **Contact variability**: Number of different contacts the residue forms in all models
+  * 3rd column: **Distinct contacts**: Number of different contacts the residue forms in all models
   * 4th column: [**Rate4Site**](https://www.tau.ac.il/~itaymay/cp/rate4site.html) sequence conservation Score (lowest = more conserved)
 
 <br>
