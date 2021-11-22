@@ -28,7 +28,7 @@ Only heteromeric contacts were kept. Then, for all models, we counted the number
 ### Target 182
 The set consists of 181 models.
 
-All the downloadble file can be found at the end of this page.
+All the downloadable files can be found at the end of this page.
 
 #### Target description
 
@@ -40,8 +40,8 @@ All the downloadble file can be found at the end of this page.
 |PDB Template||[6WLC](https://www.ebi.ac.uk/pdbe/entry/pdb/6WLC)||[1GY5](https://www.ebi.ac.uk/pdbe/entry/pdb/1gy5)|
 |Description||Multifunctional protein involved in the transcription and replication of viral RNAs. Contains the proteinases responsible for the cleavages of the polyprotein.||Mediates the import of GDP-bound RAN from the cytoplasm into the nucleus which is essential for the function of RAN in cargo receptor-mediated nucleocytoplasmic transport. Thereby, plays indirectly a more general role in cargo receptor-mediated nucleocytoplasmic transport. Interacts with GDP-bound RAN in the cytosol, recruits it to the nuclear pore complex via its interaction with nucleoporins and promotes its nuclear import.|
 
-#### Viral protein analyses
-##### Protein visualization
+#### Analysis of viral protein
+##### Visualization
 <center><img src="/images/covid/T182/T182_ligand.png" width="900"/></center>
 Surface representation of the ligand __Nsp15__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
@@ -52,8 +52,8 @@ The PyMOL session where this image comes from can be downloaded [here](/capri-co
 <center><img src="/images/covid/T182/T182_Nsp15_comparing_residue_hits_and_sequence_conservation.png" width="900"/></center>
 Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __Nsp15__ residues.
 
-#### Human protein analyses
-##### Protein visualization
+#### Analysis of human protein
+##### Visualization
 <center><img src="/images/covid/T182/T182_receptor.png" width="900"/></center>
 Surface representation of the ligand __NUTF2__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
@@ -76,6 +76,6 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 |---|---|---|---|
 | T182| [T182_ligand](/capri-covid/PyMOL-sessions/T182/T182_ligand_stereo.pse) / [T182_receptor](/capri-covid/PyMOL-sessions/T182/T182_receptor_stereo.pse)|[T182_contact-hits](/capri-covid/contact-hits/T182_contact_hits.csv)|[T182_csv](/capri-covid/protein-descriptions/T182_csv.zip)|
 
-The description of every dowloadables can be found [here](/capri-covid/downloadable-description)
+The description of dowloadable files can be found [here](/capri-covid/downloadable-description)
 <hr>
-<sup><sub>If you have any problem or comment you can contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>
+<sup><sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>
