@@ -35,7 +35,7 @@ Only heteromeric contacts were kept. Then, for all models, we counted the number
 
 <hr>
 ### Target 181
-The set consists of 184 models.
+The set consists of 185 models.
 
 All the downloadble files can be found at the end of this page.
 
@@ -85,4 +85,4 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 The description of the dowloadable files can be found [here](/capri-covid/downloadable-description)
 <hr>
 
-<sup><sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>
+<sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub>

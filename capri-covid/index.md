@@ -2,14 +2,14 @@
 layout: page
 tags: [Jekyll, CAPRI, Docking, Simulation, Structural Biology, Computational Biology, Modelling, Protein Structure]
 modified: 2014-08-08T20:53:07.573882-04:00
-title: Round 51 CAPRI-COVID-19n Open Science Initiative - Part I - Prediction result summary, version November 2021
+title: Round 51 CAPRI-COVID-19 Open Science Initiative - Part I - Prediction result summary, version November 2021
 comments: false
 image:
   feature: pages/banner_publications.png
 ---
 ### Introduction
-This CAPRI prediction Round was carried out as part of the [CAPRI COVID-19 Open Science initiative](https://www.ebi.ac.uk/pdbe/complex-pred/capri/round/51/).  The Round offered 4 targets: T182, T183, T184, T185. The first three of these are complexes of SARS-COV-2 proteins with human host proteins. The complexes were prioritized from the interaction proteomics study of Gordon et al. (2020) [1].  
-The fourth target (T185) is a multi-component complex of SARS-COV-2 proteins and RNA, suggested by Prof. Shozeb Haider (UCL).  
+This CAPRI prediction Round was carried out as part of the [CAPRI COVID-19 Open Science initiative](https://www.ebi.ac.uk/pdbe/complex-pred/capri/round/51/). The Round offered 4 targets: T182, T183, T184, T185. The first three of these are complexes of SARS-CoV-2 proteins with human host proteins. The complexes were prioritized from the interaction proteomics study of Gordon et al. (2020) [1].  
+The fourth target (T185) is a multi-component complex of SARS-CoV-2 proteins and RNA, suggested by Prof. Shozeb Haider (UCL).  
 Target T181 - also a virus-host complex - was offered in the joint CASP14-CAPRI prediction (CAPRI Round 50) in 2020 and has been added to this analysis as its three-dimensional structure to-date has not been resolved.
 
 
@@ -20,11 +20,15 @@ For all the targets for which submitted models are evaluated here, experimental 
 [Marc Lensink](mailto:marc.lensink@univ-lille.fr)<sup><sub>1</sub></sup> and [Shoshana Wodak](mailto:shoshana.wodak@gmail.com)<sup><sub>2</sub></sup> (the CAPRI assessment team), [Théo Mauri](mailto:theo.mauri@univ-lille.fr)<sup><sub>1</sub></sup>, [Guillaume Brysbaert](mailto:guillaume.brysbaert@univ-lille.fr)<sup><sub>1</sub></sup>, members of Marc Lensink’s team and [Paul Bates](mailto:paul.bates@crick.ac.uk)<sup><sub>3</sub></sup>.
 
 
-The evaluation of submitted models for T181-T184 consists of three main parts, representing analyses of increasing complexity and different finality. **Part I**, presented here, involves evaluating the propensity of residues in each protein (receptor or ligand) to contribute to the interaction interface, and the number of distinct inter-molecular residue-residue contacts a residue engages, in the ensemble of submitted models for each target. In addition, the frequency with which protein residues engage in inter-molecular contacts in the predicted models, is compared to residue conservation levels, which tend to indicate involvement in biological function. These properties taken together may be used to prioritize protein regions for drug binding experiments, or targeted mutations that may interfere with the formation the virus-host complex in question, or simply indicate ‘sticky’ regions that may engage in promiscuous interactions.
+The evaluation of submitted models for T181-T184 consists of three main parts, representing analyses of increasing complexity and different finality. **Part I**, presented here, involves evaluating the propensity of residues in each protein (receptor or ligand) to contribute to the interaction interface, and the number of distinct inter-molecular residue-residue contacts a residue engages, in the ensemble of submitted models for each target. **In addition, the frequency with which protein residues engage in inter-molecular contacts in the predicted models, is compared to residue conservation levels, which tend to indicate involvement in biological function. These properties taken together may be used to prioritize protein regions for drug binding experiments, or targeted mutations that may interfere with the formation the virus-host complex in question, or simply indicate ‘sticky’ regions that may engage in promiscuous interactions**.
 
 
-The analyses of **parts II and III** are still in progress. In part II, the models submitted for each target are clustered on the basis of structural similarity and clusters are ranked using a set of objective criteria. Highly ranking clusters may be considered as containing more reliably predicted complexes.  In part III, AlphaFold 2 and ClusPro are used in combination to generated models for all 4 targets. For targets where the human and/or COV-SARS-2 protein is involved in higher order assemblies, the predictions are performed in the context of these additional assemblies. This analysis is carried out in collaboration with Dima Kozakov [midas@laufercenter.org](mailto:midas@laufercenter.org) and Dzmitry Padhorny [dnpodgorny@gmail.com](mailto:dnpodgorny@gmail.com).
+The analyses of **parts II and III** are still in progress. In part II, the models submitted for each target are clustered on the basis of structural similarity and clusters are ranked using a set of objective criteria. Highly ranking clusters may be considered as containing more reliably predicted complexes.  In part III, AlphaFold 2 and ClusPro are used in combination to generated models for all 4 targets. For targets where the human and/or SARS-CoV-2 protein is involved in higher order assemblies, the predictions are performed in the context of these additional assemblies. This analysis is carried out in collaboration with [Dima Kozakov](mailto:midas@laufercenter.org) and [Dzmitry Padhorny](mailto:dnpodgorny@gmail.com)..
 
+
+<sup><sub>1</sub></sup><sub>: Univ. Lille, CNRS; UMR8576 - UGSF - Unité de Glycobiologie Structurale et Fonctionnelle, Lille, F-59000, France</sub>  
+<sup><sub>2</sub></sup><sub>: Center for Structural Biology, VIB-VUB, Brussels, Belgium</sub>  
+<sup><sub>3</sub></sup><sub>: Biomolecular Modelling Laboratory, The Francis Crick Institute, London, UK.</sub>
 <hr>
 
 ### Material and Methods
@@ -36,10 +40,10 @@ The analyses of **parts II and III** are still in progress. In part II, the mode
 *__Table 1__: summary of target participation; number of models submitted and evaluated.*
 
 The described analysis takes into account the total number of predicted models for each target, corresponding to the 10 best models submitted by scorers. The total number of models per target is:
-* [T181](/capri-covid/T181/T181-index) (184 models)
-* [T182](/capri-covid/T182/T182-index) (181 models)
-* [T183](/capri-covid/T183/T183-index) (164 models)
-* [T184](/capri-covid/T184/T184-index) (190 models)
+* [T181](/capri-covid/T181/T181-index) (**185 models selected** by scorers from the **1257 models submitted** for this round by modelers)
+* [T182](/capri-covid/T182/T182-index) (**181 models selected** by scorers from the **1972 models submitted** for this round by modelers)
+* [T183](/capri-covid/T183/T183-index) (**164 models selected** by scorers from the **1534 models submitted** for this round by modelers)
+* [T184](/capri-covid/T184/T184-index) (**190 models selected** by scorers from the **1811 models submitted** for this round by modelers)
 
 
 *__Table 2__: summary of target information.*
@@ -83,4 +87,4 @@ of the assembly (e.g. a model of acceptable quality or better). Therefore, the r
 The description of target dowloadables can be found [here](/capri-covid/downloadable-description)
 
 <hr>
-<sup><sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>
+<sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub>
