@@ -45,6 +45,12 @@ The described analysis takes into account the total number of predicted models f
 * [T183](/capri-covid/T183/T183-index) (**164 models selected** by scorers from the **1534 models submitted** for this round by modelers)
 * [T184](/capri-covid/T184/T184-index) (**190 models selected** by scorers from the **1811 models submitted** for this round by modelers)
 
+|Target ID (clickable)| Number of models selected by scorers (scoreset) | Total number of models submitted|
+|:--|---|---|
+|[T181](/capri-covid/T181/T181-index)|185|1257|
+|[T182](/capri-covid/T182/T182-index)|181|1972|
+|[T183](/capri-covid/T183/T183-index)|164|1534|
+|[T184](/capri-covid/T184/T184-index)|190|1811|
 
 *__Table 2__: summary of target information.*
 
