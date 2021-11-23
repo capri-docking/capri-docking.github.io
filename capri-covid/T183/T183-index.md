@@ -43,26 +43,42 @@ All the downloadable file can be found at the end of this page.
 
 #### Analysis of viral protein
 ##### Visualization
-<center><img src="/images/covid/T183/T183_ligand.png" width="900"/></center>
+<center>
+<a href="/images/covid/T183/T183_ligand.png">
+<img src="/images/covid/T183/T183_ligand.png" width="900"/>
+</a>
+</center>
 Surface representation of the ligand __Nsp8__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T183/T183_ligand_stereo.pse)
 
 ##### Residue hit and conservation plot 
 
-<center><img src="/images/covid/T183/T183_Nsp8_comparing_residue_hits_and_sequence_conservation.png" width="900"/></center>
+<center>
+<a href="/images/covid/T183/T183_Nsp8_comparing_residue_hits_and_sequence_conservation.png">
+<img src="/images/covid/T183/T183_Nsp8_comparing_residue_hits_and_sequence_conservation.png" width="900"/>
+</a>
+</center>
 Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __Nsp8__ residues.
 
 #### Analysis of human protein
 ##### Visualization
-<center><img src="/images/covid/T183/T183_receptor.png" width="900"/></center>
+<center>
+<a href="/images/covid/T183/T183_receptor.png">
+<img src="/images/covid/T183/T183_receptor.png" width="900"/>
+</a>
+</center>
 Surface representation of the ligand __EXOSC8__ protein __sequence conservation__ (__left__), coloring from orange (conserved) to teal (not conserved) and of the __residue hits__ (__right__), colored from red (high occurrence, capped at the 90th percentile for better visualization) to blue (few occurrences). Green spheres are the center of mass of receptors for every model.
 
 The PyMOL session where this image comes from can be downloaded [here](/capri-covid/PyMOL-sessions/T183/T183_receptor_stereo.pse)
 
 ##### Residue hit and conservation plot 
 
-<center><img src="/images/covid/T183/T183_EXOSC8_comparing_residue_hits_and_sequence_conservation.png" width="900"/></center>
+<center>
+<a href="/images/covid/T183/T183_EXOSC8_comparing_residue_hits_and_sequence_conservation.png">
+<img src="/images/covid/T183/T183_EXOSC8_comparing_residue_hits_and_sequence_conservation.png" width="900"/>
+</a>
+</center>
 Barplot representing the __residue hits__ (__blue__) and the __sequence conservation__ (__red__) with [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html) score where the lowest means the most conserved of the __EXOSC8__ residues.
 
 <hr>
