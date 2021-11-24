@@ -17,7 +17,7 @@ Here we present initial results on the 4 virus-host complexes (T181-T184) listed
 
 
 For all the targets for which submitted models are evaluated here, experimental structures are so far not available. Evaluating the predicted models against the experimental structure of each target was therefore not possible. Instead, a novel alternative protocol was used to evaluate the prediction results. This protocol was developed based on an initial consultation with participants of Round 51, and was further defined by the working group composed of
-[Marc Lensink](mailto:marc.lensink@univ-lille.fr)<sup><sub>1</sub></sup> and [Shoshana Wodak](mailto:shoshana.wodak@gmail.com)<sup><sub>2</sub></sup> (the CAPRI assessment team), [Théo Mauri](mailto:theo.mauri@univ-lille.fr)<sup><sub>1</sub></sup>, [Guillaume Brysbaert](mailto:guillaume.brysbaert@univ-lille.fr)<sup><sub>1</sub></sup>, members of Marc Lensink’s team and [Paul Bates](mailto:paul.bates@crick.ac.uk)<sup><sub>3</sub></sup>.
+[Marc Lensink](mailto:marc.lensink@univ-lille.fr)<sup><sub>1</sub></sup> and [Shoshana Wodak](mailto:shoshana.wodak@gmail.com)<sup><sub>2</sub></sup> (the CAPRI assessment team), [Théo Mauri](mailto:theo.mauri@univ-lille.fr)<sup><sub>1</sub></sup>, [Guillaume Brysbaert](mailto:guillaume.brysbaert@univ-lille.fr)<sup><sub>1</sub></sup>, members of Marc Lensink’s team, and [Paul Bates](mailto:paul.bates@crick.ac.uk)<sup><sub>3</sub></sup>.
 
 
 The evaluation of submitted models for T181-T184 consists of three main parts, representing analyses of increasing complexity and different finality. **Part I**, presented here, involves evaluating the propensity of residues in each protein (receptor or ligand) to contribute to the interaction interface, and the number of distinct inter-molecular residue-residue contacts a residue engages, in the ensemble of submitted models for each target. In addition, the frequency with which protein residues engage in inter-molecular contacts in the predicted models, is compared to residue conservation levels, which tend to indicate involvement in biological function. **These properties taken together may be used to prioritize protein regions for drug binding experiments, or targeted mutations that may interfere with the formation of the virus-host complex in question, or simply indicate ‘sticky’ regions that may engage in promiscuous interactions**.
@@ -31,45 +31,49 @@ The analyses of **parts II and III** are still in progress. In part II, the mode
 <sup><sub>3</sub></sup><sub>: Biomolecular Modelling Laboratory, The Francis Crick Institute, London, UK.</sub>
 <hr>
 
+### Results
+
+Go directly to results for target:
+
+* [T181](/capri-covid/T181/T181-index) - **Orf3a / HMOX1**
+* [T182](/capri-covid/T182/T182-index) - **Nsp15 / NUTF2**
+* [T183](/capri-covid/T183/T183-index) - **Nsp8 / EXOSC8**
+* [T184](/capri-covid/T184/T184-index) - **Nsp7 / RhoA**
+
+
+<hr>
 ### Material and Methods
 
-#### Evaluated models
+#### Submitted models
 
-*__Table-to-be-inserted__*
+||Predictors||Scorers||
+|Target ID|Groups|Models|Groups|Models|
+|:--|---|---|---|---|
+|T181|26|1257|19|185|
+|T182|30|1972|19|181|
+|T183|27|1523|19|164|
+|T184|30|1811|19|190|
 
 *__Table 1__: summary of target participation; number of models submitted and evaluated.*
 
-The described analysis takes into account the total number of predicted models for each target, corresponding to the 10 best models submitted by scorers. The total number of models per target is:
-* [T181](/capri-covid/T181/T181-index) (**185 models selected** by scorers from the **1257 models submitted** for this round by modelers)
-* [T182](/capri-covid/T182/T182-index) (**181 models selected** by scorers from the **1972 models submitted** for this round by modelers)
-* [T183](/capri-covid/T183/T183-index) (**164 models selected** by scorers from the **1534 models submitted** for this round by modelers)
-* [T184](/capri-covid/T184/T184-index) (**190 models selected** by scorers from the **1811 models submitted** for this round by modelers)
 
-|Target ID (clickable)| Number of models selected by scorers (scoreset) | Total number of models submitted by modelers|
-|:--|---|---|
-|[T181](/capri-covid/T181/T181-index)|185|1257|
-|[T182](/capri-covid/T182/T182-index)|181|1972|
-|[T183](/capri-covid/T183/T183-index)|164|1534|
-|[T184](/capri-covid/T184/T184-index)|190|1811|
+| Target ID |  ||||
+| CAPRI | CASP | Components | Uniprot IDs| PDB Templates |
+|---|---|---|:--|---|
+| T181| H1103| **Orf3a** / **HMOX1**| [P0DTC3](https://www.uniprot.org/uniprot/P0DTC3) / [P09601](https://www.uniprot.org/uniprot/P09601)| [6XDC](https://www.ebi.ac.uk/pdbe/entry/pdb/6xdc) / [1N3U](https://www.ebi.ac.uk/pdbe/entry/pdb/1n3u)|
+| T182| NA| **Nsp15** / **NUTF2**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [P61970](https://www.uniprot.org/uniprot/P61970)| [6WLC](https://www.ebi.ac.uk/pdbe/entry/pdb/6WLC) / [1GY5](https://www.ebi.ac.uk/pdbe/entry/pdb/1gy5)|
+| T183| NA| **Nsp8** / **EXOSC8**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [Q96B26](https://www.uniprot.org/uniprot/Q96B26)| [2NN6](https://www.ebi.ac.uk/pdbe/entry/pdb/2nn6) / [3UB0:D](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [2AHM:G](https://www.ebi.ac.uk/pdbe/entry/pdb/2ahm), [6XIP](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip)|
+| T184| NA| **Nsp7** / **RhoA**|[P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [P61586](https://www.uniprot.org/uniprot/P61586)| [6XIP:C](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip), [3UB0:C](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [6M5I:A](https://www.ebi.ac.uk/pdbe/entry/pdb/6m5i) / [5C2K:A](https://www.ebi.ac.uk/pdbe/entry/pdb/5c2k), [4LHW:E](https://www.ebi.ac.uk/pdbe/entry/pdb/4lhw), [2J1L:A](https://www.ebi.ac.uk/pdbe/entry/pdb/2j1l)|
 
 *__Table 2__: summary of target information.*
 
 
-| CAPRI Target ID| CASP14 Target ID| Complex components| Uniprot IDs| PDB Templates|
-|---|---|---|:--|---|
-| T181| H1103| **Orf3a** / **HMOX1**| [P0DTC3](https://www.uniprot.org/uniprot/P0DTC3) / [P09601](https://www.uniprot.org/uniprot/P09601)| [6XDC](https://www.ebi.ac.uk/pdbe/entry/pdb/6xdc) / [1N3U](https://www.ebi.ac.uk/pdbe/entry/pdb/1n3u)|
-| T182| NA| **Nsp15** / **NUTF2**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [P61970](https://www.uniprot.org/uniprot/P61970)| [6WLC](https://www.ebi.ac.uk/pdbe/entry/pdb/6WLC) / [1GY5](https://www.ebi.ac.uk/pdbe/entry/pdb/1gy5)|
-| T183| NA| **Nsp8** / **EXOSC8**| [P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [Q96B26](https://www.uniprot.org/uniprot/Q96B26)| [2NN6](https://www.ebi.ac.uk/pdbe/entry/pdb/2nn6) / [3UB0.D](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0), [2AHM.G](https://www.ebi.ac.uk/pdbe/entry/pdb/2ahm), [6XIP](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip)|
-| T184| NA| **Nsp7** / **RhoA**|[P0DTD1](https://www.uniprot.org/uniprot/P0DTD1) / [P61586](https://www.uniprot.org/uniprot/P61586)| [6XIP.C](https://www.ebi.ac.uk/pdbe/entry/pdb/6xip),[3UB0.C](https://www.ebi.ac.uk/pdbe/entry/pdb/3ub0),[6M5I.A](https://www.ebi.ac.uk/pdbe/entry/pdb/6m5i) / [5C2K.A](https://www.ebi.ac.uk/pdbe/entry/pdb/5c2k),[4LHW.E](https://www.ebi.ac.uk/pdbe/entry/pdb/4lhw),[2J1L.A](https://www.ebi.ac.uk/pdbe/entry/pdb/2j1l)|
-
-
-<hr>
 #### Analysis method
 
 **Part I.**
 
 Part I of the analysis comprised the following steps.  
-1- Using the **ensemble of submitted models**, the following quantities were computed: (a) the number of times a residue of the Receptor and Ligand proteins, respectively, makes contacts with a residue of the partner protein (with a contact being defined as atoms of both residues coming within a distance of ≤ 5Å of one another)  (defined as **residue hits**), (b) the total number of inter-molecular residue-residue contacts a residue engages in, denoted as **contact hits**, and (c) the number of distinct inter-molecular residue-residue contacts a residue engages in, denoted as **distinct contacts**
+1- Using the **ensemble of scorer-submitted models**, the following quantities were computed: (a) the number of times a residue of the Receptor and Ligand proteins, respectively, makes contacts with a residue of the partner protein (with a contact being defined as atoms of both residues coming within a distance of ≤ 5Å of one another)  (defined as **residue hits**), (b) the total number of inter-molecular residue-residue contacts a residue engages in, denoted as **contact hits**, and (c) the number of distinct inter-molecular residue-residue contacts a residue engages in, denoted as **distinct contacts**
 
 *Rationale:* Previous work has shown [2-4] that predicting the residues that contribute to the interaction interface (Recall ≥ 0.5) is easier than producing a correct model
 of the assembly (e.g. a model of acceptable quality or better). Therefore, the residues of the receptor or ligand protein predicted to engage most often in contacts with the partner protein in the **ensemble of submitted models**, may indicate regions of the proteins that are part of the interaction interface even for a significant fraction of incorrect modes. 
