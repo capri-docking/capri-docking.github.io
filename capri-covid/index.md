@@ -46,7 +46,7 @@ Go directly to results for target:
 
 #### Submitted models
 
-||Predictors||Scorers||
+||Predictors|Predictors|Scorers|Scorers|
 |Target ID|Groups|Models|Groups|Models|
 |:--|---|---|---|---|
 |T181|26|1257|19|185|
