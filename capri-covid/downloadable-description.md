@@ -47,4 +47,5 @@ image:
 
 
 <hr>
-<sup><sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>
+
+For questions, comments or feedback please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)

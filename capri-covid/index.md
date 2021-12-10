@@ -97,4 +97,5 @@ of the assembly (e.g. a model of acceptable quality or better). Therefore, the r
 The description of target dowloadables can be found [here](/capri-covid/downloadable-description)
 
 <hr>
-<sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub>
+
+For questions, comments of feedback please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)

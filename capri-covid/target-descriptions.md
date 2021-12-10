@@ -9,7 +9,7 @@ image:
 ---
 ### CASP14 target H1103; CAPRI target T181
 
-This is a complex of the SARS-COV2 protein Orf3a (PDB:6xdc) with the Human heme oxygenase HMOX1(PDB:1n3u): A classical docking target, (A1B1 stoichiometry), with known structures of both components.
+This is a complex of the SARS-COV2 protein Orf3a (PDB:[6xdc](https://www.ebi.ac.uk/pdbe/entry/pdb/6xdc)) with the Human heme oxygenase HMOX1 (PDB:[1n3u](https://www.ebi.ac.uk/pdbe/entry/pdb/1n3u)): A classical docking target, (A1B1 stoichiometry), with known structures of both components.
 
 #### Sequence ORF3a
 
@@ -42,7 +42,11 @@ Roland Dunbrack's analysis indicates that NUTF2/NTF2 is a dimer.
 - Previous studies have identified a surface hydrophobic patch centred on Trp7 in rNTF2 (rat protein) (Phe5 in yNTF2: Yeast protein) that interacts with FxFG repeats.   
 - According to the rat structure, the FxFG peptide binds to the subunit interface residues: **Pro75, Pro77 and TRP7** contribute to the hydrophobic depression, whereas in the second chain **Glu35, T115, Cys38, Gln45 and Gln47** contribute.  Not totally sure about alignment with Rat sequence (had to derive the alignment manually).
 
-<center><img src="/images/covid/T182/T182_information.png" width="900"/></center>  
+<center>
+<a href="/images/covid/T182/T182_information.png">
+<img src="/images/covid/T182/T182_information.png" width="900"/>
+</a>
+</center>
 Figure  2 from  [EMBO J](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC126060/). 2002 Jun 17; 21(12): 2843–2853. 
 doi: [10.1093/emboj/cdf305](https://www.embopress.org/doi/full/10.1093/emboj/cdf305)
 
@@ -81,9 +85,13 @@ EXOSC8: Residues to be occluded for docking on this subunit, should be all the r
 
 
 The Figure below (copied from:[https://doi.org/10.1016/j.cell.2006.10.037](https://doi.org/10.1016/j.cell.2006.10.037)) shows the buried areas (interfaces) between the 9 subunits in the reconstituted Exosome.  
-These contacts/ interfaces may (eventually) be used to delineate the available regions of ExosC8 (Rrp43), available for interaction with NSP8. FYI: EXOSC2= Rrp4,EXOSC3=Rrp40, EXOSC4=Rrp41, EXOSC5= Rrp46. 
+These contacts/interfaces may (eventually) be used to delineate the available regions of ExosC8 (Rrp43), available for interaction with NSP8. FYI: EXOSC2= Rrp4,EXOSC3=Rrp40, EXOSC4=Rrp41, EXOSC5= Rrp46. 
 
-<center><img src="/images/covid/T183/EXOSC8.png" width="900"/></center>
+<center>
+<a href="/images/covid/T183/EXOSC8.png">
+<img src="/images/covid/T183/EXOSC8.png" width="900"/>
+</a>
+</center>
 
 #### Sequence SARS-COV-2 NSP8 (198 residues) 
 
@@ -130,4 +138,5 @@ LRNDEHTRRELAKMKQEPVKPEEGRDMANRIGAFGYMECSAKTKDGVREVFEMATRAALQ
 ARRGKKKSGCLVL
 
 <hr>
-<sup><sub>If you have any problem or comment you can contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>
+
+For questions, comments of feedback please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)

@@ -19,6 +19,7 @@ Only heteromeric contacts were kept. Then, for all models, we counted the number
 
 *Sequence conservation:* Sequence conservation was calculated using [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
 
+* [Home page](/capri-covid/index)
 * [Target 181](/capri-covid/T181/T181-index)
 * [Target 182](/capri-covid/T182/T182-index)
 * [Target 183](/capri-covid/T183/T183-index) 
@@ -98,4 +99,5 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 
 The description of dowloadable files can be found [here](/capri-covid/downloadable-description)
 <hr>
-<sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub>
+
+For questions, comments of feedback please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)
