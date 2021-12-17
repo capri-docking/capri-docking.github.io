@@ -27,6 +27,7 @@ Only heteromeric contacts were kept. Then, for all models, we counted the number
 
 *Sequence conservation:* Sequence conservation was calculated using [Rate4Site](https://www.tau.ac.il/~itaymay/cp/rate4site.html). Here, a low score means good conservation.
 
+* [Home page](/capri-covid/)
 * [Target 181](/capri-covid/T181/T181-index)
 * [Target 182](/capri-covid/T182/T182-index)
 * [Target 183](/capri-covid/T183/T183-index) 
