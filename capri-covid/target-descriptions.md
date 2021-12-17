@@ -9,7 +9,7 @@ image:
 ---
 ### CASP14 target H1103; CAPRI target T181
 
-This is a complex of the SARS-COV2 protein Orf3a (PDB:6xdc) with the Human heme oxygenase HMOX1(PDB:1n3u): A classical docking target, (A1B1 stoichiometry), with known structures of both components.
+This is a complex of the SARS-COV2 protein Orf3a (PDB:[6xdc](https://www.ebi.ac.uk/pdbe/entry/pdb/6xdc/)) with the Human heme oxygenase HMOX1 (PDB:[1n3u](https://www.ebi.ac.uk/pdbe/entry/pdb/1n3u/)): A classical docking target, (A1B1 stoichiometry), with known structures of both components.
 
 #### Sequence ORF3a
 
@@ -83,7 +83,11 @@ EXOSC8: Residues to be occluded for docking on this subunit, should be all the r
 The Figure below (copied from:[https://doi.org/10.1016/j.cell.2006.10.037](https://doi.org/10.1016/j.cell.2006.10.037)) shows the buried areas (interfaces) between the 9 subunits in the reconstituted Exosome.  
 These contacts/ interfaces may (eventually) be used to delineate the available regions of ExosC8 (Rrp43), available for interaction with NSP8. FYI: EXOSC2= Rrp4,EXOSC3=Rrp40, EXOSC4=Rrp41, EXOSC5= Rrp46. 
 
-<center><img src="/images/covid/T183/EXOSC8.png" width="900"/></center>
+<center>
+<a href="/images/covid/T183/EXOSC8.png">
+<img src="/images/covid/T183/EXOSC8.png" width="900"/>
+</a>
+</center>
 
 #### Sequence SARS-COV-2 NSP8 (198 residues) 
 
@@ -110,8 +114,11 @@ SGLTGAKLQDCMSRAVTRHKEVKKLMDEVIKSMKPK
 RhoA is a small GTPase that has GTP-bound and GDP-bound forms, with many post-translational modifications. Signalling/hub protein (27 curated interactions, plus it can be a subunit of a dozen more complexes), involved in cytoskeleton reorganization. Looks to be always a monomer in its protein-protein interactions. It has known interactions with viral proteins. A literature search might shed more light on the exact RhoA form and if there are additional proteins/molecules involved. To be seen if the interaction is just with Nsp7 or also with Nsp8/Nsp12.  
 Other relate small GTPases: *Rab10/Rab1A/Rab18/Rab8A/Arf6/Rab7A/RalA*
 
-<center><img src="/images/covid/T184/RhoA.png" width="900"/></center>
-
+<center>
+<a href="/images/covid/T184/RhoA.png">
+<img src="/images/covid/T184/RhoA.png" width="900"/>
+</a>
+</center>
 
 The above Picture is a screenshot from Pymol of 1OW3 (RhoA.GDP.MgF3-in Complex with RhoGAP; both Human). RhoA  interacts with many different proteins forming large interaction interfaces. Some of these interfaces may engage the same surface region of RhoA. This needs to be examined to find out if this region (or similar) is also part of the interface with NSP7 in the submitted models.
 
@@ -130,4 +137,4 @@ LRNDEHTRRELAKMKQEPVKPEEGRDMANRIGAFGYMECSAKTKDGVREVFEMATRAALQ
 ARRGKKKSGCLVL
 
 <hr>
-<sup><sub>If you have any problem or comment you can contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub></sup>
+For questions, comments or feedback please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)

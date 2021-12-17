@@ -101,5 +101,4 @@ Barplot representing the __residue hits__ (__blue__) and the __sequence conserva
 
 The description of the dowloadable files can be found [here](/capri-covid/downloadable-description)
 <hr>
-
-<sub>For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)</sub>
+For question, comment or feedback please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr) or [Théo Mauri](mailto:theo.mauri@univ-lille.fr)
