@@ -75,22 +75,23 @@ Your request will be subjected to review by the CAPRI committee.
 
 ### Performance of docking servers in CAPRI
 
-| | | Rank | |
-| SERVER | 2017(a) | 2017(b) | 2016(c) | 2013(d) |
-|:-|:--:|:--:|:--:|:--:|
-| [<span style="color:#267CB9">CLUSPRO</span>](https://cluspro.bu.edu) | 2 | 1/1  | 2 | 1 |
-| [<span style="color:#267CB9">DOCK/PIERR</span>](http://clsb.ices.utexas.edu/web/dock.html) | NA  | 6 | 6 | 4# |
-| [<span style="color:#267CB9">GALAXYPPDOCK</span>](http://galaxy.seoklab.org) | NA | 5 | NA | NA |
-| [<span style="color:#267CB9">GRAMM-X</span>](http://vakser.compbio.ku.edu/resources/gramm/grammx) | 9 | 6 | 4 | 9 |
-| [<span style="color:#267CB9">HADDOCK</span>](https://haddock.science.uu.nl/services/HADDOCK2.2) | 7 | 3/2 | 1 | 2 |
-| [<span style="color:#267CB9">HEXSEVER</span>](http://hexserver.loria.fr) | NA | NA | NA | 5 |
-| [<span style="color:#267CB9">LZERD</span>](http://kiharalab.org/proteindocking/pilzerd.php) | 3 | 2/3 | 5 | 7 |
-| [<span style="color:#267CB9">MEGADOCK</span>](http://www.bi.cs.titech.ac.jp/megadock) | NA | NA/3 | NA | NA |
-| [<span style="color:#267CB9">PATCHDOCK/FIBERDOCK</span>](http://bioinfo3d.cs.tau.ac.il/PatchDock) | NA | 6 | NA | 9/6** |
-| [<span style="color:#267CB9">PYDOCKWEB</span>](https://life.bsc.es/servlet/pydock/home) |   | 4/1 | NA | NA |
-| [<span style="color:#267CB9">SURFIT</span>](https://sysimm.ifrec.osaka-u.ac.jp/docking/main) | NA | NA | NA | 8 |
-| [<span style="color:#267CB9">SWARMDOCK</span>](https://bmm.crick.ac.uk/~svc-bmm-swarmdock) | 6 | 3/3 | 3 | 3 |
-| [<span style="color:#267CB9">TACOS</span>](https://zhanglab.ccmb.med.umich.edu/TACOS)  | NA | NA | NA | 9 |
+| | | | Rank | |
+| SERVER | 2020(a) | 2017(b) | 2017(c) | 2016(d) | 2013(e) |
+|:-|:--:|:--:|:--:|:--:|:--:|
+| [<span style="color:#267CB9">CLUSPRO</span>](https://cluspro.bu.edu) | 5 | 2 | 1/1  | 2 | 1 |
+| [<span style="color:#267CB9">DOCK/PIERR</span>](http://clsb.ices.utexas.edu/web/dock.html) | NA | NA | 6 | 6 | 4# |
+| [<span style="color:#267CB9">GALAXYPPDOCK</span>](http://galaxy.seoklab.org) | 3 | NA | 5 | NA | NA |
+| [<span style="color:#267CB9">GRAMM-X</span>](http://vakser.compbio.ku.edu/resources/gramm/grammx) | NA | 9 | 6 | 4 | 9 |
+| [<span style="color:#267CB9">HADDOCK</span>](https://haddock.science.uu.nl/services/HADDOCK2.2) | NA | 7 | 3/2 | 1 | 2 |
+| [<span style="color:#267CB9">HDOCK</span>](https://hdock.phys.hust.edu.cn) | 5 | NA | NA | NA | NA |
+| [<span style="color:#267CB9">HEXSEVER</span>](http://hexserver.loria.fr) | NA | NA | NA | NA | 5 |
+| [<span style="color:#267CB9">LZERD</span>](http://kiharalab.org/proteindocking/pilzerd.php) | 2 | 3 | 2/3 | 5 | 7 |
+| [<span style="color:#267CB9">MEGADOCK</span>](http://www.bi.cs.titech.ac.jp/megadock) | NA | NA | NA/3 | NA | NA |
+| [<span style="color:#267CB9">PATCHDOCK/FIBERDOCK</span>](http://bioinfo3d.cs.tau.ac.il/PatchDock) | NA | NA | 6 | NA | 9/6** |
+| [<span style="color:#267CB9">PYDOCKWEB</span>](https://life.bsc.es/servlet/pydock/home) | NA | NA | 4/1 | NA | NA |
+| [<span style="color:#267CB9">SURFIT</span>](https://sysimm.ifrec.osaka-u.ac.jp/docking/main) | NA | NA | NA | NA | 8 |
+| [<span style="color:#267CB9">SWARMDOCK</span>](https://bmm.crick.ac.uk/~svc-bmm-swarmdock) | 3 | 6 | 3/3 | 3 | 3 |
+| [<span style="color:#267CB9">TACOS</span>](https://zhanglab.ccmb.med.umich.edu/TACOS)  | NA | NA | NA | NA | 9 |
 
   <i># Dock-PIE, an earlier version of Dock-PIERR</i>
   <br>
@@ -102,14 +103,17 @@ NA, means that no docking predictions were evaluated for the corresponding serve
 
 **References**
 
-  (a) The challenge of modeling protein assemblies: The CASP12-CAPRI experiment. 
-Lensink MF, Velankar S, Baek M, Heo L, Seok C, Wodak SJ. _Proteins._ Advanced Online Publication doi: 10.1002/prot.25419. (2017)
+  (a) <i>Prediction of protein assemblies, the next frontier: The CASP14-CAPRI experiment.</i>
+Lensink MF, Brysbaert G, Mauri T, Nadzirin N, Velankar S, Chaleil RAG, Clarence T, Bates PA, Kong R, Liu B, Yang G, Liu M, Shi H, Lu X, Chang S, Roy RS, Quadir F, Liu J, Cheng J, Antoniak A, Czaplewski C, Giełdoń A, Kogut M, Lipska AG, Liwo A, Lubecka EA, Maszota-Zieleniak M, Sieradzan AK, Ślusarz R, Wesołowski PA, Zięba K, Del Carpio Muñoz CA, Ichiishi E, Harmalkar A, Gray JJ, Bonvin AMJJ, Ambrosetti F, Vargas Honorato R, Jandova Z, Jiménez-García B, Koukos PI, Van Keulen S, Van Noort CW, Réau M, Roel-Touris J, Kotelnikov S, Padhorny D, Porter KA, Alekseenko A, Ignatov M, Desta I, Ashizawa R, Sun Z, Ghani U, Hashemi N, Vajda S, Kozakov D, Rosell M, Rodríguez-Lumbreras LA, Fernandez-Recio J, Karczynska A, Grudinin S, Yan Y, Li H, Lin P, Huang SY, Christoffer C, Terashi G, Verburgt J, Sarkar D, Aderinwale T, Wang X, Kihara D, Nakamura T, Hanazono Y, Gowthaman R, Guest JD, Yin R, Taherzadeh G, Pierce BG, Barradas-Bautista D, Cao Z, Cavallo L, Oliva R, Sun Y, Zhu S, Shen Y, Park T, Woo H, Yang J, Kwon S, Won J, Seok C, Kiyota Y, Kobayashi S, Harada Y, Takeda-Shitaka M, Kundrotas PJ, Singh A, Vakser IA, Dapkūnas J, Olechnovič K, Venclovas Č, Duan R, Qiu L, Xu X, Zhang S, Zou X, Wodak SJ. _Proteins._ 89:1800-1823 (2021)
 
-  (b) Modeling protein-protein and protein-peptide complexes: CAPRI 6th edition., Lensink MF, Velankar S, Wodak SJ. _Proteins._ 85:359-3778 (2017)
+  (b) The challenge of modeling protein assemblies: The CASP12-CAPRI experiment. 
+Lensink MF, Velankar S, Baek M, Heo L, Seok C, Wodak SJ. _Proteins._ 86 Suppl 1:257-273. (2017)
 
-  (c) Prediction of homoprotein and heteroprotein complexes by proteins docking and template-based modeling: A Casp-CAPRI experiment.Lensink et al. _Proteins._ 84 Suppl 1:323-48 (2016)
+  (c) Modeling protein-protein and protein-peptide complexes: CAPRI 6th edition., Lensink MF, Velankar S, Wodak SJ. _Proteins._ 85:359-3778 (2017)
 
-  (d) Docking, scoring, and affinity prediction in CAPRI.
+  (d) Prediction of homoprotein and heteroprotein complexes by proteins docking and template-based modeling: A Casp-CAPRI experiment.Lensink et al. _Proteins._ 84 Suppl 1:323-48 (2016)
+
+  (e) Docking, scoring, and affinity prediction in CAPRI.
 Lensink MF, Wodak SJ. _Proteins._ 81:2082-95 (2013)
 
 <br>

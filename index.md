@@ -6,11 +6,21 @@ image:
   feature: pages/banner_home.jpg
 ---
 
-Welcome to the CAPRI web site.
+## Welcome to the CAPRI web site.
 
 __CAPRI__ (<b>C</b>ritical <b>A</b>ssessment of <b>PR</b>edicted <b>I</b>nteractions) is a community wide initiative for testing computational algorithms in blind predictions of experimentally determined 3D structures of protein complexes, the "targets", provided to CAPRI prior to publication.
 
 This site is intended to give you general news about CAPRI and for facilitating the sharing of software and useful tools related to CAPRI. 
+
+<hr>
+
+## CASP15-CAPRI
+
+The <b>CASP15-CAPRI assembly prediction season 2022</b> (CAPRI Round 54) ended as of August 19, 2022, with a total of 38 assembly target, the largest number of targets so far.
+
+These targets include X-ray and high-resolution cryo-EM structures, of which 22 are dimers (12 homodimers and 10 heterodimers) and 16 are higher-order assemblies of at least 3 subunits. This category of targets comprises 9 homo- and 7 hetero-oligomers.
+
+The evaluation of the models submitted for these targets by participating preditor and scorer groups is ongoing, with results to be presented at the CASP15 meeting in Antalya, Turkey, December 10-13, 2011.  You can register to the CASP15 meeting (including the CASP15-CAPRI assembly prediction session) visit on [the CASP15 site](https://predictioncenter.org/casp15/index.cgi).
 
 <hr>
 
