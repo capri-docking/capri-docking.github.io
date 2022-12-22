@@ -1,31 +1,31 @@
 # Site navigation links
 
 - title: About
-  url: /about/
+  url: about/
 
 - title: News
-  url: /news/
+  url: news/
 
 - title: Events
-  url: /events/
+  url: events/
 
 - title: People
-  url: /people/
+  url: people/
 
 - title: Contribute Targets
-  url: /contribute/
+  url: contribute/
 
 - title: Resources
-  url: /resources/
+  url: resources/
   
 - title: Publications
-  url: /publications/
+  url: publications/
 
 - title: Assessment
-  url: /assessment/
+  url: assessment/
 
 - title: CAPRI Portal
   url: http://www.ebi.ac.uk/msd-srv/capri/capri.html
 
 - title: Capri-covid round
-  url: /capri-covid/
+  url: capri-covid/
