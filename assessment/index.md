@@ -60,3 +60,4 @@ protein dimer modelling quality, as can be seen in the image below.
 </center>
 
 <hr />
+For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr)
