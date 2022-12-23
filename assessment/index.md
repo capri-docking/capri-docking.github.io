@@ -29,8 +29,8 @@ following:
 |T204 | best of interfaces 1-2 | average of interfaces 3-8|
 |T219/T220/T221|best of interfaces 1-3|best of interfaces 4|
 
-You can find Marc Lensink's CAPRI presentation in the CASP assembly
-session
+You can find the slides of Marc Lensink's CAPRI presentation in the
+CASP assembly session
 [HERE](https://predictioncenter.org/casp15/doc/presentations/Day2/Assessment_Assembly-CAPRI_MLensink.pdf).
 
 The image below shows the CAPRI ranking. "AF2-MULTIMER" is the
