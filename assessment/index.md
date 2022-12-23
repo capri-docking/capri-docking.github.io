@@ -29,6 +29,18 @@ following:
 |T204 | best of interfaces 1-2 | average of interfaces 3-8|
 |T219/T220/T221|best of interfaces 1-3|best of interfaces 4|
 
+You can find Marc Lensink's CAPRI presentation in the CASP assembly
+session
+[HERE](https://predictioncenter.org/casp15/doc/presentations/Day2/Assessment_Assembly-CAPRI_MLensink.pdf).
+
+The image below shows the CAPRI ranking. "AF2-MULTIMER" is the
+off-the-bench AlphaFold-Multimer modeling as submitted by the Elofsson
+group.
+
+<center>
+<img src="files/casp15_ranking.png" width="800" />
+</center>
+
 <hr />
 
 ### Round 53 Target T187 and T188
