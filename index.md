@@ -54,7 +54,7 @@ If you are interested in joining our initiative or exploring a collaboration, pl
         <img src="/images/posts/CAPRI-7th-evaluation-meeting.jpg">
 </figure>
 
-More info about this meeting can be found under [events]((/events)) and a blog is available [here](https://bioexcel.eu/7th-capri-evaluation-meeting/).
+More info about this meeting can be found under [events](/events) and a blog is available [here](https://bioexcel.eu/7th-capri-evaluation-meeting/).
 
 
 <hr>
