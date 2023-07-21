@@ -49,13 +49,15 @@ A CAPRI prediction Round usually takes about 4 weeks. These are preceded by an a
 
 #### Target information: instructions for authors.
 
-* Names of the proteins, Uniprot-IDs and some information about their function
+* Names of the proteins (or other biomolecules), Uniprot-IDs and some information about their function
 
-* Provide the amino acid sequences of the constructs used for crystallization of the complex.  If applicable, highlight the tags that have been used for purification and not removed before crystallization; indicate if they interfere with the interaction
+* Provide the amino acid sequences of the constructs used for the experimental characterisation of the complex. 
 
-* Specify the stoichiometry (or oligomeric state) of the complex, both for homo-oligomers and hetero-oligomers, and indicate if the stoichiometry (oligomeric state) was experimentally determined. 
+* If dealing with nucleic acids or other molecules (e.g. glycans), provide the sequence (and connectivity if relevant)
 
-* If solved but not published yet, provide coordinates of unbound components.
+* If applicable, highlight the tags that have been used for purification and not removed before crystallization; indicate if they interfere with the interaction
 
-* If possible, provide the unpublished atomic coordinates of the target complex, in PDB format. These coordinates will be used only by the CAPRI assessment team (Marc Lensink, and Shoshana Wodak), and kept in strict confidence otherwise until permission to release them is granted by the authors.
+* Specify the stoichiometry (or oligomeric state) of the complex, both for homo-oligomers and hetero-oligomers, and indicate if the stoichiometry (oligomeric state) was experimentally determined.
+
+* If possible, provide the unpublished atomic coordinates of the target complex, in PDB format. These coordinates will be used only by the CAPRI assessment team (Marc Lensink, and Alexandre Bonvin) and kept in strict confidence otherwise until permission to release them is granted by the authors.
 
