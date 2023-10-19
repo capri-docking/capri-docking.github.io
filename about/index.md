@@ -66,7 +66,7 @@ Since its inception, the focus of CAPRI has expanded significantly, to include t
 * Protein-peptide complexes
 * Protein-nucleic acid (RNA, DNA) complexes
 * Protein-sugar complexes
-* Protein-Lipid complexes 
+* Protein-lipid complexes 
   
 
 2. __Prediction of protein-protein binding affinities:__
