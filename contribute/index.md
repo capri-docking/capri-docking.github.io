@@ -36,28 +36,26 @@ CAPRI target information and any related inquiries should be sent to: targets_[a
 
 #### General information:
 
-CAPRI is interested in targets representing a wide range of complexes (on the CAPRI-docking.org, link to page listing the complexes):
+CAPRI is interested in targets representing a wide range of complexes:
 
 * Protein homo- and hetero-oligomers
 * Protein-peptide complexes
 * Protein-nucleic acid (RNA, DNA) complexes
-* Protein-sugar complexes
+* Protein-glycan complexes
 * Protein-lipid complexes
 
-A CAPRI prediction Round usually takes about 4 weeks. These are preceded by an additional week for participant registration. Ideally therefore, target information should be provided to CAPRI just prior to submitting the publication describing the target structure. _Shorter timelines can exceptionally be accommodated as well_.
+A CAPRI prediction Round is initiated each time a target (or several targets) become available, and is completed three to six weeks later. The window for offering your complex as a target for CAPRI goes from the moment of data collection to just before the preprint and/or paper describing it is submitted, such that the prediction window closes by the time the publication (or preprint if applicable) becomes available In the current digital era, we encourage early submission in order t oavoid images of the complex appearing on-line. _For high-profile targets however, we can accommodate shorter timelines_.
 
 
 #### Target information: instructions for authors.
 
 * Names of the proteins (or other biomolecules), Uniprot-IDs and some information about their function
 
-* Provide the amino acid sequences of the constructs used for the experimental characterisation of the complex. 
+* Amino acid sequences of the constructs used for the experimental characterisation of the complex
 
-* If dealing with nucleic acids or other molecules (e.g. glycans), provide the sequence (and connectivity if relevant)
+* If dealing with nucleic acids or other molecules (e.g. glycans), their sequence (and connectivity if relevant)
 
-* If applicable, highlight the tags that have been used for purification and not removed before crystallization; indicate if they interfere with the interaction
+* The stoichiometry of the complex, both for homo-oligomers and hetero-oligomers, and indicate if it has been experimentally determined.
 
-* Specify the stoichiometry (or oligomeric state) of the complex, both for homo-oligomers and hetero-oligomers, and indicate if the stoichiometry (oligomeric state) was experimentally determined.
-
-* If possible, provide the unpublished atomic coordinates of the target complex, in PDB format. These coordinates will be used only by the CAPRI assessment team (Marc Lensink, and Alexandre Bonvin) and kept in strict confidence otherwise until permission to release them is granted by the authors.
+* If possible, provide the unpublished atomic coordinates of the target complex, in PDB format. These coordinates will be used only by the CAPRI assessment team (Marc Lensink, and Alexandre Bonvin) and kept in strict confidence otherwise until permission to release them is granted by the authors. Importantly, these do not need to be available at the time of target provision, but will be required for later assessment of the predictions.
 
