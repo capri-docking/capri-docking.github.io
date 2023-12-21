@@ -72,4 +72,29 @@ protein dimer modelling quality, as can be seen in the image below.
 </center>
 
 <hr />
+
+### Round 49 Target T163
+
+Target T163 features a 2:2 hetero-tetramer, with 2 copies of SYCE2 and
+2 copies of TEX12.  It has now been published as PDB 6R17.  T163
+contains 2 homo-dimeric interfaces: T163.1 (SYCE2) and T163.5 (TEX12);
+and 3 hetero-dimeric interfaces: T163.2 (SYCE2.Nt/TEX12), T163.3
+(SYCE2'.Ct/TEX12) and T163.4 (SYCE2.Ct/TEX12').
+
+A homo-dimeric structure of TEX12 existed, but it did not correspond
+to the binding mode in T163.  This might have complicated the
+prediction of this target.
+
+Predictors and Scorers with models of acceptable quality or better are
+listed in the following table:
+
+|Interface|Predictors|Scorers|
+|---|---|---|
+|T163.1||Fernandez-Recio|
+|T163.5|Kihara (medium)|Kihara (medium)|
+|T163.2|Venclovas, Kihara, Gray|Seok (medium), Oliva, Perthold|
+|T163.3|||
+|T163.4|LZERD||
+
+<hr />
 For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr)
