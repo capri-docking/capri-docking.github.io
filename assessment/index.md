@@ -103,10 +103,11 @@ their top-5 submitted models are listed in the following table:
 ### Round 47 Target T160
 
 Target T160 features the structure of the Bacillus anthracis Sap
-S-layer assembly domain.  It consists of 6 individual domains that are
-organized in two dimensions.  To it are bound two nanobodies.  The
-individual interfaces bury between 150 and 610 &Aring;<sup>2</sup>.
-The interfaces are indicated in the following picture of the target.
+S-layer assembly domain, now published as PDB 6HHU.  It consists of 6
+individual domains that are organized in two dimensions.  To it are
+bound two nanobodies.  The individual interfaces bury between 150 and
+610 &Aring;<sup>2</sup>.  The interfaces are indicated in the
+following picture of the target.
 
 <center>
 <img src="files/T160_2D.png" width="600" />
