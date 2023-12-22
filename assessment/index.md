@@ -83,18 +83,58 @@ and 3 hetero-dimeric interfaces: T163.2 (SYCE2.Nt/TEX12), T163.3
 
 A homo-dimeric structure of TEX12 existed, but it did not correspond
 to the binding mode in T163.  This might have complicated the
-prediction of this target.
+prediction of this target.  The assessment results for the 5
+interfaces can be found in [this comma-separated
+file](files/target163_selection.csv).
 
-Predictors and Scorers with models of acceptable quality or better are
-listed in the following table:
+Predictors and Scorers with models of acceptable quality or better in
+their top-5 submitted models are listed in the following table:
 
 |Interface|Predictors|Scorers|
 |---|---|---|
-|T163.1||Fernandez-Recio|
+|T163.1|-|Fernandez-Recio|
 |T163.5|Kihara (medium)|Kihara (medium)|
 |T163.2|Venclovas, Kihara, Gray|Seok (medium), Oliva, Perthold|
-|T163.3|||
-|T163.4|LZERD||
+|T163.3|-|-|
+|T163.4|LZERD|-|
+
+<hr />
+
+### Round 47 Target T160
+
+Target T160 features the structure of the Bacillus anthracis Sap
+S-layer assembly domain.  It consists of 6 individual domains that are
+organized in two dimensions.  To it are bound two nanobodies.  The
+individual interfaces bury between 150 and 610 &Aring;<sup>2</sup>.
+The interfaces are indicated in the following picture of the target.
+
+<center>
+<img src="files/T160_2D.png" width="600" />
+</center>
+
+Nanobody Nb694 is bound to domain D1 through interface T160.2, while
+Nb684 is bound to domains D1 and D2 through interfaces T160.1 and
+T160.5.  Whereas the interface between domains 1 and 2 was best
+predicted, nobody managed to identify the nanobody binding modes.  The
+results for all interfaces can be found in [this comma-separated
+file](files/target160_selection.csv).  Predictors and Scorers with
+models of acceptable quality or better in their top-5 submitted models
+are listed in the following table:
+
+|Interface|Predictors|Scorers|
+|---|---|---|
+|T160.2|-|-|
+|T160.1|-|-|
+|T160.5|-|-|
+|T160.6|GALAXYPPDOCK, Fernandez-Recio,|Fernandez-Recio, Kihara, |
+|      |Andreani/Guerois|LZERD, Venclovas, Bates|
+|T160.8|Andreani/Guerois (medium),|Venclovas (medium)|
+|      |Kozakov/Vajda (medium), Venclovas (medium)||
+|T160.7|Gray|-|
+|T160.3|CLUSPRO (medium), Kozakov/Vajda (medium),|Venclovas (medium)|
+|      |Andreani/Guerois (medium), Venclovas (medium)||
+|T160.9|-|HDOCK|
+|T160.4|-|-|
 
 <hr />
 For questions or comments please contact [Marc Lensink](mailto:marc.lensink@univ-lille.fr)
