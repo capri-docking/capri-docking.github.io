@@ -10,6 +10,47 @@ image:
 
 <hr />
 
+### Round 55
+
+CAPRI Round 55 had four targets, three of them with antibodies,
+including one (T231) binding a peptide. The remaining target (T232)
+was an EM structure of an existing X-ray structure, however with a
+different binding mode.  For all four targets, the Brysbaert group in
+collaboration with the assessors had made AlphaFold2 models available,
+which were also assessed.
+
+The results for all four targets of Round 55 can be found in [this
+comma-separated file](files/round55.csv).
+
+#### Target T231
+
+The 25 AlphaFold models featured 22 acceptable quality models,
+including the first 10 models, 2 medium quality models with models
+ranked 13 and 14, and one incorrect model.  Seven predictor groups
+(Pierce, Zou, Venclovas, Karaca, Huang, Vakser, Kozakov/Vajda) and 3
+servers (LZERD, HDOCK, CLUSPRO) produced medium-quality models in
+their top-5 submission.  An additional 6 predictor groups (Kihara,
+Furman, S_Chang, Fernandez-Recio, Brysbaert, Bates) and one server
+(PYDOCKWEB) produced acceptable models.  Scorer groups Zou, Giulini,
+Huang and server HDOCK recognized medium quality models, while scorer
+groups Kihara, Venclovas, Karaca, Bates and server LZERD recognized
+acceptable models.
+
+#### Target T232
+
+The 25 AlphaFold models were all of medium quality.  More than half of
+the predictor groups and 80% of the scorer groups also produced 5/5**
+models.  With a few rare exceptions, there were no models of
+acceptable quality.
+
+#### Targets T233 and T234
+
+These two targets featured binding of two different Fab's to a major
+histocompatibility complex-I.  All AlphaFold models were incorrect.
+Interestingly, while there were no good solutions for T234, a few
+groups managed medium-quality solutions (and no acceptable) for T233.
+These were S_Chang, Kihara, Zou, Venclovas and scorer group Zou.
+
 ### Round 54 CASP15-CAPRI
 
 CAPRI Round 54 comprised 37 targets, divided into 38 Assessment Units
