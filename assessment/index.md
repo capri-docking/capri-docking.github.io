@@ -29,12 +29,12 @@ including the first 10 models, 2 medium quality models with models
 ranked 13 and 14, and one incorrect model.  Seven predictor groups
 (Pierce, Zou, Venclovas, Karaca, Huang, Vakser, Kozakov/Vajda) and 3
 servers (LZERD, HDOCK, CLUSPRO) produced medium-quality models in
-their top-5 submission.  An additional 6 predictor groups (Kihara,
-Furman, S_Chang, Fernandez-Recio, Brysbaert, Bates) and one server
-(PYDOCKWEB) produced acceptable models.  Scorer groups Zou, Giulini,
-Huang and server HDOCK recognized medium quality models, while scorer
-groups Kihara, Venclovas, Karaca, Bates and server LZERD recognized
-acceptable models.
+their top-5 submission.  An additional 7 predictor groups (Kihara,
+Furman, S_Chang, Fernandez-Recio, Giulini, Brysbaert, Bates) and one
+server (PYDOCKWEB) produced acceptable models.  Scorer groups Zou,
+Giulini, Huang and server HDOCK recognized medium quality models,
+while scorer groups Kihara, Venclovas, Karaca, Bates and server LZERD
+recognized acceptable models.
 
 #### Target T232
 
