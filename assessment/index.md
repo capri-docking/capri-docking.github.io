@@ -49,7 +49,8 @@ These two targets featured binding of two different Fab's to a major
 histocompatibility complex-I.  All AlphaFold models were incorrect.
 Interestingly, while there were no good solutions for T234, a few
 groups managed medium-quality solutions (and no acceptable) for T233.
-These were S_Chang, Kihara, Zou, Venclovas and scorer group Zou.
+These were S_Chang, Kihara, Zou, Huang, Venclovas and scorer groups
+Zou and Venclovas.
 
 ### Round 54 CASP15-CAPRI
 
