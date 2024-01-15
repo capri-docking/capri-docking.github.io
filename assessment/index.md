@@ -27,13 +27,13 @@ comma-separated file](files/round55.csv).
 The 25 AlphaFold models featured 22 acceptable quality models,
 including the first 10 models, 2 medium quality models with models
 ranked 13 and 14, and one incorrect model.  Seven predictor groups
-(Pierce, Zou, Venclovas, Karaca, Huang, Vakser, Kozakov/Vajda) and 3
-servers (LZERD, HDOCK, CLUSPRO) produced medium-quality models in
-their top-5 submission.  An additional 7 predictor groups (Kihara,
-Furman, S_Chang, Fernandez-Recio, Giulini, Brysbaert, Bates) and one
-server (PYDOCKWEB) produced acceptable models.  Scorer groups Zou,
-Giulini, Huang and server HDOCK recognized medium quality models,
-while scorer groups Kihara, Venclovas, Karaca, Bates and server LZERD
+(Kozakov/Vajda, Pierce, Karaca, Huang, Venclovas, Zou, Vakser) and 3
+servers (CLUSPRO, LZERD, HDOCK) produced medium-quality models in
+their top-5 submission.  An additional 7 predictor groups (Bates,
+Kihara, S_Chang, Fernandez-Recio, Brysbaert, Giulini, Furman) and one
+server (PYDOCKWEB) produced acceptable models.  Scorer groups Giulini,
+Huang, Zou and server HDOCK recognized medium quality models, while
+scorer groups Kihara, Bates, Venclovas, Karaca and server LZERD
 recognized acceptable models.
 
 #### Target T232
@@ -48,12 +48,13 @@ acceptable quality.
 These two targets featured binding of two different Fab's to a major
 histocompatibility complex-I.  All AlphaFold models were incorrect.
 Interestingly, a few groups managed medium-quality solutions (and no
-acceptable!) for T233.  These were S_Chang, Kihara, Zou, Huang,
-Venclovas and scorer groups Zou and Venclovas.  For T234, no
-acceptable models were submitted by predictors, but a few acceptable
-and one medium quality model were available in the shuffled set.  Only
-the Giulini scorer group recognized an acceptable quality model, and
-submitted it as their scorer model 10.
+acceptable!) for T233.  These were S_Chang, Kihara, Zou, Venclovas,
+Huang and server HDOCK, which were recognized by scorer groups
+Venclovas and Zou.  For T234, no acceptable models were submitted by
+predictors, but a few acceptable and one medium quality model were
+available in the shuffled set.  Only the Giulini scorer group
+recognized an acceptable quality model, and submitted it as their
+scorer model 10.
 
 ### Round 54 CASP15-CAPRI
 
