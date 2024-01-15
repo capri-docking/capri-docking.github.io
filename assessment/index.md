@@ -47,10 +47,13 @@ acceptable quality.
 
 These two targets featured binding of two different Fab's to a major
 histocompatibility complex-I.  All AlphaFold models were incorrect.
-Interestingly, while there were no good solutions for T234, a few
-groups managed medium-quality solutions (and no acceptable) for T233.
-These were S_Chang, Kihara, Zou, Huang, Venclovas and scorer groups
-Zou and Venclovas.
+Interestingly, a few groups managed medium-quality solutions (and no
+acceptable!) for T233.  These were S_Chang, Kihara, Zou, Huang,
+Venclovas and scorer groups Zou and Venclovas.  For T234, no
+acceptable models were submitted by predictors, but a few acceptable
+and one medium quality model were available in the shuffled set.  Only
+the Giulini scorer group recognized an acceptable quality model, and
+submitted it as their scorer model 10.
 
 ### Round 54 CASP15-CAPRI
 
