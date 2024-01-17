@@ -156,7 +156,7 @@ its unbound form. The challenge for T162 was to predict the structure
 of the full toxin-antitoxin complex. For T162, the bound structure of
 the antitoxin was supplied, with side-chains removed, as well as *all*
 submitted models (predictors and scorers) of the toxin homo-dimer
-(T162).
+(T162).  The full assessment is [here](files/round48.csv).
 
 Only two groups managed to produce good models for these targets:
 
