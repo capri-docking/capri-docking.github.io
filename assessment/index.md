@@ -146,6 +146,27 @@ their top-5 submitted models are listed in the following table:
 
 <hr />
 
+### Round 48 Targets T161 and T162
+
+Both targets feature the same toxin-antitoxin complex, a
+hetero-complex consisting of a toxin homo-dimer bound to two antitoxin
+molecules.  The challenge of T161 was to predict the bound form of the
+toxin homodimer, which forms a completely different structure than in
+its unbound form. The challenge for T162 was to predict the structure
+of the full toxin-antitoxin complex. For T162, the bound structure of
+the antitoxin was supplied, with side-chains removed, as well as *all*
+submitted models (predictors and scorers) of the toxin homo-dimer
+(T162).
+
+Only two groups managed to produce good models for these targets:
+
+|Target|Group|Performance|
+|---|---|---|
+|T161|Bates|1|
+|T162|Andreani/Guerois|2/1**|
+
+<hr />
+
 ### Round 47 Target T160
 
 Target T160 features the structure of the Bacillus anthracis Sap
