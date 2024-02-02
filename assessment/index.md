@@ -119,6 +119,37 @@ protein dimer modelling quality, as can be seen in the image below.
 
 <hr />
 
+### Round 52 Target 186
+
+The challenge of T186 was to predict the conformation of a ~100
+residue loop lying on the surface of a large pocket. The loop was well
+structured but without any secondary structure elements.
+
+Close to 25% of the submitted predictions were missing any coordinates
+for the loop residues and were therefore disqualified.  Close to half
+of these were of medium quality (for the structure without the loop),
+as a high quality template was available for the rest of the protein
+assembly.
+
+The loop was part of chain G and in contact with the rest of the chain
+as well as chain D. Three assessment were performed: (1) between
+chains G and D, (2) between the loop and the rest of chain G, and (3)
+between the loop and chain D.  Only acceptable quality models were
+obtained.
+
+Predictor groups Kihara and Scorer groups Kihara and Venclovas
+obtained acceptable models for both T186.1 as well as T186.2.
+Predictor groups Chang, Furman, Fernandez-Recio, Huang and Scorer
+groups Oliva, Chang, LZERD, HDOCK, Huang, Zou, MDOCKPP,
+Fernandez-Recio, Shen, J_Huang only for T186.1.  No Predictor nor
+Scorer groups produced acceptable models for T186.3.
+
+The full list of assessment is [here](files/round52.csv), do note that
+this list includes the disqualified models (look for the "clashes" or
+"low_id" flag in columns 36 and 37, resp.
+
+<hr />
+
 ### Round 49 Target T163
 
 Target T163 features a 2:2 hetero-tetramer, with 2 copies of SYCE2 and
