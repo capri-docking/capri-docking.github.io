@@ -2,6 +2,7 @@
 layout: events
 date: 2023-02-14
 excerpt: 8th CAPRI evaluation meeting - Feb. 14-16, 2023
+title: ""
 tags: [CAPRI, Assembly Modelling, Docking, Scoring, Complexes, Protein Structure]
 image:
   feature: pages/banner_home.jpg
