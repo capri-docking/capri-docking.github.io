@@ -10,6 +10,21 @@ image:
 
 <hr />
 
+### Round 56
+
+Round 56 consisted of one target, an MHC/antibody complex. Four
+servers (CLUSPRO, HADDOCK, LZERD, MDOCKPP) and another six human
+predictor groups (Kihara, Zou, Giulini, Brysbaert, Shen) produced
+medium-quality models in their top-5 submission. Two groups stand out:
+Kozakov, for producing a high-quality model in top-5, and HADDOCK, for
+producing a medium-quality model in top-1.
+
+Nine scorer groups including three servers produced medium-quality
+models in top-5/top-10, of which five in top-1 (*Chang, Kihara, Zou,
+LZERD, MDOCKPP*).
+
+The assessment of all models can be found [here](files/target235.csv).
+
 ### Round 55
 
 CAPRI Round 55 had four targets, three of them with antibodies,
