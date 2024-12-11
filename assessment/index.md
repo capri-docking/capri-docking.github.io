@@ -51,7 +51,7 @@ values were ignored. Such a ranking highlights those participants that
 performed significantly better for the more difficult targets. The
 ranking below includes Predictors, Servers, and Scorers. Following top
 predictor Kozakov/Vajda, you find Yang (and server), scorer
-Olechnovic, server CLUSPRO, and predictor Kihara.
+*Olechnovic*, server CLUSPRO, and predictor Kihara.
 
 <center>
 <img src="files/round57_wide.png" width="800" />
