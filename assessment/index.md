@@ -10,6 +10,65 @@ image:
 
 <hr />
 
+### CASP16 - CAPRI Rounds 57 and 58
+
+Round 57 corresponds to the classic joint CASP-CAPRI blind prediction
+experiment, where only sequence and stoichiometry information is
+provided. The Round contained 34 targets, which led to a total of 47
+assessment units (AUs).  Round 58 included a subset of the same
+targets, for which roughly 8000 MassiveFold models were provided.  The
+MassiveFold models were also included in the Scoring of Round 57.
+Round 58 had no Scoring Round.
+
+The CASP monomer and multimer categories were merged this year.  Marc
+Lensink's presentation at the CASP meeting can be found
+[HERE](files/Lensink_CASP16.pdf).  CASP assessors Nick Grishin and
+Qian Qong focused on monomeric structure quality and monomeric
+predictions in the context of multimeric structures.  Their
+presentations will be posted here shortly.
+
+#### Round 57
+
+The assessment results of the top-5 submitted models
+for Predictors, Scorers, and CASP participants for all individual
+target interfaces are collected in [this file](files/round57.csv).
+
+The CAPRI ranking, shown in the image below, shows incremental
+improvement with respect to the baselines provided by COLABFOLD and
+AlphaFold3 (a manual submission made by the Elofsson team).
+Highlighted names (Kihara, Cheng, Kozakov/Vajda, Huang, HDOCK, Zou)
+were predictors who achieved acceptable quality or better for 35 or
+more of the AUs. Servers are shown in boldface all-caps.
+
+<center>
+<img src="files/casp16_ranking.png" width="800" />
+</center>
+
+As common for joint CASP-CAPRI Rounds, a ranking based on DockQ
+Z-scores was also calculated. Z-scores were capped at 2, and negative
+values were ignored. Such a ranking highlights those participants that
+performed significantly better for the more difficult targets. The
+ranking below includes Predictors, Servers, and Scorers. Following top
+predictor Kozakov/Vajda, you find Yang (and server), scorer
+Olechnovic, server CLUSPRO, and predictor Kihara.
+
+<center>
+<img src="files/round57_wide.png" width="800" />
+</center>
+
+#### Round 58
+
+Comparing Rounds 57 and 58 on the common set of targets highlights the
+prediction improvement upon availability of the MassiveFold
+models. The following graph is ordered on improvement in score,
+requires a minimum participation of 20 AUs, and a difference in
+participation for both Rounds of no more than 4 AUs. The assessment
+results for Round 58 can be found [here](files/round58.csv).
+
+<center>
+<img src="files/casp16_massivefold_improvement.png" width="600" />
+</center>
+
 ### Round 56
 
 Round 56 consisted of one target, an MHC/antibody complex. Four
