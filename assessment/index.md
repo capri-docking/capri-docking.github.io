@@ -16,7 +16,8 @@ Round 57 corresponds to the classic joint CASP-CAPRI blind prediction
 experiment, where only sequence and stoichiometry information is
 provided. The Round contained 34 targets, which led to a total of 47
 assessment units (AUs).  Round 58 included a subset of the same
-targets, for which roughly 8000 MassiveFold models were provided.  The
+targets, for which roughly 8000 MassiveFold models were provided,
+please see their [abstract](files/MASSIVEFOLD.pdf) for details.  The
 MassiveFold models were also included in the Scoring of Round 57.
 Round 58 had no Scoring Round.
 
