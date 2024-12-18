@@ -26,7 +26,9 @@ Lensink's presentation at the CASP meeting can be found
 [HERE](files/Lensink_CASP16.pdf).  CASP assessors Nick Grishin and
 Qian Qong focused on monomeric structure quality and monomeric
 predictions in the context of multimeric structures.  Their
-presentations will be posted here shortly.
+presentations will be linked to once available.
+
+Bear in mind that data listed here is subject to minor changes.
 
 #### Round 57
 
