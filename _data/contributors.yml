@@ -20,6 +20,12 @@
 -   name: Y. Chen  
     institution: University of Science and Technology of China, Hefei, China
 
+-   name: I. Gutsche
+    institution: Institut de Biologie Structurale, Grenoble, France
+
+-   name: C. Kleanthous
+    institution: Oxford University, UK
+
 -   name: R. Efremov
     institution: VIB-VUB, Brussels, Belgium;
 
@@ -28,6 +34,9 @@
 
 -   name: S. Fleishman  
     institution: University of Washington Seattle, WA, USA
+
+-   name: S. Fleishman  
+    institution: Weizmann Institute, Israel
 
 -   name: C. Fontes  
     institution: University of Lisbon, Portugal
@@ -56,6 +65,12 @@
 -   name: C. Kleanthous  
     institution: University of York, UK
  
+-   name: P. Kursula
+    institution: University of Bergen, Norway
+
+-   name: S. Lansky
+    institution: Hebrew University of Jerusalem, Israel
+
 -   name: N. Leulliot  
     institution: Université Paris-Sud, Orsay, France
 
@@ -92,6 +107,9 @@
 -   name: S. Najmudin  
     institution: University of Lisbon, Portugal
 
+-   name: Ravit Netzer
+    institution: Weizmann Institute, Israel
+
 -   name: T. K. Nielsen  
     institution: Max Planck Institut, Göttingen, Germany
 
@@ -107,8 +125,17 @@
 -   name: L. Renault  
     institution: LEBS-CNRS, Gif-sur-Yvette, France
 
+-   name: A. Roussel
+    institution: Université Aix Marseille, France
+
 -   name: P. Rucktooa  
     institution: University of Lille, France
+
+-   name: S. Savvides
+    instituion: Ghent University, Belgium
+
+-   name: G. Shoham
+    institution: Hebrew University of Jerusalem, Israel
 
 -   name: T. Sixma  
     institution: Netherlands Cancer Institute, Amsterdam, the Netherlands
@@ -130,6 +157,12 @@
 
 -   name: Y. Tong  
     institution: Structural Genomics Consortium, University of Toronto, Canada
+
+-   name: O. Vaněk
+    institution: Charles University, Prague, Czech Republic
+
+-   name: A. Vangone
+    institution: Roche, Germany
 
 -   name: V. Villeret and Philippe Delepelaire  
     institution: Universities of Lille and Paris-7, France
