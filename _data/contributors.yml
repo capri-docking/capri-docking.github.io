@@ -1,124 +1,144 @@
 
+-   name: C. Arrowsmith  
+    institution: Structural Genomics Consortium, University of Toronto, Canada
+
+-   name: D. Baker  
+    institution: University of Washington Seattle, WA, USA
+
+-   name: R. Bao  
+    institution: University of Science and Technology of China, Hefei, China
+
+-   name: A. Basle  
+    institution: Newcastle University, UK
+
+-   name: M. Buck  
+    institution: Case Western Reserve University, Cleveland, USA
+
 -   name: C.-W. Chang and B. Kobe
     institution: University of Queensland, Brisbane, Australia
 
--   name: J. Hurley  
-    institution: UC Berkeley, USA
+-   name: Y. Chen  
+    institution: University of Science and Technology of China, Hefei, China
 
--   name: R. Sprangers  
-    institution: Max Planck Institute for Developmental Biology, Tübingen, Germany
+-   name: R. Efremov
+    institution: VIB-VUB, Brussels, Belgium;
 
--   name: S. Tan  
-    institution: Penn State University, USA
+-   name: A. Fioravanti
+    institution: VIB-VUB Center for Structural Biology, Brussels, Belgium;
 
--   name: R. McGuinty  
-    institution: Penn State University, USA
+-   name: S. Fleishman  
+    institution: University of Washington Seattle, WA, USA
 
--   name: T. Sixma  
-    institution: Netherlands Cancer Institute, Amsterdam, the Netherlands
-
--   name: P. Rucktooa  
-    institution: University of Lille, France
-
--   name: V. Villeret and Philippe Delepelaire  
-    institution: Universities of Lille and Paris-7, France
-
--   name: M. Graille  
-    institution: Université Paris-Sud, Orsay, France
-
--   name: P. Minard  
-    institution: Université Paris-Sud, Orsay, France
-
--   name: H. van Tilbeurgh  
-    institution: Université Paris-Sud, Orsay, France
-
--   name: J.A. Wojdyla  
-    institution: University of York, UK
-
--   name: C. Kleanthous  
-    institution: University of York, UK
+-   name: C. Fontes  
+    institution: University of Lisbon, Portugal
 
 -   name: B. Fox  
     institution: University of Wisconsin, Madison, Wisconsin, USA
 
--   name: S. Najmudin  
-    institution: Technical University, Lisbon, Portugal
+-   name: G. Garcia-Rodriguez
+    institution: VIB-VUB, Brussels, Belgium
+    
+-   name: M. Graille  
+    institution: Université Paris-Sud, Orsay, France
 
--   name: A. Basle  
-    institution: Newcastle University, UK
+-   name: Wi Huang
+    institution: Case Western Reserve University, USA
+    
+-   name: J. Hurley  
+    institution: UC Berkeley, USA
+
+-   name: B Janssen
+    institution: Utrecht University, The Netherlands
+
+-   name: J. L. Keck  
+    institution: University of Wisconsin, Madison, USA
+
+-   name: C. Kleanthous  
+    institution: University of York, UK
  
+-   name: N. Leulliot  
+    institution: Université Paris-Sud, Orsay, France
+
 -   name: R. Lewis  
     institution: Newcastle University, UK
 
 -   name: S. Leysen  
     institution: Catholic University Leuven, Belgium
 
--   name: Strelkov  
-    institution: Catholic University Leuven, Belgium
+-   name: R. Loris
+    institution: VIB-VUB, Brussels, Belgium
 
--   name: D. Baker  
-    institution: University of Washington Seattle, WA, USA
+-   name: L. de Maria  
+    institution: Novozymes, Bagsvaerd, Denmark
 
--   name: S. Fleishman  
-    institution: University of Washington Seattle, WA, USA
+-   name: R. McGuinty  
+    institution: Penn State University, USA
+
+-   name: J. Marquez
+    institution: EMBL Grenoble, France
+
+-   name: N. Meenan  
+    institution: University of York, United Kingdom
+
+-   name: J. Ménétrey  
+    institution: Institut Curie, Paris, France
+
+-   name: P. Minard  
+    institution: Université Paris-Sud, Orsay, France
 
 -   name: R. Moretti  
     institution: University of Washington Seattle, WA, USA
 
--   name: T. Whitehead  
-    institution: University of Washington Seattle, WA, USA
+-   name: S. Najmudin  
+    institution: University of Lisbon, Portugal
 
--   name: N. Leulliot  
+-   name: T. K. Nielsen  
+    institution: Max Planck Institut, Göttingen, Germany
+
+-   name: H. Park  
+    institution: Structural Genomics Consortium, University of Toronto, Canada
+
+-   name: M. Pronker
+    institution: Utrecht University, The Netherlands
+
+-   name: H. Remaut
+    institution: VIB-VUB Center for Structural Biology, Brussels, Belgium;
+
+-   name: L. Renault  
+    institution: LEBS-CNRS, Gif-sur-Yvette, France
+
+-   name: P. Rucktooa  
+    institution: University of Lille, France
+
+-   name: T. Sixma  
+    institution: Netherlands Cancer Institute, Amsterdam, the Netherlands
+
+-   name: R. Sprangers  
+    institution: Max Planck Institute for Developmental Biology, Tübingen, Germany
+
+-   name: Strelkov  
+    institution: Catholic University Leuven, Belgium
+
+-   name: S. Tan  
+    institution: Penn State University, USA
+
+-   name: W. Tempel  
+    institution: Structural Genomics Consortium, University of Toronto, Canada
+
+-   name: H. van Tilbeurgh  
     institution: Université Paris-Sud, Orsay, France
 
 -   name: Y. Tong  
     institution: Structural Genomics Consortium, University of Toronto, Canada
 
--   name: H. Park  
-    institution: Structural Genomics Consortium, University of Toronto, Canada
-
--   name: C. Arrowsmith  
-    institution: Structural Genomics Consortium, University of Toronto, Canada
-
--   name: W. Tempel  
-    institution: Structural Genomics Consortium, University of Toronto, Canada
-
--   name: M. Buck  
-    institution: Case Western Reserve University, Cleveland, USA
-
--   name: L. de Maria  
-    institution: Novozymes, Bagsvaerd, Denmark
-
--   name: L. Renault  
-    institution: LEBS-CNRS, Gif-sur-Yvette, France
-
--   name: S. Najmudin  
-    institution: University of Lisbon, Portugal
-
--   name: C. Fontes  
-    institution: University of Lisbon, Portugal
-
--   name: J. Ménétrey  
-    institution: Institut Curie, Paris, France
-
--   name: R. Bao  
-    institution: University of Science and Technology of China, Hefei, China
-
--   name: Y. Chen  
-    institution: University of Science and Technology of China, Hefei, China
-
--   name: N. Meenan  
-    institution: University of York, United Kingdom
-
--   name: J. L. Keck  
-    institution: University of Wisconsin, Madison, USA
-
--   name: T. K. Nielsen  
-    institution: Max Planck Institut, Göttingen, Germany
-
--   name: L. Renault  
-    institution: LEBS-CNRS, Gif-sur-Yvette, France
+-   name: V. Villeret and Philippe Delepelaire  
+    institution: Universities of Lille and Paris-7, France
 
 -   name: J. Walker  
     institution: Structural Genomics Consortium, Toronto, Canada
 
+-   name: T. Whitehead  
+    institution: University of Washington Seattle, WA, USA
+
+-   name: J.A. Wojdyla  
+    institution: University of York, UK
