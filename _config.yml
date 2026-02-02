@@ -1,35 +1,52 @@
-# For general help on the options
-# # http://jekyllrb.com/docs/configuration/
-
-# Site wide configuration
-
+# Welcome to Jekyll!
+#
 title:            "CAPRI Docking"
 locale:           en_US
-url: "https://www.capri-docking.org/"
-#url:              http://127.0.0.1:4000
+url:             https://capri-docking.org
+#url:              http://127.0.0.1:4000/
+#baseurl: "" # the subpath of your site, e.g. /blog
 
 # RSS Feed configuration
 name: CAPRI
 description: CAPRI Webpage 
 rss: true
 
-# Jekyll configuration
+
+# Build settings
+theme: minima
 permalink:   /:categories/:title/
 post_dir: false
-markdown:    kramdown
+markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-coffeescript
-  - jekyll-paginate
+plugins:
+- jekyll-feed
+
 
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
+
+# Site owner
+owner:
+  name: Alexandre Bonvin
+  avatar: capri.png
+  bio: "CAPRI communitywide experiment on the comparative evaluation of protein-protein docking for structure prediction"
+  email: capri.docking@gmail.com
+  google:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  github: capri-docking
+  twitter: CAPRIdock
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_utilities", "vendor", "ruby"]
+
 
 # Github Specific Settings that *cannot* be changed
 # To ensure proper reproducibility
@@ -40,23 +57,3 @@ github: [metadata]
 highlighter: rouge
 incremental: false
 lsi: false
-safe: true
-
-# Site owner
-owner:
-  name: Alexandre Bonvin
-  avatar: capri.jpg
-  bio: "CAPRI communitywide experiment on the comparative evaluation of protein-protein docking for structure prediction"
-  email: capri.docking@gmail.com
-  google:
-    analytics: G-99SK3J33WB
-    verify:
-    ad-client:
-    ad-slot:
-  github: capri-docking
-  twitter: CAPRIdock
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_utilities"]
-
-theme: jekyll-theme-minimal
