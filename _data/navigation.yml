@@ -25,7 +25,7 @@
   url: assessment/
 
 - title: CAPRI Portal
-  url: http://www.ebi.ac.uk/msd-srv/capri/capri.html
+  url: https://www.ebi.ac.uk/pdbe/complex-pred/capri/
 
-- title: Capri-covid round
-  url: capri-covid/
+#- title: Capri-covid round
+#  url: capri-covid/
