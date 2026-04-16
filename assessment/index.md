@@ -10,6 +10,49 @@ image:
 
 <hr />
 
+### Round 61
+
+Round 61 features four targets, each a different antibody binding to
+the same antigen. Full assessment details can be found in [this
+file](files/round61.csv).
+
+#### Target T312
+
+Only one predictor and scorer group (the same one) managed to submit
+acceptable models for this target: Kmiecik. A few groups did submit
+acceptable models in their set of 100 models, but they were not ranked
+high enough, these were Engel (Haddock team), Guerois, Zou and
+MDOCKPP.
+
+#### Target T314
+
+This target was generally well predicted, with in their top-5
+acceptable models for Gray, Vakser, and PYDOCKWEB, medium-quality for
+Huang, HDOCK, Guerois and CLUSPRO, and high-quality models for
+Wallner. Four scorers managed to produce high-quality models (top-10):
+Olechnovic, Kihara, Karaca and HDOCK.
+
+#### Target T315
+
+Also T315 was well predicted, with most predictor groups producing
+medium-quality models in their top-5 set: Wallner, Brysbaert, Zou,
+Huang, Guerois, Pierce and Gray. In addition, CLUSPRO produces
+high-quality models. For scorers (top-10) the picture was similar,
+with acceptable for Xiaotong Xu, medium for Venclovas, LZERD, Kihara,
+Zou, MDOCKPP and HDOCK, and high quality for Karaca.
+
+#### Target T316
+
+No predictor group produced a model of acceptable quality or better in
+their top-10 submission. However, the shuffled set did contain
+acceptable models, produced by Pierce, Guerois and PYDOCKWEB. Scorers
+Shen and HDOCK both recognized a different one of these acceptable
+models.
+
+### Rounds 59 and 60
+
+To follow...
+
 ### CASP16 - CAPRI Rounds 57 and 58
 
 Round 57 corresponds to the classic joint CASP-CAPRI blind prediction
