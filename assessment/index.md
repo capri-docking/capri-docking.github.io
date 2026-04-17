@@ -16,6 +16,19 @@ Round 61 features four targets, each a different antibody binding to
 the same antigen. Full assessment details can be found in [this
 file](files/round61.csv).
 
+Top performers of this Round:
+
+|Predictor|Top-1|Top-5|Top-10|
+|---|---|---|---|
+|CLUSPRO|2/1\*\*\*/1\*\*|2/1*\*\*/1\*\*|2/1\*\*\*/1\*\*|
+|Wallner|1\*\*\*|2/1\*\*\*/1\*\*|2/1\*\*\*/1\*\*|
+|Guerois|0|2\*\*|2\*\*|
+|Huang|0|2\*\*|2\*\*|
+|**Scorer**|**Top-1**|**Top-5**|**Top-10**|
+|Karaca|1\*\*|2/1\*\*\*/1\*\*|2\*\*\*|
+|HDOCK|0|2/1\*\*\*/1\*\*|3/1\*\*\*/1\*\*|
+|Kihara|0|1\*\*\*|2/1\*\*\*/1\*\*|
+
 #### Target T312
 
 Only one predictor and scorer group (the same one) managed to submit
