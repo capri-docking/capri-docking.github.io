@@ -28,7 +28,9 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          # Match the Ruby used locally (Homebrew ruby 3.4.5). Gemfile.lock is
+          # resolved against 3.4, so an older Ruby here cannot install it.
+          ruby-version: '3.4'
           bundler-cache: true
 
       - id: pages
