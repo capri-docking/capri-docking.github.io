@@ -12,19 +12,19 @@ sitemap: false
 */
 
 // Partials
-@import "variables";
-@import "grid";
-@import "mixins";
-@import "normalize";
-@import "site";
-@import "typography";
-@import "pygments";
-@import "coderay";
-@import "elements";
-@import "forms";
-@import "page";
-@import "vendor/font-awesome/font-awesome";
-@import "vendor/magnific-popup/magnific-popup";
+@use "variables";
+@use "grid";
+@use "mixins";
+@use "normalize";
+@use "site";
+@use "typography";
+@use "pygments";
+@use "coderay";
+@use "elements";
+@use "forms";
+@use "page";
+@use "vendor/font-awesome/font-awesome";
+@use "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
 
-@import "people";
+@use "people";

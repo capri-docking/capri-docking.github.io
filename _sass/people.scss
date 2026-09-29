@@ -1,3 +1,5 @@
+@use "variables";
+
 #main {
     article.people{
         width: 80%;
@@ -12,7 +14,7 @@
 
 .mem-position {
     font-size: 0.9em;
-    color: $link-color;
+    color: variables.$link-color;
 }
 
 ul.rig {

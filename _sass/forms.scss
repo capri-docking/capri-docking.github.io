@@ -1,3 +1,8 @@
+@use "mixins";
+@use "variables";
+
+@use "sass:color";
+
 btnform { 
 	margin: 0 0 5px 0;
 	fieldset { 
@@ -11,9 +16,9 @@ btnform {
 		margin-bottom: 5px * 2;
 		*margin-left: -7px; 
 		padding: 0;
-		color: $textcolor;
+		color: variables.$textcolor;
 		border: 0;
-		border-bottom: 1px solid lighten($black, 80);
+		border-bottom: 1px solid color.adjust(variables.$black, $lightness: 80%, $space: hsl);
 		white-space: normal; 
 	}
 	p {
@@ -40,14 +45,14 @@ input,
 button,
 select,
 textarea {
-	font-family: $base-font; 
-	@include box-sizing(border-box); 
+	font-family: variables.$base-font; 
+	@include mixins.box-sizing(border-box); 
 }
 label {
 	display: block;
 	margin-bottom: 10px / 8;
 	font-weight: bold;
-	color: $textcolor;
+	color: variables.$textcolor;
 	cursor: pointer; 
 	input,
 	textarea,
@@ -62,11 +67,11 @@ select {
 	width: 100%;
 	padding: 4px;
 	margin-bottom: 5px / 4;
-	background-color: $white;
-	border: 1px solid lighten($black, 80);
-	color: $textcolor; 
+	background-color: variables.$white;
+	border: 1px solid color.adjust(variables.$black, $lightness: 80%, $space: hsl);
+	color: variables.$textcolor; 
 	&:hover {
-		border-color: lighten($accentcolor, 50); 
+		border-color: color.adjust(variables.$accentcolor, $lightness: 50%, $space: hsl); 
 	}
 }
 .input-mini { 
@@ -85,19 +90,19 @@ input[type="radio"] {
 	*margin-top: 0;
 	line-height: normal;
 	cursor: pointer;
-	@include rounded(0);
+	@include mixins.rounded(0);
 	border: 0 \9; 
 }
 input[type="checkbox"], 
 input[type="radio"] {  
-	@include box-sizing(border-box);
+	@include mixins.box-sizing(border-box);
 	padding: 0; 
 	*width: 13px; 
 	*height: 13px; 
 }
 input[type="image"] {
 	border: 0; 
-	@include box-shadow(none); 
+	@include mixins.box-shadow(none); 
 }
 input[type="file"] {
 	width: auto;
@@ -106,7 +111,7 @@ input[type="file"] {
 	border: initial;
 	background-color: transparent;
 	background-color: initial;
-	@include box-shadow(none); 
+	@include mixins.box-shadow(none); 
 }
 input[type="button"],
 input[type="reset"],
@@ -122,14 +127,14 @@ input[type="file"] {
 }
 select {
 	width : auto;
-	background-color : $white;
+	background-color : variables.$white;
 }
 select[multiple],
 select[size] {
 	height : auto; 
 }
 textarea {
-	@include resize(vertical);
+	@include mixins.resize(vertical);
 	height : auto;
 	overflow : auto; 
 	vertical-align : top; 
@@ -165,13 +170,13 @@ textarea[disabled],
 input[readonly],
 select[readonly],
 textarea[readonly] {
-	@include opacity(.5);
+	@include mixins.opacity(.5);
 	cursor : not-allowed; 
 }
 /* focus and active ============================ */
 input:focus,
 textarea:focus {
-	border-color : $accentcolor;
+	border-color : variables.$accentcolor;
 	outline : 0;
 	outline : thin dotted \9; 
 }
@@ -179,12 +184,12 @@ input[type="file"]:focus,
 input[type="radio"]:focus,
 input[type="checkbox"]:focus,
 select:focus {
-	@include box-shadow(none); 
+	@include mixins.box-shadow(none); 
 }
 /* help text ==================================== */
 .help-block,
 .help-inline {
-	color : lighten($black, 50); 
+	color : color.adjust(variables.$black, $lightness: 50%, $space: hsl); 
 }
 .help-block {
 	display : block; 
@@ -229,7 +234,7 @@ select:focus {
 	padding-left : 14px;
 	padding-right : 14px;
 	margin-bottom : 0; 
-	@include rounded(14px); 
+	@include mixins.rounded(14px); 
 }
 .form-search label {
 	display : inline-block;
