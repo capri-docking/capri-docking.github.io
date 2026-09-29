@@ -9,6 +9,7 @@
 {% endif %}
 <p>{{ author.bio }}</p>
 {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>{% endif %}
+{% if author.bluesky %}<a href="https://bsky.app/profile/{{ author.bluesky }}" class="author-social" target="_blank"><i class="fa fa-bluesky-square"></i> BlueSky</a>{% endif %}
 {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>{% endif %}
 {% if author.facebook %}<a href="https://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>{% endif %}
 {% if author.google.plus %}<a href="https://plus.google.com/+{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-google-plus-square"></i> Google+</a>{% endif %}
