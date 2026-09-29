@@ -1,12 +1,5 @@
 _site
 .sass-cache
-.DS_Store
-Gemfile.lock
-*.sublime-project
-*.sublime-workspace
-*.psd
-codekit-config.json
-node_modules
-_asset_bundler_cache
-images/molecules-raw
-.bundle
+.jekyll-cache
+.jekyll-metadata
+vendor
