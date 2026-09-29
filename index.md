@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Welcome to the CAPRI web site."
 excerpt: "CAPRI: communitywide experiment on the comparative evaluation of protein-protein docking for structure prediction."
 tags: [Jekyll, CAPRI, Docking, Scoring, Complexes, Assemblies, Protein, Structure]
 image:
