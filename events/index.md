@@ -28,4 +28,4 @@ The contributions to the CAPRI evaluation meeting can be found [here](https://wo
 <hr>
 # 7th CAPRI evaluation meeting, EBI Hinxton, UK, 2019
 
-The information about the 7th CAPRI evaluation meeting can be found [here](/news/CAPRI-2019-evaluation-meeting)
+The information about the 7th CAPRI evaluation meeting can be found [here](/news/2019/04/03/CAPRI-2019-evaluation-meeting.html)

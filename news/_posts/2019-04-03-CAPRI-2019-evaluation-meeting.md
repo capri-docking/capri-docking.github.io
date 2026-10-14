@@ -16,7 +16,7 @@ image:
 <hr>
 # About
 
-Get the latest update on the current status of computational procedures for modeling protein-protein interactions and the association of proteins with other macromolecules from this 7th CAPRI evaluation meeting. For more information - <http://www.ebi.ac.uk/msd-srv/capri/>
+Get the latest update on the current status of computational procedures for modeling protein-protein interactions and the association of proteins with other macromolecules from this 7th CAPRI evaluation meeting. For more information - <https://www.ebi.ac.uk/pdbe/complex-pred/capri/>
 
 CAPRI (Critical Assessment of Predicted Interactions) is a community wide experiment designed to test methods for predicting the structure of macromolecular complexes based on the known structure of their components.
 
@@ -216,27 +216,7 @@ CB10 1SD <br>
 United Kingdom
 
 <hr>
-# Registration
-
-Registration for the 7th edition of the CAPRI evaluation meeting in Hinxton is open.
-
-The registration fee for participants is set to £260 which includes:
-
-3 days of scientific sessions including coffee-breaks and lunch on Wednesday, Thursday and Friday <br>
-Ongoing access to the poster area <br>
-Certificate of attendance <br>
-Conference dinner
-
-
-All participants (excluding keynote speakers) are requested to pay the registration fee. Depending on availability of funds, a contribution towards travel and accommodation expenses will be provided to the selected speakers and plenary lecturers. Speakers will be notified by e-mail regarding the reimbursement policy.
-
-Registration fee should be paid no later than **8 March 2019**. 
-
-Accommodation is not included in the registration fee, but we have listed our recommendations for several hotel options in Cambridge. 
-
-Registrations are now closed. 
-
-## Abstract Submission
+# Abstract Submission
 
 Important guidelines for participants
 
@@ -284,23 +264,11 @@ The pick up and drop off points in Cambridge are - Grafton Centre, Cambridge rai
 <hr>
 # Instruct-ERIC Workshop
 
-Registration now open for the Joint Instruct-ERIC/CAPRI Workshop on Integrated Modelling of Protein-Protein Interactions Workshop. The course will run prior to the 7th CAPRI Assessment Meeting, from the 1st - 2nd April 2019 at EMBL-EBI, Hinxton, UK. 
+The Joint Instruct-ERIC/CAPRI Workshop on Integrated Modelling of Protein-Protein Interactions will run prior to the 7th CAPRI Assessment Meeting, from the 1st - 2nd April 2019 at EMBL-EBI, Hinxton, UK. 
 
 The course will consist of six sessions followed by a practical component overseen by the lecturer and an additional tutor. During the computer practicals, participants will learn to use and apply the various software with either their own data/structures, or with examples provided by the instructors.
 
 <img src="/images/capri/instruct-eric-logo-noline.png" alt="drawing" width="150"/> 
-
-
-<hr>
-# Registration
-
-Registration is free for participants from Instruct-ERIC countries and £250 from other countries. Visit the website to find out if you are from a participating Instruct-ERIC country. <https://instruct-eric.eu/countries>
-
-**Note: If you are from an Instruct-ERIC country, please select the option 'I will pay later' at the payment stage to register for free.**
-
-Accommodation is **not** included in the registration fee.
-
-[ **Register Now »** ](https://embl.ungerboeck.com/prod/emc00/register.aspx?OrgCode=20&EvtID=5701&AppCode=REG&CC=119013114773)
 
 
 <hr>
