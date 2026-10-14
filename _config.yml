@@ -4,7 +4,7 @@
 title:            "CAPRI Docking"
 locale:           en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # empty keeps asset paths root-relative, so they work locally and in production
+url: "https://www.capri-docking.org" # no trailing slash: templates append "/..."; `jekyll serve` overrides this with localhost
 
 # RSS Feed configuration
 name: CAPRI
